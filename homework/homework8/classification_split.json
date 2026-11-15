@@ -1,0 +1,6660 @@
+[
+  {
+    "id": "FudanPed00019",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00019.png",
+    "crop": "images/people_crops/FudanPed00019.jpg",
+    "boxes": [
+      [
+        6,
+        134,
+        142,
+        389
+      ],
+      [
+        193,
+        122,
+        339,
+        421
+      ]
+    ],
+    "crop_box": [
+      193,
+      122,
+      339,
+      421
+    ],
+    "width": 497,
+    "height": 442,
+    "sha256": "95b0406612cd4e8ad28200d0f3d00c97bc71b0e90ca03bea1dbc34ec362aa5e7",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00054",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00054.png",
+    "crop": "images/people_crops/PennPed00054.jpg",
+    "boxes": [
+      [
+        42,
+        21,
+        128,
+        317
+      ]
+    ],
+    "crop_box": [
+      42,
+      21,
+      128,
+      317
+    ],
+    "width": 324,
+    "height": 334,
+    "sha256": "b03a8189a12bc13f983853e86a5b547d3ef4d199a3fa6f811245081cc439ab07",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00028",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00028.png",
+    "crop": "images/people_crops/PennPed00028.jpg",
+    "boxes": [
+      [
+        210,
+        49,
+        325,
+        334
+      ]
+    ],
+    "crop_box": [
+      210,
+      49,
+      325,
+      334
+    ],
+    "width": 416,
+    "height": 368,
+    "sha256": "3e782b04ee66983b2ee1e4d0848cf6ef44d7923217515634415345e0b1685520",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00055",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00055.png",
+    "crop": "images/people_crops/FudanPed00055.jpg",
+    "boxes": [
+      [
+        147,
+        177,
+        277,
+        530
+      ]
+    ],
+    "crop_box": [
+      147,
+      177,
+      277,
+      530
+    ],
+    "width": 390,
+    "height": 555,
+    "sha256": "60e5a523651902372f1f3789374a0c555eee1e7eff4430610d03b9da1916a6c2",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00002",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00002.png",
+    "crop": "images/people_crops/PennPed00002.jpg",
+    "boxes": [
+      [
+        8,
+        83,
+        97,
+        304
+      ],
+      [
+        82,
+        44,
+        165,
+        298
+      ],
+      [
+        267,
+        83,
+        370,
+        298
+      ],
+      [
+        362,
+        32,
+        516,
+        335
+      ],
+      [
+        575,
+        74,
+        713,
+        362
+      ],
+      [
+        516,
+        91,
+        608,
+        300
+      ]
+    ],
+    "crop_box": [
+      362,
+      32,
+      516,
+      335
+    ],
+    "width": 745,
+    "height": 378,
+    "sha256": "f592a20cdb786a09d1ee2ba8fcfed7adb80fc9d9ff40069f75400b7dcd94f55c",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "PennPed00065",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00065.png",
+    "crop": "images/people_crops/PennPed00065.jpg",
+    "boxes": [
+      [
+        23,
+        20,
+        139,
+        304
+      ]
+    ],
+    "crop_box": [
+      23,
+      20,
+      139,
+      304
+    ],
+    "width": 324,
+    "height": 318,
+    "sha256": "51bfd97ed3f6286d0d64ae3fc7372aa8873d88c28e6f197930ab006027155dcb",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00086",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00086.png",
+    "crop": "images/people_crops/PennPed00086.jpg",
+    "boxes": [
+      [
+        7,
+        32,
+        109,
+        253
+      ],
+      [
+        207,
+        48,
+        306,
+        318
+      ],
+      [
+        344,
+        31,
+        457,
+        325
+      ],
+      [
+        72,
+        162,
+        180,
+        353
+      ],
+      [
+        112,
+        64,
+        164,
+        197
+      ]
+    ],
+    "crop_box": [
+      344,
+      31,
+      457,
+      325
+    ],
+    "width": 474,
+    "height": 354,
+    "sha256": "17e40a1f137e9ee1e5c577111cebd3d9bc8db270873af83a250bcfda17589e35",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "PennPed00077",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00077.png",
+    "crop": "images/people_crops/PennPed00077.jpg",
+    "boxes": [
+      [
+        64,
+        26,
+        181,
+        317
+      ]
+    ],
+    "crop_box": [
+      64,
+      26,
+      181,
+      317
+    ],
+    "width": 352,
+    "height": 323,
+    "sha256": "a3da377ff6246bf54759e029727681b8496d4d1554212c54a75b76469ded1a12",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "FudanPed00061",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00061.png",
+    "crop": "images/people_crops/FudanPed00061.jpg",
+    "boxes": [
+      [
+        164,
+        69,
+        266,
+        353
+      ],
+      [
+        342,
+        85,
+        429,
+        381
+      ],
+      [
+        405,
+        84,
+        531,
+        387
+      ]
+    ],
+    "crop_box": [
+      405,
+      84,
+      531,
+      387
+    ],
+    "width": 547,
+    "height": 407,
+    "sha256": "2bf5b3ea03d46520f7c789ae0d2cf6da5b131da921ab242e58c7e572e9b5ffbf",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00031",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00031.png",
+    "crop": "images/people_crops/FudanPed00031.jpg",
+    "boxes": [
+      [
+        297,
+        121,
+        444,
+        408
+      ]
+    ],
+    "crop_box": [
+      297,
+      121,
+      444,
+      408
+    ],
+    "width": 569,
+    "height": 430,
+    "sha256": "07895e88c4b37891f1e10581deef07760649ef806b7e50943b85920ba8e6ac05",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00034",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00034.png",
+    "crop": "images/people_crops/FudanPed00034.jpg",
+    "boxes": [
+      [
+        110,
+        36,
+        254,
+        330
+      ]
+    ],
+    "crop_box": [
+      110,
+      36,
+      254,
+      330
+    ],
+    "width": 309,
+    "height": 351,
+    "sha256": "fd3a874d822f03357cd213696f583bf990d50ee7a68463e5118c3b7a9b60d666",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00055",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00055.png",
+    "crop": "images/people_crops/PennPed00055.jpg",
+    "boxes": [
+      [
+        95,
+        50,
+        208,
+        341
+      ],
+      [
+        28,
+        7,
+        122,
+        283
+      ]
+    ],
+    "crop_box": [
+      95,
+      50,
+      208,
+      341
+    ],
+    "width": 417,
+    "height": 353,
+    "sha256": "0551ece0620b8b61d01dc34b35805d1ed211d6a3beb15e22652c4beca392eaae",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "PennPed00020",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00020.png",
+    "crop": "images/people_crops/PennPed00020.jpg",
+    "boxes": [
+      [
+        141,
+        120,
+        264,
+        379
+      ],
+      [
+        386,
+        75,
+        516,
+        365
+      ],
+      [
+        444,
+        76,
+        607,
+        369
+      ]
+    ],
+    "crop_box": [
+      444,
+      76,
+      607,
+      369
+    ],
+    "width": 721,
+    "height": 428,
+    "sha256": "b7f7a5852ab701016f618f855b44634588fb90258186a086d21981a0768b0b26",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00023",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00023.png",
+    "crop": "images/people_crops/PennPed00023.jpg",
+    "boxes": [
+      [
+        106,
+        59,
+        275,
+        363
+      ]
+    ],
+    "crop_box": [
+      106,
+      59,
+      275,
+      363
+    ],
+    "width": 536,
+    "height": 382,
+    "sha256": "03543084adb0b7c14a7d3feef842d164c5e57e7c9cd8968a39f6060310d10bf5",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00003",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00003.png",
+    "crop": "images/people_crops/FudanPed00003.jpg",
+    "boxes": [
+      [
+        292,
+        134,
+        447,
+        421
+      ]
+    ],
+    "crop_box": [
+      292,
+      134,
+      447,
+      421
+    ],
+    "width": 479,
+    "height": 445,
+    "sha256": "b03d3033f65a03c20476479d2ae76cf8d3156550da005e92fb101dcd413ec75f",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00014",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00014.png",
+    "crop": "images/people_crops/FudanPed00014.jpg",
+    "boxes": [
+      [
+        233,
+        85,
+        405,
+        367
+      ]
+    ],
+    "crop_box": [
+      233,
+      85,
+      405,
+      367
+    ],
+    "width": 456,
+    "height": 383,
+    "sha256": "462eff93c4c491fb20e1e01e5949dcc27b93d6421507a6454356578040c73ce6",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00037",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00037.png",
+    "crop": "images/people_crops/FudanPed00037.jpg",
+    "boxes": [
+      [
+        258,
+        62,
+        415,
+        349
+      ],
+      [
+        189,
+        97,
+        209,
+        170
+      ]
+    ],
+    "crop_box": [
+      258,
+      62,
+      415,
+      349
+    ],
+    "width": 423,
+    "height": 361,
+    "sha256": "25b65868cf25c4279bcf9550567023f4a44cd349930ddc119fdd3f83f2ed3d0c",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00087",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00087.png",
+    "crop": "images/people_crops/PennPed00087.jpg",
+    "boxes": [
+      [
+        22,
+        15,
+        148,
+        322
+      ]
+    ],
+    "crop_box": [
+      22,
+      15,
+      148,
+      322
+    ],
+    "width": 325,
+    "height": 343,
+    "sha256": "6a9c5effaef71340335c2aa16bc0af5424e93e845714236b4351202bcbfc2cd0",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00053",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00053.png",
+    "crop": "images/people_crops/FudanPed00053.jpg",
+    "boxes": [
+      [
+        93,
+        168,
+        195,
+        432
+      ],
+      [
+        388,
+        149,
+        499,
+        453
+      ]
+    ],
+    "crop_box": [
+      388,
+      149,
+      499,
+      453
+    ],
+    "width": 541,
+    "height": 580,
+    "sha256": "d13b3932c3fad5cd25385e881fb1a119cb269dde8a3e8693f47482ca26f6337b",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00070",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00070.png",
+    "crop": "images/people_crops/FudanPed00070.jpg",
+    "boxes": [
+      [
+        287,
+        69,
+        370,
+        364
+      ]
+    ],
+    "crop_box": [
+      287,
+      69,
+      370,
+      364
+    ],
+    "width": 390,
+    "height": 382,
+    "sha256": "809c783d024a72ae376aac182f4725c53be69141753eac6913040daf42b97e17",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00019",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00019.png",
+    "crop": "images/people_crops/PennPed00019.jpg",
+    "boxes": [
+      [
+        16,
+        77,
+        106,
+        356
+      ],
+      [
+        159,
+        69,
+        249,
+        361
+      ],
+      [
+        314,
+        59,
+        389,
+        364
+      ],
+      [
+        367,
+        46,
+        473,
+        370
+      ],
+      [
+        463,
+        74,
+        539,
+        362
+      ],
+      [
+        524,
+        79,
+        636,
+        375
+      ],
+      [
+        599,
+        77,
+        704,
+        375
+      ]
+    ],
+    "crop_box": [
+      367,
+      46,
+      473,
+      370
+    ],
+    "width": 734,
+    "height": 404,
+    "sha256": "8f9c7e9ce94bd961e2bfa5e93543ad72cedff776f575bea6198681fa1de27d32",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00066",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00066.png",
+    "crop": "images/people_crops/FudanPed00066.jpg",
+    "boxes": [
+      [
+        247,
+        49,
+        329,
+        351
+      ]
+    ],
+    "crop_box": [
+      247,
+      49,
+      329,
+      351
+    ],
+    "width": 360,
+    "height": 359,
+    "sha256": "f967300ad1b6f62ae29d1dc5779b8f089ba36744435d1092c7bac71e6808fc1e",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00039",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00039.png",
+    "crop": "images/people_crops/FudanPed00039.jpg",
+    "boxes": [
+      [
+        136,
+        136,
+        199,
+        311
+      ],
+      [
+        230,
+        129,
+        331,
+        410
+      ]
+    ],
+    "crop_box": [
+      230,
+      129,
+      331,
+      410
+    ],
+    "width": 493,
+    "height": 487,
+    "sha256": "7eeae79042f8f00c22658834e0d177eb0c9dd5ea1019cbde3dd4c5083786cb59",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "FudanPed00045",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00045.png",
+    "crop": "images/people_crops/FudanPed00045.jpg",
+    "boxes": [
+      [
+        197,
+        197,
+        294,
+        481
+      ],
+      [
+        318,
+        200,
+        403,
+        499
+      ],
+      [
+        394,
+        211,
+        469,
+        495
+      ]
+    ],
+    "crop_box": [
+      197,
+      197,
+      294,
+      481
+    ],
+    "width": 487,
+    "height": 538,
+    "sha256": "932e97b8d33e3c58c604b850fcb6a9a68fd6998ec92d1dd1a268edac76d6d86c",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00010",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00010.png",
+    "crop": "images/people_crops/PennPed00010.jpg",
+    "boxes": [
+      [
+        17,
+        58,
+        103,
+        340
+      ],
+      [
+        185,
+        55,
+        262,
+        337
+      ],
+      [
+        308,
+        140,
+        436,
+        493
+      ],
+      [
+        474,
+        75,
+        618,
+        451
+      ],
+      [
+        391,
+        57,
+        485,
+        421
+      ],
+      [
+        562,
+        35,
+        681,
+        394
+      ]
+    ],
+    "crop_box": [
+      474,
+      75,
+      618,
+      451
+    ],
+    "width": 750,
+    "height": 495,
+    "sha256": "1269fc6c4ebd9ad51953de3e6a1a3c3f8735138d3c5b4e29598b0357a5d3e688",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00001",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00001.png",
+    "crop": "images/people_crops/FudanPed00001.jpg",
+    "boxes": [
+      [
+        159,
+        181,
+        302,
+        431
+      ],
+      [
+        419,
+        170,
+        535,
+        486
+      ]
+    ],
+    "crop_box": [
+      419,
+      170,
+      535,
+      486
+    ],
+    "width": 559,
+    "height": 536,
+    "sha256": "130e9f9121b88ab69105f1685ce17625e97d0ef590adb9b9f076f62fc08b3343",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00018",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00018.png",
+    "crop": "images/people_crops/FudanPed00018.jpg",
+    "boxes": [
+      [
+        19,
+        18,
+        126,
+        304
+      ]
+    ],
+    "crop_box": [
+      19,
+      18,
+      126,
+      304
+    ],
+    "width": 253,
+    "height": 323,
+    "sha256": "503db5cbf8a4d2f68e7a191656320163a74b0d0a7e7a0de0bc7645c7330379e6",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00043",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00043.png",
+    "crop": "images/people_crops/FudanPed00043.jpg",
+    "boxes": [
+      [
+        63,
+        138,
+        147,
+        426
+      ],
+      [
+        155,
+        138,
+        248,
+        435
+      ],
+      [
+        260,
+        127,
+        358,
+        431
+      ]
+    ],
+    "crop_box": [
+      260,
+      127,
+      358,
+      431
+    ],
+    "width": 493,
+    "height": 518,
+    "sha256": "af2dfd6ca0e27005d25d563b27b9a44229b7da7be1be2c766b22eb7c016ddd59",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "PennPed00076",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00076.png",
+    "crop": "images/people_crops/PennPed00076.jpg",
+    "boxes": [
+      [
+        186,
+        28,
+        320,
+        319
+      ]
+    ],
+    "crop_box": [
+      186,
+      28,
+      320,
+      319
+    ],
+    "width": 342,
+    "height": 348,
+    "sha256": "666acede5167c5fd2b143aeaf7194f06da2be2dfa0e4e107faa3f720b0a98396",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00044",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00044.png",
+    "crop": "images/people_crops/FudanPed00044.jpg",
+    "boxes": [
+      [
+        245,
+        169,
+        340,
+        462
+      ],
+      [
+        336,
+        174,
+        426,
+        464
+      ],
+      [
+        36,
+        128,
+        181,
+        492
+      ],
+      [
+        435,
+        156,
+        501,
+        402
+      ]
+    ],
+    "crop_box": [
+      36,
+      128,
+      181,
+      492
+    ],
+    "width": 521,
+    "height": 494,
+    "sha256": "2037dca40073cecf99494127133a7beefbc29f54c97f02b876bc2fffabc6ce8f",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00020",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00020.png",
+    "crop": "images/people_crops/FudanPed00020.jpg",
+    "boxes": [
+      [
+        338,
+        98,
+        508,
+        381
+      ]
+    ],
+    "crop_box": [
+      338,
+      98,
+      508,
+      381
+    ],
+    "width": 555,
+    "height": 417,
+    "sha256": "bc12e150a972308d87356e57f5e0aea246b18c4dd99826a581729a5e8686b6a2",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00043",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00043.png",
+    "crop": "images/people_crops/PennPed00043.jpg",
+    "boxes": [
+      [
+        188,
+        46,
+        297,
+        334
+      ],
+      [
+        331,
+        62,
+        434,
+        328
+      ],
+      [
+        141,
+        77,
+        199,
+        254
+      ],
+      [
+        281,
+        77,
+        328,
+        253
+      ],
+      [
+        429,
+        72,
+        456,
+        154
+      ]
+    ],
+    "crop_box": [
+      188,
+      46,
+      297,
+      334
+    ],
+    "width": 480,
+    "height": 356,
+    "sha256": "4cefcab118e2f17ad5391b6ec65ad9939fa346fec78566b2b0d12c944d83283c",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00038",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00038.png",
+    "crop": "images/people_crops/PennPed00038.jpg",
+    "boxes": [
+      [
+        231,
+        38,
+        368,
+        316
+      ]
+    ],
+    "crop_box": [
+      231,
+      38,
+      368,
+      316
+    ],
+    "width": 436,
+    "height": 353,
+    "sha256": "0805e5a01ec02d777190e5c0924d1a78a3d619eb7b9f9a2f47abbf8f858bcc42",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "PennPed00003",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00003.png",
+    "crop": "images/people_crops/PennPed00003.jpg",
+    "boxes": [
+      [
+        7,
+        32,
+        174,
+        365
+      ],
+      [
+        451,
+        63,
+        531,
+        353
+      ],
+      [
+        530,
+        90,
+        661,
+        381
+      ]
+    ],
+    "crop_box": [
+      7,
+      32,
+      174,
+      365
+    ],
+    "width": 670,
+    "height": 418,
+    "sha256": "4e4043c81ffc66afa3c18745af39c29fff5237c3c635bc4e84d912ce7918dcbb",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "FudanPed00050",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00050.png",
+    "crop": "images/people_crops/FudanPed00050.jpg",
+    "boxes": [
+      [
+        32,
+        202,
+        135,
+        484
+      ],
+      [
+        290,
+        204,
+        369,
+        412
+      ]
+    ],
+    "crop_box": [
+      32,
+      202,
+      135,
+      484
+    ],
+    "width": 580,
+    "height": 516,
+    "sha256": "b90c782e296230b266965aab2ef22d4557c4463b96400c4341f459cc2207ca21",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "PennPed00030",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00030.png",
+    "crop": "images/people_crops/PennPed00030.jpg",
+    "boxes": [
+      [
+        138,
+        36,
+        253,
+        339
+      ],
+      [
+        2,
+        36,
+        95,
+        342
+      ],
+      [
+        315,
+        42,
+        448,
+        339
+      ]
+    ],
+    "crop_box": [
+      315,
+      42,
+      448,
+      339
+    ],
+    "width": 479,
+    "height": 354,
+    "sha256": "db74f21928363ebe24e4a527da6f915f0e7eab59383802d5b18f6c39fbdd8a66",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00091",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00091.png",
+    "crop": "images/people_crops/PennPed00091.jpg",
+    "boxes": [
+      [
+        211,
+        25,
+        336,
+        321
+      ]
+    ],
+    "crop_box": [
+      211,
+      25,
+      336,
+      321
+    ],
+    "width": 372,
+    "height": 324,
+    "sha256": "960c780e4f43ce92f18b5ac741aee582bf949cd63e3142b6955a5464e49f794a",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "PennPed00039",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00039.png",
+    "crop": "images/people_crops/PennPed00039.jpg",
+    "boxes": [
+      [
+        325,
+        72,
+        411,
+        360
+      ]
+    ],
+    "crop_box": [
+      325,
+      72,
+      411,
+      360
+    ],
+    "width": 495,
+    "height": 373,
+    "sha256": "87daf6faa2c8d4aa76be2aedfc4fad9b1dd3f0edc9085115545f1f8251e4cb6a",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00004",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00004.png",
+    "crop": "images/people_crops/FudanPed00004.jpg",
+    "boxes": [
+      [
+        167,
+        59,
+        324,
+        338
+      ],
+      [
+        8,
+        60,
+        48,
+        180
+      ]
+    ],
+    "crop_box": [
+      167,
+      59,
+      324,
+      338
+    ],
+    "width": 396,
+    "height": 397,
+    "sha256": "6fe1dd2796d013a02c7ca19d4907b6463015769ff9b43ba5641ab924dbbd53eb",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00068",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00068.png",
+    "crop": "images/people_crops/PennPed00068.jpg",
+    "boxes": [
+      [
+        42,
+        88,
+        153,
+        364
+      ],
+      [
+        188,
+        55,
+        283,
+        349
+      ],
+      [
+        430,
+        36,
+        568,
+        349
+      ],
+      [
+        383,
+        46,
+        455,
+        223
+      ]
+    ],
+    "crop_box": [
+      430,
+      36,
+      568,
+      349
+    ],
+    "width": 603,
+    "height": 387,
+    "sha256": "b014e256a71271a51f8ae14cdad1c6aa07f19163e415789edb22838c05fcbaa7",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00074",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00074.png",
+    "crop": "images/people_crops/PennPed00074.jpg",
+    "boxes": [
+      [
+        259,
+        30,
+        422,
+        317
+      ],
+      [
+        197,
+        22,
+        283,
+        303
+      ],
+      [
+        116,
+        47,
+        223,
+        295
+      ]
+    ],
+    "crop_box": [
+      259,
+      30,
+      422,
+      317
+    ],
+    "width": 442,
+    "height": 332,
+    "sha256": "f808c322abdcf6689739eae3569fd50b175104156b459f178869071058bc53a7",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "FudanPed00033",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00033.png",
+    "crop": "images/people_crops/FudanPed00033.jpg",
+    "boxes": [
+      [
+        164,
+        52,
+        304,
+        346
+      ]
+    ],
+    "crop_box": [
+      164,
+      52,
+      304,
+      346
+    ],
+    "width": 396,
+    "height": 357,
+    "sha256": "3257fc93e746e2258ff273e4110c3ab0ce1f5867f472a69acf536f585f9f4509",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00064",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00064.png",
+    "crop": "images/people_crops/PennPed00064.jpg",
+    "boxes": [
+      [
+        225,
+        28,
+        334,
+        314
+      ]
+    ],
+    "crop_box": [
+      225,
+      28,
+      334,
+      314
+    ],
+    "width": 370,
+    "height": 322,
+    "sha256": "4dfb95e5d231c6c9ccd16b94eebbe1d3de80d0c89d3c07f935ef3b49174f9d6a",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00015",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00015.png",
+    "crop": "images/people_crops/FudanPed00015.jpg",
+    "boxes": [
+      [
+        18,
+        42,
+        174,
+        327
+      ]
+    ],
+    "crop_box": [
+      18,
+      42,
+      174,
+      327
+    ],
+    "width": 336,
+    "height": 349,
+    "sha256": "4cc05505e799e564dbf025cccbeb36698ac959d9f743bb383574e76f1c0d0619",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "PennPed00061",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00061.png",
+    "crop": "images/people_crops/PennPed00061.jpg",
+    "boxes": [
+      [
+        33,
+        16,
+        143,
+        307
+      ],
+      [
+        249,
+        56,
+        275,
+        146
+      ]
+    ],
+    "crop_box": [
+      33,
+      16,
+      143,
+      307
+    ],
+    "width": 314,
+    "height": 320,
+    "sha256": "20b064554baedefdd2ccdf058047df35b432013adc2e4c89f6374dc12ae3796f",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00092",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00092.png",
+    "crop": "images/people_crops/PennPed00092.jpg",
+    "boxes": [
+      [
+        105,
+        75,
+        311,
+        434
+      ],
+      [
+        287,
+        93,
+        464,
+        390
+      ]
+    ],
+    "crop_box": [
+      105,
+      75,
+      311,
+      434
+    ],
+    "width": 600,
+    "height": 447,
+    "sha256": "ffa7730b89a87a352e616af579c1cdf06035a8d003e8c1a739760e63cb9905fa",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00005",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00005.png",
+    "crop": "images/people_crops/PennPed00005.jpg",
+    "boxes": [
+      [
+        67,
+        129,
+        159,
+        405
+      ],
+      [
+        164,
+        153,
+        252,
+        410
+      ],
+      [
+        262,
+        143,
+        415,
+        439
+      ],
+      [
+        539,
+        168,
+        666,
+        440
+      ],
+      [
+        601,
+        155,
+        701,
+        396
+      ]
+    ],
+    "crop_box": [
+      262,
+      143,
+      415,
+      439
+    ],
+    "width": 767,
+    "height": 454,
+    "sha256": "aef0bab472bac61c91e11afbfe264f950e1b7b495c031be80b61d32eb477008b",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00065",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00065.png",
+    "crop": "images/people_crops/FudanPed00065.jpg",
+    "boxes": [
+      [
+        28,
+        68,
+        147,
+        382
+      ],
+      [
+        146,
+        83,
+        242,
+        385
+      ],
+      [
+        233,
+        69,
+        311,
+        393
+      ],
+      [
+        341,
+        87,
+        430,
+        351
+      ],
+      [
+        12,
+        57,
+        64,
+        183
+      ]
+    ],
+    "crop_box": [
+      28,
+      68,
+      147,
+      382
+    ],
+    "width": 504,
+    "height": 411,
+    "sha256": "8b5c5678f49a6bfba25bf0c34c055fb6d063b91410dac1f50da9f99da0c41ed4",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "PennPed00031",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00031.png",
+    "crop": "images/people_crops/PennPed00031.jpg",
+    "boxes": [
+      [
+        243,
+        41,
+        390,
+        329
+      ]
+    ],
+    "crop_box": [
+      243,
+      41,
+      390,
+      329
+    ],
+    "width": 487,
+    "height": 340,
+    "sha256": "9aed5638ae8ecebee8f2a6919a3c8f5b5f9975b9bf0c6f09550d08adc9e064b1",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00054",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00054.png",
+    "crop": "images/people_crops/FudanPed00054.jpg",
+    "boxes": [
+      [
+        96,
+        134,
+        182,
+        418
+      ],
+      [
+        286,
+        113,
+        358,
+        332
+      ],
+      [
+        363,
+        120,
+        437,
+        329
+      ]
+    ],
+    "crop_box": [
+      96,
+      134,
+      182,
+      418
+    ],
+    "width": 533,
+    "height": 498,
+    "sha256": "15e193741fa3e38f197f97cdddc8efe0762620c19bb696731f829a7ce25c50fa",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00062",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00062.png",
+    "crop": "images/people_crops/FudanPed00062.jpg",
+    "boxes": [
+      [
+        174,
+        24,
+        255,
+        321
+      ],
+      [
+        290,
+        33,
+        377,
+        330
+      ]
+    ],
+    "crop_box": [
+      290,
+      33,
+      377,
+      330
+    ],
+    "width": 414,
+    "height": 341,
+    "sha256": "afbff4b1411263f3df756bd3ad938d415c865dad7b683e789960206031d0114c",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00057",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00057.png",
+    "crop": "images/people_crops/PennPed00057.jpg",
+    "boxes": [
+      [
+        157,
+        63,
+        261,
+        352
+      ],
+      [
+        197,
+        17,
+        266,
+        294
+      ]
+    ],
+    "crop_box": [
+      157,
+      63,
+      261,
+      352
+    ],
+    "width": 371,
+    "height": 364,
+    "sha256": "7fa9f32b67b00a9e03bf1c50bb98a53deaf567294713053c355aed36f70a8dd4",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00026",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00026.png",
+    "crop": "images/people_crops/PennPed00026.jpg",
+    "boxes": [
+      [
+        302,
+        93,
+        447,
+        382
+      ],
+      [
+        199,
+        119,
+        291,
+        373
+      ]
+    ],
+    "crop_box": [
+      302,
+      93,
+      447,
+      382
+    ],
+    "width": 530,
+    "height": 410,
+    "sha256": "d249c2e810a868aada1316d700788aa4394425fd5f11fb8fcef0f816c40bdea1",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00021",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00021.png",
+    "crop": "images/people_crops/PennPed00021.jpg",
+    "boxes": [
+      [
+        67,
+        117,
+        218,
+        407
+      ],
+      [
+        463,
+        80,
+        586,
+        382
+      ],
+      [
+        558,
+        110,
+        681,
+        381
+      ]
+    ],
+    "crop_box": [
+      67,
+      117,
+      218,
+      407
+    ],
+    "width": 712,
+    "height": 436,
+    "sha256": "b2f9df0c5a67504ed9bed82191f76cfd349ad2dfc5510e2616e6ba181dde36b2",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00052",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00052.png",
+    "crop": "images/people_crops/PennPed00052.jpg",
+    "boxes": [
+      [
+        76,
+        136,
+        175,
+        428
+      ],
+      [
+        168,
+        180,
+        294,
+        491
+      ],
+      [
+        402,
+        156,
+        494,
+        400
+      ],
+      [
+        523,
+        82,
+        613,
+        393
+      ],
+      [
+        278,
+        178,
+        334,
+        314
+      ]
+    ],
+    "crop_box": [
+      168,
+      180,
+      294,
+      491
+    ],
+    "width": 682,
+    "height": 525,
+    "sha256": "013d6f5301dba88f4d9d678a9b46237458f96476fbe42f682d0b01d2c4ec9eaa",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00079",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00079.png",
+    "crop": "images/people_crops/PennPed00079.jpg",
+    "boxes": [
+      [
+        205,
+        24,
+        324,
+        320
+      ]
+    ],
+    "crop_box": [
+      205,
+      24,
+      324,
+      320
+    ],
+    "width": 357,
+    "height": 337,
+    "sha256": "9660daa8c7dcb816fd8e61db347ca14f4a70f4cc34f5e8e07cc38ae539a9ea1b",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00017",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00017.png",
+    "crop": "images/people_crops/FudanPed00017.jpg",
+    "boxes": [
+      [
+        114,
+        47,
+        244,
+        332
+      ]
+    ],
+    "crop_box": [
+      114,
+      47,
+      244,
+      332
+    ],
+    "width": 266,
+    "height": 342,
+    "sha256": "dbd67282eb910f4b5ef412e1a8255fc83cf40044ea0d4dff7c12c09c231eeb66",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00063",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00063.png",
+    "crop": "images/people_crops/PennPed00063.jpg",
+    "boxes": [
+      [
+        87,
+        49,
+        262,
+        339
+      ]
+    ],
+    "crop_box": [
+      87,
+      49,
+      262,
+      339
+    ],
+    "width": 427,
+    "height": 350,
+    "sha256": "f98c75b5d6016c37f9c0ba0be1391dec96535fc909525902c95d3dd5d97dbc78",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00073",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00073.png",
+    "crop": "images/people_crops/FudanPed00073.jpg",
+    "boxes": [
+      [
+        55,
+        65,
+        159,
+        360
+      ],
+      [
+        192,
+        58,
+        289,
+        352
+      ]
+    ],
+    "crop_box": [
+      55,
+      65,
+      159,
+      360
+    ],
+    "width": 516,
+    "height": 392,
+    "sha256": "dcce270c15ff5f3aabbe30cd15bb71c5c794494ad56fbf49be88045d6b284657",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00001",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00001.png",
+    "crop": "images/people_crops/PennPed00001.jpg",
+    "boxes": [
+      [
+        82,
+        65,
+        197,
+        353
+      ],
+      [
+        264,
+        74,
+        355,
+        338
+      ],
+      [
+        402,
+        37,
+        501,
+        348
+      ],
+      [
+        513,
+        64,
+        610,
+        318
+      ],
+      [
+        205,
+        24,
+        266,
+        196
+      ]
+    ],
+    "crop_box": [
+      82,
+      65,
+      197,
+      353
+    ],
+    "width": 612,
+    "height": 406,
+    "sha256": "c90af45f1e29ad3b4dcab13551ed7d26f5bc7e35f12907f79469ac6714e9da94",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00032",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00032.png",
+    "crop": "images/people_crops/PennPed00032.jpg",
+    "boxes": [
+      [
+        97,
+        49,
+        203,
+        329
+      ]
+    ],
+    "crop_box": [
+      97,
+      49,
+      203,
+      329
+    ],
+    "width": 374,
+    "height": 344,
+    "sha256": "43373527ea5a5c54ebff583e48f4469bb5a96f772809b9f871a7f8404df633c0",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00073",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00073.png",
+    "crop": "images/people_crops/PennPed00073.jpg",
+    "boxes": [
+      [
+        97,
+        37,
+        191,
+        326
+      ],
+      [
+        181,
+        45,
+        277,
+        340
+      ],
+      [
+        315,
+        50,
+        413,
+        331
+      ]
+    ],
+    "crop_box": [
+      181,
+      45,
+      277,
+      340
+    ],
+    "width": 579,
+    "height": 364,
+    "sha256": "d594713b8c8d17d69574b454a9e0172cf5735c40375c75f1207ea9254162b184",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "FudanPed00026",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00026.png",
+    "crop": "images/people_crops/FudanPed00026.jpg",
+    "boxes": [
+      [
+        43,
+        77,
+        150,
+        389
+      ],
+      [
+        184,
+        88,
+        279,
+        373
+      ]
+    ],
+    "crop_box": [
+      43,
+      77,
+      150,
+      389
+    ],
+    "width": 440,
+    "height": 427,
+    "sha256": "7a108cfe65ba5c2c89ea0400095685811854d78c618a39cd6298d183666c8780",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00064",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00064.png",
+    "crop": "images/people_crops/FudanPed00064.jpg",
+    "boxes": [
+      [
+        140,
+        97,
+        240,
+        387
+      ],
+      [
+        316,
+        100,
+        400,
+        395
+      ],
+      [
+        399,
+        111,
+        517,
+        407
+      ]
+    ],
+    "crop_box": [
+      399,
+      111,
+      517,
+      407
+    ],
+    "width": 546,
+    "height": 420,
+    "sha256": "b0c82705386da139d8de4a67f0c20d7d59bc0f8d6d8cea052db3b791b8399c07",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00067",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00067.png",
+    "crop": "images/people_crops/FudanPed00067.jpg",
+    "boxes": [
+      [
+        61,
+        78,
+        184,
+        375
+      ]
+    ],
+    "crop_box": [
+      61,
+      78,
+      184,
+      375
+    ],
+    "width": 453,
+    "height": 416,
+    "sha256": "1763f4b22c509622b254bd6af3203e78b92e8dee2573e1dff3afc8d7dcd28e16",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00047",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00047.png",
+    "crop": "images/people_crops/PennPed00047.jpg",
+    "boxes": [
+      [
+        115,
+        56,
+        253,
+        336
+      ],
+      [
+        245,
+        32,
+        381,
+        320
+      ],
+      [
+        361,
+        41,
+        427,
+        194
+      ]
+    ],
+    "crop_box": [
+      245,
+      32,
+      381,
+      320
+    ],
+    "width": 500,
+    "height": 346,
+    "sha256": "8a9d95ccdbd17346683f0eedf325f7b71277251ef31601fffc95d073624a220f",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00028",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00028.png",
+    "crop": "images/people_crops/FudanPed00028.jpg",
+    "boxes": [
+      [
+        6,
+        15,
+        149,
+        303
+      ],
+      [
+        185,
+        17,
+        316,
+        321
+      ]
+    ],
+    "crop_box": [
+      6,
+      15,
+      149,
+      303
+    ],
+    "width": 317,
+    "height": 345,
+    "sha256": "1ec63cb8a132e1a309aee66763940a15c556f91a1fd32a72e4c7ec5b7de009a3",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00036",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00036.png",
+    "crop": "images/people_crops/PennPed00036.jpg",
+    "boxes": [
+      [
+        55,
+        61,
+        164,
+        330
+      ],
+      [
+        513,
+        33,
+        636,
+        328
+      ]
+    ],
+    "crop_box": [
+      513,
+      33,
+      636,
+      328
+    ],
+    "width": 694,
+    "height": 370,
+    "sha256": "a12b365a9cbd818ec307873a5bfa044f4d667cda6248706ae420d6353ab8147b",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00058",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00058.png",
+    "crop": "images/people_crops/PennPed00058.jpg",
+    "boxes": [
+      [
+        166,
+        26,
+        245,
+        316
+      ],
+      [
+        227,
+        30,
+        307,
+        291
+      ],
+      [
+        321,
+        65,
+        452,
+        351
+      ],
+      [
+        294,
+        21,
+        374,
+        274
+      ]
+    ],
+    "crop_box": [
+      321,
+      65,
+      452,
+      351
+    ],
+    "width": 509,
+    "height": 380,
+    "sha256": "02acf9b54c5721283950f204446dd3030967ab48c3c826deeceb45e224e1e60f",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00052",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00052.png",
+    "crop": "images/people_crops/FudanPed00052.jpg",
+    "boxes": [
+      [
+        205,
+        188,
+        308,
+        492
+      ]
+    ],
+    "crop_box": [
+      205,
+      188,
+      308,
+      492
+    ],
+    "width": 461,
+    "height": 504,
+    "sha256": "afe9b8fc9bf30d6dad10103565c1d899b36bc42d000bfa5206d9d0d17f5079dd",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00069",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00069.png",
+    "crop": "images/people_crops/PennPed00069.jpg",
+    "boxes": [
+      [
+        58,
+        43,
+        149,
+        330
+      ],
+      [
+        168,
+        39,
+        269,
+        310
+      ]
+    ],
+    "crop_box": [
+      168,
+      39,
+      269,
+      310
+    ],
+    "width": 388,
+    "height": 345,
+    "sha256": "b6577317e926129d8f5c2e0f0cabecd34289f85c0a6c28ff2abd4bacf170acc9",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00005",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00005.png",
+    "crop": "images/people_crops/FudanPed00005.jpg",
+    "boxes": [
+      [
+        187,
+        58,
+        320,
+        336
+      ],
+      [
+        1,
+        52,
+        40,
+        158
+      ]
+    ],
+    "crop_box": [
+      187,
+      58,
+      320,
+      336
+    ],
+    "width": 335,
+    "height": 344,
+    "sha256": "4de7a665b06b680c715c2d6941611bb372ac0c33d98a09ac1673cbe6af1a66f7",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "PennPed00029",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00029.png",
+    "crop": "images/people_crops/PennPed00029.jpg",
+    "boxes": [
+      [
+        113,
+        64,
+        214,
+        370
+      ],
+      [
+        273,
+        97,
+        339,
+        391
+      ],
+      [
+        362,
+        101,
+        466,
+        388
+      ],
+      [
+        508,
+        102,
+        585,
+        392
+      ]
+    ],
+    "crop_box": [
+      113,
+      64,
+      214,
+      370
+    ],
+    "width": 672,
+    "height": 418,
+    "sha256": "1de4928a9f5b8ea02ff7c540e28b715a3aef2b9f347ce7ec444fa4f9f5e3a388",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "PennPed00083",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00083.png",
+    "crop": "images/people_crops/PennPed00083.jpg",
+    "boxes": [
+      [
+        107,
+        31,
+        249,
+        327
+      ],
+      [
+        37,
+        21,
+        124,
+        299
+      ]
+    ],
+    "crop_box": [
+      107,
+      31,
+      249,
+      327
+    ],
+    "width": 371,
+    "height": 341,
+    "sha256": "2cd01d7951082b3786a98e5002b89f53af0c3042e9434107a9bb9eba5d801fe6",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00042",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00042.png",
+    "crop": "images/people_crops/FudanPed00042.jpg",
+    "boxes": [
+      [
+        158,
+        185,
+        250,
+        470
+      ],
+      [
+        287,
+        155,
+        392,
+        449
+      ]
+    ],
+    "crop_box": [
+      287,
+      155,
+      392,
+      449
+    ],
+    "width": 588,
+    "height": 547,
+    "sha256": "257169d70d4b46d3ecc64bdc7287af287ed43bdeec48e1ae95e17506e63548bb",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00095",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00095.png",
+    "crop": "images/people_crops/PennPed00095.jpg",
+    "boxes": [
+      [
+        192,
+        49,
+        300,
+        337
+      ],
+      [
+        319,
+        54,
+        432,
+        335
+      ]
+    ],
+    "crop_box": [
+      319,
+      54,
+      432,
+      335
+    ],
+    "width": 512,
+    "height": 375,
+    "sha256": "a61e2030a7f644689b0508d64f112fb254141e986169b8322bab9954d71bcbf7",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00075",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00075.png",
+    "crop": "images/people_crops/PennPed00075.jpg",
+    "boxes": [
+      [
+        193,
+        22,
+        335,
+        308
+      ]
+    ],
+    "crop_box": [
+      193,
+      22,
+      335,
+      308
+    ],
+    "width": 368,
+    "height": 322,
+    "sha256": "3b06ac8106fd832fb473e98f06033e80dce34b298a2dd31890b2cece5429b318",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00072",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00072.png",
+    "crop": "images/people_crops/PennPed00072.jpg",
+    "boxes": [
+      [
+        133,
+        24,
+        254,
+        337
+      ],
+      [
+        279,
+        51,
+        431,
+        330
+      ]
+    ],
+    "crop_box": [
+      279,
+      51,
+      431,
+      330
+    ],
+    "width": 473,
+    "height": 348,
+    "sha256": "4839f8ddd782becdddb4f778d018211392cfbe3c588a0d98e322d639be767f98",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00027",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00027.png",
+    "crop": "images/people_crops/PennPed00027.jpg",
+    "boxes": [
+      [
+        125,
+        92,
+        212,
+        363
+      ],
+      [
+        203,
+        80,
+        322,
+        367
+      ],
+      [
+        346,
+        88,
+        463,
+        342
+      ]
+    ],
+    "crop_box": [
+      203,
+      80,
+      322,
+      367
+    ],
+    "width": 492,
+    "height": 391,
+    "sha256": "24ff119f34cdee0759782417cc2ef0d65fb194d4bc36f424bb9e6d73b94243ac",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00080",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00080.png",
+    "crop": "images/people_crops/PennPed00080.jpg",
+    "boxes": [
+      [
+        71,
+        46,
+        175,
+        339
+      ],
+      [
+        197,
+        42,
+        314,
+        339
+      ],
+      [
+        319,
+        43,
+        422,
+        332
+      ]
+    ],
+    "crop_box": [
+      197,
+      42,
+      314,
+      339
+    ],
+    "width": 435,
+    "height": 361,
+    "sha256": "e42c0af77ed57ad7da64bede5a7e821e81cdea523c77e60cf1a9ecf0db5900f9",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00022",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00022.png",
+    "crop": "images/people_crops/PennPed00022.jpg",
+    "boxes": [
+      [
+        29,
+        117,
+        167,
+        413
+      ],
+      [
+        119,
+        148,
+        257,
+        413
+      ],
+      [
+        215,
+        151,
+        354,
+        416
+      ],
+      [
+        704,
+        128,
+        839,
+        390
+      ],
+      [
+        344,
+        161,
+        424,
+        342
+      ]
+    ],
+    "crop_box": [
+      29,
+      117,
+      167,
+      413
+    ],
+    "width": 925,
+    "height": 486,
+    "sha256": "23897c9466e2a7b13206aeb0e188fd972b3cee624c4c90dce472f1c46af1c996",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "FudanPed00032",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00032.png",
+    "crop": "images/people_crops/FudanPed00032.jpg",
+    "boxes": [
+      [
+        455,
+        161,
+        573,
+        453
+      ]
+    ],
+    "crop_box": [
+      455,
+      161,
+      573,
+      453
+    ],
+    "width": 608,
+    "height": 474,
+    "sha256": "ba975b6872be7e71a450a23551d214e851fe6c2a67174a852225e0f64c07c6d9",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00053",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00053.png",
+    "crop": "images/people_crops/PennPed00053.jpg",
+    "boxes": [
+      [
+        14,
+        28,
+        124,
+        325
+      ],
+      [
+        168,
+        26,
+        266,
+        329
+      ]
+    ],
+    "crop_box": [
+      14,
+      28,
+      124,
+      325
+    ],
+    "width": 377,
+    "height": 344,
+    "sha256": "74c46329449d376e1afc11aac5b58d282e356822c6229cdf51208069686c9d03",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00022",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00022.png",
+    "crop": "images/people_crops/FudanPed00022.jpg",
+    "boxes": [
+      [
+        111,
+        168,
+        209,
+        449
+      ],
+      [
+        396,
+        170,
+        514,
+        455
+      ]
+    ],
+    "crop_box": [
+      396,
+      170,
+      514,
+      455
+    ],
+    "width": 536,
+    "height": 465,
+    "sha256": "90b0d600f87345555e4264e55137389ddb8a75e847b1828d13e31de5f812c45e",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00060",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00060.png",
+    "crop": "images/people_crops/PennPed00060.jpg",
+    "boxes": [
+      [
+        42,
+        22,
+        142,
+        326
+      ],
+      [
+        188,
+        20,
+        283,
+        230
+      ],
+      [
+        116,
+        27,
+        191,
+        226
+      ],
+      [
+        272,
+        80,
+        389,
+        327
+      ],
+      [
+        377,
+        30,
+        476,
+        330
+      ]
+    ],
+    "crop_box": [
+      42,
+      22,
+      142,
+      326
+    ],
+    "width": 505,
+    "height": 351,
+    "sha256": "939cd2ab0d63c3cb15bd1155071fe4e117140172893156e6b8b9c05a0c4a1cb8",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00004",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00004.png",
+    "crop": "images/people_crops/PennPed00004.jpg",
+    "boxes": [
+      [
+        66,
+        60,
+        170,
+        410
+      ],
+      [
+        154,
+        90,
+        253,
+        385
+      ],
+      [
+        227,
+        93,
+        325,
+        391
+      ],
+      [
+        416,
+        100,
+        516,
+        391
+      ],
+      [
+        594,
+        111,
+        734,
+        397
+      ]
+    ],
+    "crop_box": [
+      594,
+      111,
+      734,
+      397
+    ],
+    "width": 786,
+    "height": 436,
+    "sha256": "40fd028872365a0f41f3a0680075756c315879462e56e014e5bdc1f7d570087b",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00010",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00010.png",
+    "crop": "images/people_crops/FudanPed00010.jpg",
+    "boxes": [
+      [
+        280,
+        89,
+        401,
+        374
+      ]
+    ],
+    "crop_box": [
+      280,
+      89,
+      401,
+      374
+    ],
+    "width": 411,
+    "height": 393,
+    "sha256": "651f9c4ce9ab056f3ce94c2b1159218a385ab45f33bc124ab2e5d29115dd0315",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00009",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00009.png",
+    "crop": "images/people_crops/PennPed00009.jpg",
+    "boxes": [
+      [
+        46,
+        84,
+        147,
+        292
+      ],
+      [
+        162,
+        86,
+        240,
+        348
+      ],
+      [
+        224,
+        85,
+        300,
+        307
+      ],
+      [
+        315,
+        80,
+        391,
+        369
+      ],
+      [
+        374,
+        99,
+        471,
+        351
+      ],
+      [
+        469,
+        93,
+        559,
+        395
+      ],
+      [
+        532,
+        89,
+        605,
+        376
+      ]
+    ],
+    "crop_box": [
+      469,
+      93,
+      559,
+      395
+    ],
+    "width": 648,
+    "height": 413,
+    "sha256": "a215fd244836296ba7b35a1645fee4328f7d4444bc72eba11ca669cd0a902dba",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00067",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00067.png",
+    "crop": "images/people_crops/PennPed00067.jpg",
+    "boxes": [
+      [
+        36,
+        12,
+        184,
+        298
+      ]
+    ],
+    "crop_box": [
+      36,
+      12,
+      184,
+      298
+    ],
+    "width": 370,
+    "height": 318,
+    "sha256": "659ff0d99f355f25539a5feea89f6e8a450e92d9f4d74c28ae17506ae5e114c4",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00016",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00016.png",
+    "crop": "images/people_crops/PennPed00016.jpg",
+    "boxes": [
+      [
+        85,
+        50,
+        146,
+        362
+      ],
+      [
+        235,
+        92,
+        329,
+        382
+      ],
+      [
+        467,
+        65,
+        579,
+        367
+      ]
+    ],
+    "crop_box": [
+      467,
+      65,
+      579,
+      367
+    ],
+    "width": 683,
+    "height": 399,
+    "sha256": "1e630cb99cb76f9b9763a964ecebdcbcab55a10d23ccfba27dac2aef388c7137",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00035",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00035.png",
+    "crop": "images/people_crops/FudanPed00035.jpg",
+    "boxes": [
+      [
+        63,
+        38,
+        195,
+        331
+      ]
+    ],
+    "crop_box": [
+      63,
+      38,
+      195,
+      331
+    ],
+    "width": 292,
+    "height": 349,
+    "sha256": "84b4674f7e64c7a857a8ef2e9ff960cee65e375691c1a1e7e688b020ba019e19",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00012",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00012.png",
+    "crop": "images/people_crops/PennPed00012.jpg",
+    "boxes": [
+      [
+        113,
+        121,
+        212,
+        403
+      ]
+    ],
+    "crop_box": [
+      113,
+      121,
+      212,
+      403
+    ],
+    "width": 565,
+    "height": 429,
+    "sha256": "4f22a9e5d708bd17ee68ca7ffcd7e4630ad94fee53ea95b65d9664ae7489e0c0",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00062",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00062.png",
+    "crop": "images/people_crops/PennPed00062.jpg",
+    "boxes": [
+      [
+        85,
+        14,
+        184,
+        301
+      ],
+      [
+        175,
+        34,
+        288,
+        305
+      ],
+      [
+        1,
+        45,
+        57,
+        223
+      ],
+      [
+        320,
+        53,
+        373,
+        234
+      ]
+    ],
+    "crop_box": [
+      175,
+      34,
+      288,
+      305
+    ],
+    "width": 396,
+    "height": 315,
+    "sha256": "0449c9cb5c5eea2c97d05bd234be1c6fd8a2a10af73b42ff2b5b6d0fb2d2ef1f",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00046",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00046.png",
+    "crop": "images/people_crops/FudanPed00046.jpg",
+    "boxes": [
+      [
+        177,
+        122,
+        271,
+        410
+      ],
+      [
+        298,
+        113,
+        370,
+        335
+      ],
+      [
+        445,
+        103,
+        507,
+        315
+      ],
+      [
+        520,
+        118,
+        565,
+        258
+      ]
+    ],
+    "crop_box": [
+      177,
+      122,
+      271,
+      410
+    ],
+    "width": 567,
+    "height": 438,
+    "sha256": "0a7834abaf3f28bb667792058f220caaeb91a38b64302edb38dd0bdc3be4f80a",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00048",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00048.png",
+    "crop": "images/people_crops/FudanPed00048.jpg",
+    "boxes": [
+      [
+        5,
+        241,
+        84,
+        535
+      ],
+      [
+        78,
+        230,
+        144,
+        455
+      ],
+      [
+        157,
+        218,
+        251,
+        507
+      ],
+      [
+        459,
+        262,
+        580,
+        544
+      ]
+    ],
+    "crop_box": [
+      459,
+      262,
+      580,
+      544
+    ],
+    "width": 585,
+    "height": 559,
+    "sha256": "805008af783d085a18edf81b3ba02d460844717ebba21058b4fd87aa9ebdf01f",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "FudanPed00021",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00021.png",
+    "crop": "images/people_crops/FudanPed00021.jpg",
+    "boxes": [
+      [
+        323,
+        75,
+        470,
+        367
+      ],
+      [
+        233,
+        92,
+        268,
+        167
+      ],
+      [
+        46,
+        94,
+        69,
+        160
+      ]
+    ],
+    "crop_box": [
+      323,
+      75,
+      470,
+      367
+    ],
+    "width": 490,
+    "height": 378,
+    "sha256": "f77febed0b58c93b7d17c1d75b41b79008bc9fc119b455d3a5e0716093456802",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "PennPed00042",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00042.png",
+    "crop": "images/people_crops/PennPed00042.jpg",
+    "boxes": [
+      [
+        272,
+        36,
+        379,
+        312
+      ],
+      [
+        402,
+        35,
+        472,
+        310
+      ]
+    ],
+    "crop_box": [
+      272,
+      36,
+      379,
+      312
+    ],
+    "width": 569,
+    "height": 344,
+    "sha256": "e709c41872b490b3cc2120b9251b8bad29c3f0d47e7b928dc98a292191688ec6",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "PennPed00008",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00008.png",
+    "crop": "images/people_crops/PennPed00008.jpg",
+    "boxes": [
+      [
+        46,
+        70,
+        177,
+        366
+      ],
+      [
+        198,
+        76,
+        305,
+        329
+      ],
+      [
+        255,
+        73,
+        394,
+        345
+      ],
+      [
+        342,
+        52,
+        421,
+        278
+      ]
+    ],
+    "crop_box": [
+      46,
+      70,
+      177,
+      366
+    ],
+    "width": 452,
+    "height": 403,
+    "sha256": "433fa62d3a10e13578292a7c3a2c1f0615361488138a9b2daccab7cfbe1d2645",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "FudanPed00059",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00059.png",
+    "crop": "images/people_crops/FudanPed00059.jpg",
+    "boxes": [
+      [
+        34,
+        53,
+        135,
+        330
+      ],
+      [
+        158,
+        35,
+        252,
+        329
+      ],
+      [
+        269,
+        44,
+        380,
+        328
+      ]
+    ],
+    "crop_box": [
+      269,
+      44,
+      380,
+      328
+    ],
+    "width": 576,
+    "height": 369,
+    "sha256": "09bcb2197283c232b6e8e107b05c388d3fecec7d21dc33d7195e9c2fc75ffb3b",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "PennPed00096",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00096.png",
+    "crop": "images/people_crops/PennPed00096.jpg",
+    "boxes": [
+      [
+        5,
+        37,
+        102,
+        324
+      ],
+      [
+        100,
+        25,
+        206,
+        323
+      ]
+    ],
+    "crop_box": [
+      100,
+      25,
+      206,
+      323
+    ],
+    "width": 294,
+    "height": 331,
+    "sha256": "20613cb2aa60f654950c3275657f2892968f6e8b96cc13ad1fdf64a596976d46",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper015601",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper015601.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper015601.png",
+    "boxes": [],
+    "crop_box": [
+      464,
+      35,
+      518,
+      147
+    ],
+    "sha256": "35c5946a87b4fd778d9aeb63fcf1186816d0bedc55b323209924c3ce6c2920a2",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper015601.png",
+    "source_box": {
+      "x": 73.27066208221623,
+      "y": 7.2692953020134325,
+      "width": 6.787623607387458,
+      "height": 23.308165548098426,
+      "class": "robot",
+      "jersey_color": "yellow",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper043679",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper043679.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper043679.png",
+    "boxes": [],
+    "crop_box": [
+      420,
+      93,
+      488,
+      215
+    ],
+    "sha256": "a30e7e9a2f603b5f8afc4be4aa1abe11ce9076506c43cbc044bcc5d1563e06b2",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper043679.png",
+    "source_box": {
+      "x": 66.64429530201342,
+      "y": 19.328859060402685,
+      "width": 8.557046979865788,
+      "height": 25.503355704697988,
+      "class": "robot",
+      "jersey_color": "yellow",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "nao_nao_base_Upper021069",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper021069.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper021069.png",
+    "boxes": [],
+    "crop_box": [
+      30,
+      21,
+      126,
+      165
+    ],
+    "sha256": "bd97229d406a868421580bea328181c897298a863d1e9f45754ca31216cf9857",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper021069.png",
+    "source_box": {
+      "x": 6.140939597315437,
+      "y": 4.295302013422819,
+      "width": 12.080536912751679,
+      "height": 30.06711409395973,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "nao_nao_base_Upper047143",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper047143.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper047143.png",
+    "boxes": [],
+    "crop_box": [
+      122,
+      203,
+      196,
+      381
+    ],
+    "sha256": "3fc983c4256dfdd4362409ce96c1b2434147db3e9a0f38a389a5d996d2d7180c",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper047143.png",
+    "source_box": {
+      "x": 20.134228187919465,
+      "y": 42.281879194630875,
+      "width": 9.36241610738255,
+      "height": 37.18120805369128,
+      "class": "robot",
+      "jersey_color": "yellow",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper013048",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper013048.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper013048.png",
+    "boxes": [],
+    "crop_box": [
+      290,
+      7,
+      380,
+      230
+    ],
+    "sha256": "8f6f8206ab001a7af2b977cc8d682d6d051f63f12d7031475e81aac3ed7b5f14",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper013048.png",
+    "source_box": {
+      "x": 46.62870055704499,
+      "y": 1.375838926174498,
+      "width": 11.430098885910004,
+      "height": 46.56879194630872,
+      "class": "robot",
+      "jersey_color": "r",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper017059",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper017059.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper017059.png",
+    "boxes": [],
+    "crop_box": [
+      130,
+      165,
+      183,
+      275
+    ],
+    "sha256": "727dc6e7857a23bce78d048aaf568867242dc9044c443a2769dc7595fc83a17f",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper017059.png",
+    "source_box": {
+      "x": 21.08316208221625,
+      "y": 34.42673378076064,
+      "width": 6.689659296991296,
+      "height": 22.813199105145383,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper023255",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper023255.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper023255.png",
+    "boxes": [],
+    "crop_box": [
+      19,
+      146,
+      71,
+      290
+    ],
+    "sha256": "5e3ec7598e9bd42e76603131f2dca8491118343d4d4c34d0b45d9a919d8178dd",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper023255.png",
+    "source_box": {
+      "x": 3.724832214765101,
+      "y": 30.335570469798657,
+      "width": 6.644295302013424,
+      "height": 30.067114093959734,
+      "class": "robot",
+      "jersey_color": "yellow",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper016330",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper016330.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper016330.png",
+    "boxes": [],
+    "crop_box": [
+      277,
+      156,
+      328,
+      265
+    ],
+    "sha256": "d04197c1443d1ba27bd93ea40893db8d6124b16818eb431d4c2b6c6c99708742",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper016330.png",
+    "source_box": {
+      "x": 44.020148328865005,
+      "y": 32.47762863534675,
+      "width": 6.440686803693731,
+      "height": 22.674776286353477,
+      "class": "robot",
+      "jersey_color": "r",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper015968",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper015968.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper015968.png",
+    "boxes": [],
+    "crop_box": [
+      211,
+      49,
+      259,
+      170
+    ],
+    "sha256": "8f8a288beccf6eef75d66aefbace6318dfa45b2f00ca935ce0c1c4b08cdffb2c",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper015968.png",
+    "source_box": {
+      "x": 33.72483221476511,
+      "y": 10.201342281879194,
+      "width": 6.040268456375834,
+      "height": 25.234899328859065,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper044044",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper044044.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper044044.png",
+    "boxes": [],
+    "crop_box": [
+      521,
+      57,
+      583,
+      181
+    ],
+    "sha256": "520f7f8ae7fe59671cbaf96ec8129d636067b0a264de04965df621d2141ba774",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper044044.png",
+    "source_box": {
+      "x": 82.3489932885906,
+      "y": 11.812080536912752,
+      "width": 7.852348993288601,
+      "height": 25.906040268456373,
+      "class": "robot",
+      "jersey_color": "yellow",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper048235",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper048235.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper048235.png",
+    "boxes": [],
+    "crop_box": [
+      249,
+      23,
+      318,
+      174
+    ],
+    "sha256": "24272d08fcf0ffcc567fd4e16c7102a02c6326405c20ce0bd651e3207fa8b9ff",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper048235.png",
+    "source_box": {
+      "x": 40,
+      "y": 4.791666666666667,
+      "width": 8.59375,
+      "height": 31.458333333333332,
+      "class": "robot",
+      "jersey_color": "black",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper023802",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper023802.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper023802.png",
+    "boxes": [],
+    "crop_box": [
+      389,
+      19,
+      470,
+      165
+    ],
+    "sha256": "a444d274c382e2028af0d7de3fe0f7264a0b429ab02400ab56ec351fa592eb64",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper023802.png",
+    "source_box": {
+      "x": 62.01342281879195,
+      "y": 3.8926174496644297,
+      "width": 10.167785234899327,
+      "height": 30.469798657718123,
+      "class": "robot",
+      "jersey_color": "r",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper010862",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper010862.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper010862.png",
+    "boxes": [],
+    "crop_box": [
+      433,
+      149,
+      504,
+      311
+    ],
+    "sha256": "92294bc515ece3c3fbe9721e927350443c71f038818222bd476c0a734132c54d",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper010862.png",
+    "source_box": {
+      "x": 68.68647249329747,
+      "y": 31.119966442953018,
+      "width": 9.00421431039626,
+      "height": 33.643736017897105,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper016695",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper016695.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper016695.png",
+    "boxes": [],
+    "crop_box": [
+      281,
+      155,
+      340,
+      263
+    ],
+    "sha256": "42cd43fa82c15812bbd002727b7e5300ffa858269ee55c5f366539e414758f1e",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper016695.png",
+    "source_box": {
+      "x": 44.73519777182001,
+      "y": 32.23713646532438,
+      "width": 7.436472493297515,
+      "height": 22.62304250559283,
+      "class": "robot",
+      "jersey_color": "r",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper022162",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper022162.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper022162.png",
+    "boxes": [],
+    "crop_box": [
+      164,
+      39,
+      233,
+      137
+    ],
+    "sha256": "f4b47b733938b23337f50b193b8d251547c42493270b338abc757252af407677",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper022162.png",
+    "source_box": {
+      "x": 26.67785234899329,
+      "y": 8.053691275167784,
+      "width": 8.65771812080537,
+      "height": 20.402684563758392,
+      "class": "robot",
+      "jersey_color": "r",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "nao_nao_base_Upper019063",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper019063.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper019063.png",
+    "boxes": [],
+    "crop_box": [
+      372,
+      55,
+      466,
+      221
+    ],
+    "sha256": "a98ed6c2e9846b47d49b3257c4aa6ee438a282465e10436ce5f246efd61d9d9f",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper019063.png",
+    "source_box": {
+      "x": 59.59734921644247,
+      "y": 11.543624161073824,
+      "width": 11.778489709732007,
+      "height": 34.49664429530204,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper020704",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper020704.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper020704.png",
+    "boxes": [],
+    "crop_box": [
+      122,
+      80,
+      197,
+      216
+    ],
+    "sha256": "e38b2e81e6bb13c22996cf25745b91f2d2cc1ad936d1b832d285549324cf4784",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper020704.png",
+    "source_box": {
+      "x": 20.23489932885906,
+      "y": 16.644295302013422,
+      "width": 9.46308724832215,
+      "height": 28.322147651006713,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper042951",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper042951.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper042951.png",
+    "boxes": [],
+    "crop_box": [
+      402,
+      71,
+      466,
+      206
+    ],
+    "sha256": "551f7cebf3fbbf05fe94da8be6137c4a7ba0f8f44aebdbd9ca8e06951df26d47",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper042951.png",
+    "source_box": {
+      "x": 63.825503355704704,
+      "y": 14.76510067114094,
+      "width": 8.053691275167786,
+      "height": 28.053691275167786,
+      "class": "robot",
+      "jersey_color": "yellow",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper025990",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper025990.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper025990.png",
+    "boxes": [],
+    "crop_box": [
+      440,
+      26,
+      551,
+      204
+    ],
+    "sha256": "4095373f663b7b23e968b0161746dfff35a4ac3169782eaa29a5bdf78d98a981",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper025990.png",
+    "source_box": {
+      "x": 70.469832437919,
+      "y": 5.503355704697984,
+      "width": 13.99305212919808,
+      "height": 37.0469798657718,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper042585",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper042585.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper042585.png",
+    "boxes": [],
+    "crop_box": [
+      258,
+      74,
+      332,
+      243
+    ],
+    "sha256": "735da1a37c1de97b97e7625322a0efe0a1bca6276e6eb043594fb7255f41a7e9",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper042585.png",
+    "source_box": {
+      "x": 41.4765100671141,
+      "y": 15.436241610738255,
+      "width": 9.261744966442954,
+      "height": 35.16778523489933,
+      "class": "robot",
+      "jersey_color": "y",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper013231",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper013231.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper013231.png",
+    "boxes": [],
+    "crop_box": [
+      147,
+      99,
+      237,
+      273
+    ],
+    "sha256": "47eaaaf147431b1954477a41eafab36e381279dc9c13131e883c5ca7a4d3c219",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper013231.png",
+    "source_box": {
+      "x": 24.362416107382554,
+      "y": 20.536912751677853,
+      "width": 11.275167785234895,
+      "height": 36.375838926174495,
+      "class": "robot",
+      "jersey_color": "r",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "nao_nao_base_Upper016512",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper016512.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper016512.png",
+    "boxes": [],
+    "crop_box": [
+      298,
+      160,
+      347,
+      260
+    ],
+    "sha256": "ccbd9a3847acde0d750b5f3b442acb3d4f41d69082ceacb92deaac4e30db3278",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper016512.png",
+    "source_box": {
+      "x": 47.30407137920752,
+      "y": 33.236856823266194,
+      "width": 6.170538474828746,
+      "height": 20.994127516778537,
+      "class": "robot",
+      "jersey_color": "r",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "nao_nao_base_Upper017241",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper017241.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper017241.png",
+    "boxes": [],
+    "crop_box": [
+      520,
+      59,
+      578,
+      196
+    ],
+    "sha256": "5b7fc6bbc9dcfa4ecbe2cc2bf06aab8512068e50e49a529205f42199a3e7aff0",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper017241.png",
+    "source_box": {
+      "x": 82.07627472147752,
+      "y": 12.249720357941822,
+      "width": 7.338508182901276,
+      "height": 28.64373601789711,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper014507",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper014507.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper014507.png",
+    "boxes": [],
+    "crop_box": [
+      182,
+      93,
+      247,
+      216
+    ],
+    "sha256": "6bae2d739d095010cf5309b66acdd8a5b03b9503768fa0aca4c9dd984fafaa8c",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper014507.png",
+    "source_box": {
+      "x": 29.39597315436242,
+      "y": 19.463087248322147,
+      "width": 8.154362416107379,
+      "height": 25.503355704697988,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "nao_nao_base_Upper029278",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper029278.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper029278.png",
+    "boxes": [],
+    "crop_box": [
+      327,
+      28,
+      428,
+      218
+    ],
+    "sha256": "0804d3140cc3740ee2691ee40d70119dfa75e2898c76288b34750f7a708a4007",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper029278.png",
+    "source_box": {
+      "x": 52.5503355704698,
+      "y": 5.906040268456376,
+      "width": 12.78523489932887,
+      "height": 39.463087248322154,
+      "class": "robot",
+      "jersey_color": "r",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper040399",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper040399.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper040399.png",
+    "boxes": [],
+    "crop_box": [
+      279,
+      30,
+      335,
+      130
+    ],
+    "sha256": "917aebedfe873a8e6aa5b23f0244b20bb14288e063f431764030ef228bc61cf5",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper040399.png",
+    "source_box": {
+      "x": 44.49664429530202,
+      "y": 6.308724832214765,
+      "width": 6.946308724832214,
+      "height": 20.671140939597315,
+      "class": "robot",
+      "jersey_color": "unknown",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper044590",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper044590.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper044590.png",
+    "boxes": [],
+    "crop_box": [
+      352,
+      211,
+      392,
+      316
+    ],
+    "sha256": "0d7b291b17c8352d8d64fa3236b83f14b4a403c910519bd6c942899f4e62c082",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper044590.png",
+    "source_box": {
+      "x": 55.57046979865772,
+      "y": 43.89261744966443,
+      "width": 5.134228187919462,
+      "height": 21.87919463087249,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper048964",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper048964.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper048964.png",
+    "boxes": [],
+    "crop_box": [
+      384,
+      136,
+      504,
+      355
+    ],
+    "sha256": "99cd7233edf6ae3bb57f6e7c789948a86668c5eb86d29afd1170348f387ce393",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper048964.png",
+    "source_box": {
+      "x": 61.75318680369377,
+      "y": 28.257829977628646,
+      "width": 15.201274721477425,
+      "height": 45.686521252796425,
+      "class": "robot",
+      "jersey_color": "black",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper042404",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper042404.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper042404.png",
+    "boxes": [],
+    "crop_box": [
+      66,
+      13,
+      188,
+      204
+    ],
+    "sha256": "4146b68f0a7582daf165b05086da72be8ab243fac25d82fa0d813db837d5521c",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper042404.png",
+    "source_box": {
+      "x": 12.181208053691277,
+      "y": 2.684563758389262,
+      "width": 15.30201342281879,
+      "height": 39.86577181208054,
+      "class": "robot",
+      "jersey_color": "y",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper018152",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper018152.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper018152.png",
+    "boxes": [],
+    "crop_box": [
+      31,
+      48,
+      97,
+      174
+    ],
+    "sha256": "7b34dc65aa514d5d2d7ed30455dc2b3c4c520ca7ff5c746b12237c5ecb40aeb1",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper018152.png",
+    "source_box": {
+      "x": 5.8389261744966445,
+      "y": 10.06711409395973,
+      "width": 8.255033557046982,
+      "height": 26.174496644295303,
+      "class": "robot",
+      "jersey_color": "r",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "nao_nao_base_Upper047325",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper047325.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper047325.png",
+    "boxes": [],
+    "crop_box": [
+      170,
+      99,
+      263,
+      288
+    ],
+    "sha256": "50735707de9cf666086e534d070881afac9233c0266e9154fda507685b8f1889",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper047325.png",
+    "source_box": {
+      "x": 28.003186803693758,
+      "y": 20.699105145413867,
+      "width": 11.631373607387484,
+      "height": 39.36521252796421,
+      "class": "robot",
+      "jersey_color": "yellow",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper013595",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper013595.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper013595.png",
+    "boxes": [],
+    "crop_box": [
+      157,
+      86,
+      240,
+      234
+    ],
+    "sha256": "2cf2e7216c216ff2867bf987f9769bfeb68a99d741e4591c8cf46613aa4ff1fa",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper013595.png",
+    "source_box": {
+      "x": 25.744140145963733,
+      "y": 17.815995525727075,
+      "width": 10.529708739946246,
+      "height": 30.970357941834425,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper045684",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper045684.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper045684.png",
+    "boxes": [],
+    "crop_box": [
+      169,
+      262,
+      232,
+      421
+    ],
+    "sha256": "1a8f78bfed3779ef09c0de9ba67f2a2dfb428a33857862f250f9738c22cae162",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper045684.png",
+    "source_box": {
+      "x": 27.38255033557047,
+      "y": 54.63087248322148,
+      "width": 7.852348993288594,
+      "height": 33.154362416107375,
+      "class": "robot",
+      "jersey_color": "y",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper016877",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper016877.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper016877.png",
+    "boxes": [],
+    "crop_box": [
+      215,
+      154,
+      257,
+      257
+    ],
+    "sha256": "8600f9bb9f64bbd9e620134b907537ddbea325f55827e3b3a694fa59a8ea05b7",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper016877.png",
+    "source_box": {
+      "x": 34.23735706881127,
+      "y": 32.01482102908277,
+      "width": 5.323087917783747,
+      "height": 21.44295302013422,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper044774",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper044774.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper044774.png",
+    "boxes": [],
+    "crop_box": [
+      421,
+      122,
+      471,
+      226
+    ],
+    "sha256": "012937875fe071a2f1ba6ae56eb35c6a4d775d30bb0711be5f32a2a8c3bb53cd",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper044774.png",
+    "source_box": {
+      "x": 66.54362416107384,
+      "y": 25.503355704697988,
+      "width": 6.241610738255034,
+      "height": 21.47651006711409,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper013960",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper013960.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper013960.png",
+    "boxes": [],
+    "crop_box": [
+      173,
+      80,
+      316,
+      282
+    ],
+    "sha256": "3e84701d2ccc3fa9559f9e347839be0ac3ead61d7e8514033bd7b5b3de551a30",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper013960.png",
+    "source_box": {
+      "x": 29.194630872483224,
+      "y": 16.644295302013422,
+      "width": 18.02013422818792,
+      "height": 42.01342281879195,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper010133",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper010133.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper010133.png",
+    "boxes": [],
+    "crop_box": [
+      339,
+      146,
+      402,
+      296
+    ],
+    "sha256": "77a52bb3714b5df174bbc03a23e5a34cb89982c78b70042b519df4138367807a",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper010133.png",
+    "source_box": {
+      "x": 53.85906040268457,
+      "y": 30.42505592841163,
+      "width": 8.053691275167784,
+      "height": 31.319910514541387,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper047871",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper047871.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper047871.png",
+    "boxes": [],
+    "crop_box": [
+      219,
+      16,
+      276,
+      136
+    ],
+    "sha256": "af805930877ffc9d94d0d4913c4c250c57fa3f33018e9f7b29a1dfd5bbd58969",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper047871.png",
+    "source_box": {
+      "x": 35.09272249329751,
+      "y": 3.425615212527966,
+      "width": 7.160978063747478,
+      "height": 24.911912751677846,
+      "class": "robot",
+      "jersey_color": "black",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "nao_nao_base_Upper044955",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper044955.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper044955.png",
+    "boxes": [],
+    "crop_box": [
+      455,
+      244,
+      526,
+      386
+    ],
+    "sha256": "f6eb93e1f846a7d535f86e53397795f67d22f7fbae3a5964fd29a33c5f64320c",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper044955.png",
+    "source_box": {
+      "x": 72.18120805369128,
+      "y": 50.87248322147651,
+      "width": 8.959731543624159,
+      "height": 29.530201342281877,
+      "class": "robot",
+      "jersey_color": "yellow",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper048052",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper048052.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper048052.png",
+    "boxes": [],
+    "crop_box": [
+      18,
+      11,
+      254,
+      365
+    ],
+    "sha256": "b5286d68f33d356dd83c6440f1bc1bb7ec2b45b130321f6dcd7aeb02346bb91b",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper048052.png",
+    "source_box": {
+      "x": 6.340153726541302,
+      "y": 2.2035794183445145,
+      "width": 29.74578568960376,
+      "height": 73.79614093959731,
+      "class": "robot",
+      "jersey_color": "yellow",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper043134",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper043134.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper043134.png",
+    "boxes": [],
+    "crop_box": [
+      557,
+      52,
+      611,
+      161
+    ],
+    "sha256": "305f396eb1d91f18e169ce6ef64e2608baa86b06937445734349281582fb7b53",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper043134.png",
+    "source_box": {
+      "x": 87.8125,
+      "y": 10.833333333333334,
+      "width": 6.875000000000001,
+      "height": 22.708333333333332,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper019429",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper019429.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper019429.png",
+    "boxes": [],
+    "crop_box": [
+      131,
+      32,
+      231,
+      162
+    ],
+    "sha256": "32f45201327d3f8d537cc6928d04fe874847fe5f375f12417d732d5de6611a34",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper019429.png",
+    "source_box": {
+      "x": 21.946308724832218,
+      "y": 6.7114093959731544,
+      "width": 12.684563758389263,
+      "height": 26.97986577181208,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper045502",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper045502.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper045502.png",
+    "boxes": [],
+    "crop_box": [
+      127,
+      90,
+      220,
+      256
+    ],
+    "sha256": "8a41678ff4c095069e7b4530654ab275bccd0773060e21cefd34b16585008e21",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper045502.png",
+    "source_box": {
+      "x": 21.241610738255034,
+      "y": 18.79194630872483,
+      "width": 11.778523489932887,
+      "height": 34.63087248322148,
+      "class": "robot",
+      "jersey_color": "y",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper029098",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper029098.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper029098.png",
+    "boxes": [],
+    "crop_box": [
+      313,
+      14,
+      399,
+      198
+    ],
+    "sha256": "16d8f80307ddf2dbc8b7489e84b5f6a1b750050e52290ca209e8a763a8dc2706",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper029098.png",
+    "source_box": {
+      "x": 50.234899328859065,
+      "y": 2.953020134228188,
+      "width": 10.872483221476514,
+      "height": 38.38926174496644,
+      "class": "robot",
+      "jersey_color": "r",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper015054",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper015054.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper015054.png",
+    "boxes": [],
+    "crop_box": [
+      287,
+      21,
+      342,
+      129
+    ],
+    "sha256": "0dbd415c94b79c63ed25231b0b65a538bfe37ea87407bec2cde56c20cfd2504e",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper015054.png",
+    "source_box": {
+      "x": 45.604026845637584,
+      "y": 4.429530201342282,
+      "width": 6.946308724832214,
+      "height": 22.416107382550337,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper048417",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper048417.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper048417.png",
+    "boxes": [],
+    "crop_box": [
+      400,
+      123,
+      474,
+      300
+    ],
+    "sha256": "ebbb98c5b40bb372b26744bf7d03be2d89d9a22e2c35e112d5ea00b353191929",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper048417.png",
+    "source_box": {
+      "x": 63.649362639261255,
+      "y": 25.54530201342281,
+      "width": 9.34056319630616,
+      "height": 36.93232662192395,
+      "class": "robot",
+      "jersey_color": "black",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper044226",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper044226.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper044226.png",
+    "boxes": [],
+    "crop_box": [
+      531,
+      30,
+      595,
+      137
+    ],
+    "sha256": "c8402bd7b84b8662bade45072600762837cc8df5bee202c8c6866d8f89f6797a",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper044226.png",
+    "source_box": {
+      "x": 83.95973154362417,
+      "y": 6.308724832214765,
+      "width": 8.053691275167779,
+      "height": 22.281879194630875,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper023620",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper023620.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper023620.png",
+    "boxes": [],
+    "crop_box": [
+      552,
+      180,
+      636,
+      355
+    ],
+    "sha256": "ccbe3cfa5752015b693b5237262da33bf8df292fb8238f914431239f27c75091",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper023620.png",
+    "source_box": {
+      "x": 87.58389261744966,
+      "y": 37.4496644295302,
+      "width": 10.46979865771813,
+      "height": 36.51006711409396,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper021980",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper021980.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper021980.png",
+    "boxes": [],
+    "crop_box": [
+      105,
+      45,
+      182,
+      189
+    ],
+    "sha256": "8a2524b82b7ff0388978b14a7d0ba5c05b21df16f43681ac05bbe4715bbc3c21",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper021980.png",
+    "source_box": {
+      "x": 17.516778523489933,
+      "y": 9.395973154362416,
+      "width": 9.765100671140942,
+      "height": 30.06711409395973,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_Upper053702",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_Upper053702.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_Upper053702.png",
+    "boxes": [],
+    "crop_box": [
+      430,
+      20,
+      587,
+      405
+    ],
+    "sha256": "7bece3c924bdcdbd9b19d2dc88169264d3d070f7ca1883fa4687988bd016f31e",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "source_frame": "Upper053702.png",
+    "source_box": {
+      "x": 69.56375838926175,
+      "y": 4.1610738255033555,
+      "width": 19.731543624161077,
+      "height": 80.26845637583894,
+      "class": "robot",
+      "jersey_color": "yellow",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper003104",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper003104.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper003104.png",
+    "boxes": [],
+    "crop_box": [
+      164,
+      27,
+      222,
+      141
+    ],
+    "sha256": "db808d4ae69b45af7a28ec38201b42a1e6b2deb19a143c96d12a727b2e4c0bdc",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper003104.png",
+    "source_box": {
+      "x": 26.47482014388489,
+      "y": 5.566218809980806,
+      "width": 7.338129496402877,
+      "height": 23.80038387715931,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper023369",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper023369.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper023369.png",
+    "boxes": [],
+    "crop_box": [
+      0,
+      28,
+      133,
+      295
+    ],
+    "sha256": "3732c02c6244d089aae59383cc4ae2282c9d0b6b94267080b004c6944766aad9",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper023369.png",
+    "source_box": {
+      "x": 1.3058960838770826,
+      "y": 5.9177215189873404,
+      "width": 17.331507393543923,
+      "height": 55.52215189873419,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper006749",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper006749.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper006749.png",
+    "boxes": [],
+    "crop_box": [
+      392,
+      26,
+      546,
+      282
+    ],
+    "sha256": "e626d9b62071cdd3cdd833fa3689409ab284aa7f0e785473770ce9a416fa6ab0",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper006749.png",
+    "source_box": {
+      "x": 63.597122302158276,
+      "y": 5.3742802303262955,
+      "width": 19.424460431654676,
+      "height": 53.35892514395395,
+      "class": "robot",
+      "jersey_color": "r",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper020817",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper020817.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper020817.png",
+    "boxes": [],
+    "crop_box": [
+      341,
+      38,
+      402,
+      147
+    ],
+    "sha256": "05322efcc87b5f981d4792ffd1b481d6fa47f816ea2111aab5df3309c943fd06",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper020817.png",
+    "source_box": {
+      "x": 54.15592825807005,
+      "y": 7.982594936708853,
+      "width": 7.756603916122956,
+      "height": 22.55010548523205,
+      "class": "robot",
+      "jersey_color": "b",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper032856",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper032856.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper032856.png",
+    "boxes": [],
+    "crop_box": [
+      86,
+      56,
+      211,
+      330
+    ],
+    "sha256": "4b554c2f9afa4b895f963031d74f8777d9e46da3790d65a1041b5813356ac03a",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper032856.png",
+    "source_box": {
+      "x": 15.375321741929923,
+      "y": 11.73523206751055,
+      "width": 15.774324341947176,
+      "height": 57.114978902953496,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper014236",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper014236.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper014236.png",
+    "boxes": [],
+    "crop_box": [
+      5,
+      69,
+      79,
+      216
+    ],
+    "sha256": "b8c5acf053e24e4a02dd85c4a6f1fe5ee98b117c59c0d07c9b39723ff22b9813",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper014236.png",
+    "source_box": {
+      "x": 1.838235294117647,
+      "y": 14.379084967320262,
+      "width": 9.31372549019608,
+      "height": 30.718954248366014,
+      "class": "robot",
+      "jersey_color": "r",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper050361",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper050361.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper050361.png",
+    "boxes": [],
+    "crop_box": [
+      107,
+      10,
+      205,
+      229
+    ],
+    "sha256": "5b15b3bb6dc045da09a210dfc6e21f4b47468ec6ae79aa93dba7f30872efa8e5",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper050361.png",
+    "source_box": {
+      "x": 18.221375169464576,
+      "y": 2.1476510067114094,
+      "width": 12.281879194630871,
+      "height": 45.50335570469798,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper024470",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper024470.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper024470.png",
+    "boxes": [],
+    "crop_box": [
+      424,
+      144,
+      497,
+      289
+    ],
+    "sha256": "a8d0c6ba326d0447f525f6ff6813421b8205ff047cf6faedc3cd4897e39e3ed1",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper024470.png",
+    "source_box": {
+      "x": 67.40506329113924,
+      "y": 29.90506329113924,
+      "width": 9.137658227848107,
+      "height": 30.22151898734177,
+      "class": "robot",
+      "jersey_color": "r",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper018441",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper018441.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper018441.png",
+    "boxes": [],
+    "crop_box": [
+      380,
+      128,
+      435,
+      256
+    ],
+    "sha256": "5148f09651d7d1165f5c767bd528cda40bb346147e42ce11b1daa402851c2ae3",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper018441.png",
+    "source_box": {
+      "x": 60.17156862745098,
+      "y": 26.633986928104576,
+      "width": 6.985294117647059,
+      "height": 26.797385620915033,
+      "class": "robot",
+      "jersey_color": "y",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper007114",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper007114.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper007114.png",
+    "boxes": [],
+    "crop_box": [
+      419,
+      54,
+      565,
+      319
+    ],
+    "sha256": "5179d839a04af0ed85bbcaf8a0dec1919800e946dbc8e50bc4d27817de1e11e5",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper007114.png",
+    "source_box": {
+      "x": 67.61915467625887,
+      "y": 11.31078055022393,
+      "width": 18.391411870503603,
+      "height": 55.18234165067177,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper045618",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper045618.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper045618.png",
+    "boxes": [],
+    "crop_box": [
+      359,
+      109,
+      426,
+      213
+    ],
+    "sha256": "5363e13c5beef32a4d12445693b57f4f75fdef70890cbb5d360b587f7f3a794c",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper045618.png",
+    "source_box": {
+      "x": 57.0418379177837,
+      "y": 22.77265100671141,
+      "width": 8.464021936252584,
+      "height": 21.680648769574933,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper007481",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper007481.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper007481.png",
+    "boxes": [],
+    "crop_box": [
+      175,
+      21,
+      278,
+      260
+    ],
+    "sha256": "acca7eeed4ff97af15480187139b2b0200c5b2262a2be11c3929d48bd2900cab",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper007481.png",
+    "source_box": {
+      "x": 28.90962230215826,
+      "y": 4.3422104926423595,
+      "width": 12.99797661870499,
+      "height": 49.85244721689054,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper044707",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper044707.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper044707.png",
+    "boxes": [],
+    "crop_box": [
+      475,
+      81,
+      554,
+      229
+    ],
+    "sha256": "37c451b5263c11691f84f12bcecf0888cdd64425922dcffe727eab7e6e13fa43",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper044707.png",
+    "source_box": {
+      "x": 75.4746835443038,
+      "y": 16.77215189873418,
+      "width": 9.968354430379748,
+      "height": 30.85443037974683,
+      "class": "robot",
+      "jersey_color": "yellow",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper018258",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper018258.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper018258.png",
+    "boxes": [],
+    "crop_box": [
+      389,
+      208,
+      447,
+      337
+    ],
+    "sha256": "dddf6ca701d7c1289fdc01fe66d190412ed808952a72ac728c49c51fc359fa67",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper018258.png",
+    "source_box": {
+      "x": 61.6421568627451,
+      "y": 43.30065359477123,
+      "width": 7.3529411764705905,
+      "height": 26.960784313725508,
+      "class": "robot",
+      "jersey_color": "y",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper038148",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper038148.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper038148.png",
+    "boxes": [],
+    "crop_box": [
+      241,
+      143,
+      317,
+      299
+    ],
+    "sha256": "65f399603c06935f2a0e65786483eea8ba3298e1d770076bbb8d4ea5dfe3f260",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper038148.png",
+    "source_box": {
+      "x": 38.74999999999999,
+      "y": 29.807489451476787,
+      "width": 9.687500000000005,
+      "height": 32.4841772151899,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper016064",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper016064.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper016064.png",
+    "boxes": [],
+    "crop_box": [
+      350,
+      39,
+      431,
+      166
+    ],
+    "sha256": "2241356834c871687c21a7d0b9e61d91b58c35dcff10c65bedaac8e58305378f",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper016064.png",
+    "source_box": {
+      "x": 55.88235294117647,
+      "y": 8.169934640522875,
+      "width": 10.17156862745098,
+      "height": 26.470588235294123,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper043977",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper043977.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper043977.png",
+    "boxes": [],
+    "crop_box": [
+      360,
+      91,
+      421,
+      228
+    ],
+    "sha256": "91cbbd8067e46fa56afd7c86796934b01195da656cc90d89fb901da738b0f750",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper043977.png",
+    "source_box": {
+      "x": 57.100193045157944,
+      "y": 19.02689873417719,
+      "width": 7.730509993561185,
+      "height": 28.454641350210974,
+      "class": "robot",
+      "jersey_color": "yellow",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper015517",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper015517.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper015517.png",
+    "boxes": [],
+    "crop_box": [
+      501,
+      85,
+      565,
+      205
+    ],
+    "sha256": "37fa2b9a30c511736a58163700637c837f952e19347e161fc6efe95d1a364a3e",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper015517.png",
+    "source_box": {
+      "x": 79.28921568627449,
+      "y": 17.647058823529413,
+      "width": 8.088235294117647,
+      "height": 25.163398692810457,
+      "class": "robot",
+      "jersey_color": "yellow",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper003833",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper003833.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper003833.png",
+    "boxes": [],
+    "crop_box": [
+      201,
+      18,
+      275,
+      179
+    ],
+    "sha256": "d7d612909033c889c8b2522badb5c0cb89840546f4461ec7afc49e9dd4365bee",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper003833.png",
+    "source_box": {
+      "x": 32.5,
+      "y": 3.7943857965451038,
+      "width": 9.288444244604321,
+      "height": 33.497280870121564,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper027028",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper027028.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper027028.png",
+    "boxes": [],
+    "crop_box": [
+      51,
+      73,
+      142,
+      221
+    ],
+    "sha256": "51ea2110607839758a27e2b2259abc92a70d30ebe6a96388476a87b584f6b91d",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper027028.png",
+    "source_box": {
+      "x": 9.294618703210796,
+      "y": 15.150316455696194,
+      "width": 11.486631296789184,
+      "height": 30.814873417721518,
+      "class": "robot",
+      "jersey_color": "b",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper049632",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper049632.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper049632.png",
+    "boxes": [],
+    "crop_box": [
+      378,
+      8,
+      495,
+      216
+    ],
+    "sha256": "99b95c3ddb712163f56eced33e51508ddae5fb60068eb715741041a4b8daf803",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper049632.png",
+    "source_box": {
+      "x": 60.805369127516784,
+      "y": 1.6107382550335572,
+      "width": 14.697986577181211,
+      "height": 43.489932885906036,
+      "class": "robot",
+      "jersey_color": "r",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper021911",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper021911.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper021911.png",
+    "boxes": [],
+    "crop_box": [
+      426,
+      56,
+      514,
+      207
+    ],
+    "sha256": "69266caee015489a1cf068f8056f34ad1e246adbfd1323dea1d4b81b9cde3e65",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper021911.png",
+    "source_box": {
+      "x": 67.88756434838606,
+      "y": 11.700949367088613,
+      "width": 11.07458173549096,
+      "height": 31.51371308016876,
+      "class": "robot",
+      "jersey_color": "black",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper010219",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper010219.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper010219.png",
+    "boxes": [],
+    "crop_box": [
+      344,
+      126,
+      447,
+      352
+    ],
+    "sha256": "22ba7f7e089f8c72bb195e901bc2c3c2c671544a14614b9b78b17cc65a670ebb",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper010219.png",
+    "source_box": {
+      "x": 55.2450980392157,
+      "y": 26.16830065359477,
+      "width": 12.965686274509704,
+      "height": 47.10375816993464,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper013133",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper013133.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper013133.png",
+    "boxes": [],
+    "crop_box": [
+      280,
+      36,
+      349,
+      171
+    ],
+    "sha256": "41ff52b31d6d7c10eac678463c45c8abaeabac41e3b566c20bddb11fe08e1fc1",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper013133.png",
+    "source_box": {
+      "x": 44.85294117647059,
+      "y": 7.516339869281046,
+      "width": 8.700980392156863,
+      "height": 28.104575163398692,
+      "class": "robot",
+      "jersey_color": "r",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper042519",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper042519.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper042519.png",
+    "boxes": [],
+    "crop_box": [
+      235,
+      113,
+      353,
+      266
+    ],
+    "sha256": "f4b949970b2b443972667770c8c2f820bb4a82a14d1c917f88eac8ad230d423e",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper042519.png",
+    "source_box": {
+      "x": 38.449367088607595,
+      "y": 23.575949367088608,
+      "width": 14.952531645569628,
+      "height": 31.80379746835443,
+      "class": "robot",
+      "jersey_color": "r",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper052002",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper052002.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper052002.png",
+    "boxes": [],
+    "crop_box": [
+      185,
+      183,
+      258,
+      348
+    ],
+    "sha256": "4757dea0c9b4acad1530e1838b24c3f0b2256760c4c345ff61a589ae7aadf907",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper052002.png",
+    "source_box": {
+      "x": 30.000000000000004,
+      "y": 38.12080536912752,
+      "width": 9.26174496644295,
+      "height": 34.36241610738255,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper033959",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper033959.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper033959.png",
+    "boxes": [],
+    "crop_box": [
+      390,
+      11,
+      469,
+      185
+    ],
+    "sha256": "9f3b48793d236b44d7ab0f8aa0e4cb8929c9fee0b800adcf60ab25be9b143f63",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper033959.png",
+    "source_box": {
+      "x": 62.11243565161397,
+      "y": 2.241561181434598,
+      "width": 10.031410870964965,
+      "height": 36.23945147679324,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper014417",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper014417.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper014417.png",
+    "boxes": [],
+    "crop_box": [
+      517,
+      20,
+      580,
+      143
+    ],
+    "sha256": "04926908ba77ab2e2458c366d26d89738e063d71676b64626e649d50707f4f62",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper014417.png",
+    "source_box": {
+      "x": 81.74019607843137,
+      "y": 4.084967320261438,
+      "width": 7.965686274509801,
+      "height": 25.653594771241824,
+      "class": "robot",
+      "jersey_color": "yellow",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper003288",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper003288.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper003288.png",
+    "boxes": [],
+    "crop_box": [
+      461,
+      64,
+      523,
+      193
+    ],
+    "sha256": "351fe489db01b894e9711aac98f8fde12f7ee2d7c4c5ec5339e9bee346ee4afa",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper003288.png",
+    "source_box": {
+      "x": 72.94964028776978,
+      "y": 13.435700575815742,
+      "width": 7.76978417266187,
+      "height": 26.679462571976973,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper033593",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper033593.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper033593.png",
+    "boxes": [],
+    "crop_box": [
+      406,
+      11,
+      490,
+      186
+    ],
+    "sha256": "c0bc2fa4a7a28a8186b2bdde0a76f268dbffa6e51f8f991c7979e1843e56c5b7",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper033593.png",
+    "source_box": {
+      "x": 64.73727478064907,
+      "y": 2.3074894514767963,
+      "width": 10.582150877403828,
+      "height": 36.38976793248945,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper033778",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper033778.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper033778.png",
+    "boxes": [],
+    "crop_box": [
+      387,
+      10,
+      464,
+      186
+    ],
+    "sha256": "40e35076ca654aa322f951e9669db39bf1b16eac125033e680126ce4721d1582",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper033778.png",
+    "source_box": {
+      "x": 61.600032174193,
+      "y": 2.0833333333333313,
+      "width": 9.80009652257898,
+      "height": 36.6561181434599,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper047258",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper047258.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper047258.png",
+    "boxes": [],
+    "crop_box": [
+      246,
+      131,
+      297,
+      249
+    ],
+    "sha256": "d3cafa43a28d1f57cd240552021c9ee6f2a5884bd8ac77193f4e6d7bcc00ba71",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper047258.png",
+    "source_box": {
+      "x": 39.16313736073873,
+      "y": 27.342002237136448,
+      "width": 6.517475278522519,
+      "height": 24.560961968680115,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper013499",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper013499.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper013499.png",
+    "boxes": [],
+    "crop_box": [
+      475,
+      31,
+      554,
+      177
+    ],
+    "sha256": "b06c61ffcb61b9c693dd92486133f9a8df70cfc63f2e4a478939e2ed7d75025f",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper013499.png",
+    "source_box": {
+      "x": 75.36764705882351,
+      "y": 6.535947712418302,
+      "width": 9.926470588235292,
+      "height": 30.392156862745097,
+      "class": "robot",
+      "jersey_color": "yellow",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper040517",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper040517.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper040517.png",
+    "boxes": [],
+    "crop_box": [
+      499,
+      55,
+      569,
+      228
+    ],
+    "sha256": "b4d78ca5edcde436c60095bae34afd7b68a74b75561f7794f860a64026caf1e9",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper040517.png",
+    "source_box": {
+      "x": 79.01272521935088,
+      "y": 11.45042194092826,
+      "width": 8.77368085808735,
+      "height": 36.12341772151893,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper036690",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper036690.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper036690.png",
+    "boxes": [],
+    "crop_box": [
+      390,
+      12,
+      470,
+      186
+    ],
+    "sha256": "f3db8102663508661ea80893826e2f72d0e9c9c0ca29b93f642c4b043fa0716e",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper036690.png",
+    "source_box": {
+      "x": 62.19974260645594,
+      "y": 2.5580168776371237,
+      "width": 10.05670043870188,
+      "height": 36.28955696202531,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper041244",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper041244.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper041244.png",
+    "boxes": [],
+    "crop_box": [
+      108,
+      75,
+      233,
+      334
+    ],
+    "sha256": "3233641929a317f362166dc5a092850be026f2a158aa52413526c42071b7392f",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper041244.png",
+    "source_box": {
+      "x": 18.818943045157948,
+      "y": 15.543248945147658,
+      "width": 15.66172781936819,
+      "height": 53.95833333333333,
+      "class": "robot",
+      "jersey_color": "r",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper020453",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper020453.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper020453.png",
+    "boxes": [],
+    "crop_box": [
+      159,
+      51,
+      230,
+      155
+    ],
+    "sha256": "85969873cc6c8c28c3a5326e11a1173745499494a7cc4751ac58f350b704361d",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper020453.png",
+    "source_box": {
+      "x": 25.98039215686275,
+      "y": 10.620915032679738,
+      "width": 8.823529411764708,
+      "height": 21.568627450980397,
+      "class": "robot",
+      "jersey_color": "black",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper051273",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper051273.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper051273.png",
+    "boxes": [],
+    "crop_box": [
+      421,
+      180,
+      463,
+      278
+    ],
+    "sha256": "eacd35b10afebffbc3a534459fc16e50dfc3a009f716f8aae376ab0df597c20e",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper051273.png",
+    "source_box": {
+      "x": 66.44295302013423,
+      "y": 37.58389261744966,
+      "width": 5.335570469798668,
+      "height": 20.402684563758392,
+      "class": "robot",
+      "jersey_color": "yellow",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper027757",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper027757.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper027757.png",
+    "boxes": [],
+    "crop_box": [
+      51,
+      90,
+      222,
+      324
+    ],
+    "sha256": "60a687d4beaf645bdcd3decdf141a4ec61e840aea261ff82cec94ac12f3ee4d7",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper027757.png",
+    "source_box": {
+      "x": 10.526254793526709,
+      "y": 18.74999999999998,
+      "width": 21.64207694196436,
+      "height": 48.80010548523201,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper036509",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper036509.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper036509.png",
+    "boxes": [],
+    "crop_box": [
+      391,
+      10,
+      469,
+      185
+    ],
+    "sha256": "0eee3609416819d7edc55bc936dd2c2f4eb50a2d20bf5c65923c5f0e0ec147c4",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper036509.png",
+    "source_box": {
+      "x": 62.22503217419294,
+      "y": 2.0833333333333313,
+      "width": 9.837628696771967,
+      "height": 36.55590717299578,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper045254",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper045254.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper045254.png",
+    "boxes": [],
+    "crop_box": [
+      504,
+      96,
+      609,
+      282
+    ],
+    "sha256": "d5d08550f3d3074533305e84618e212f2d4f606e9dad9970e6ddff209e26f004",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper045254.png",
+    "source_box": {
+      "x": 80.39196152517127,
+      "y": 20.03215883668905,
+      "width": 13.156763753351274,
+      "height": 38.68568232662192,
+      "class": "robot",
+      "jersey_color": "yellow",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper031949",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper031949.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper031949.png",
+    "boxes": [],
+    "crop_box": [
+      376,
+      5,
+      451,
+      177
+    ],
+    "sha256": "fab119a9324fee0bca9ee505e8cc5d8f5823786f2b37c03623b359ffc57fe2f4",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper031949.png",
+    "source_box": {
+      "x": 59.84374999999999,
+      "y": 1.0838607594936709,
+      "width": 9.531249999999996,
+      "height": 35.75685654008438,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper038695",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper038695.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper038695.png",
+    "boxes": [],
+    "crop_box": [
+      483,
+      141,
+      567,
+      306
+    ],
+    "sha256": "b95a8f534708091a4f485310dd32ae81970919e39f41cb18c233b47d7c7f464b",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper038695.png",
+    "source_box": {
+      "x": 76.72487130322804,
+      "y": 29.44620253164555,
+      "width": 10.61887869677202,
+      "height": 34.37763713080171,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "test"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper046164",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper046164.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper046164.png",
+    "boxes": [],
+    "crop_box": [
+      340,
+      78,
+      397,
+      219
+    ],
+    "sha256": "477d9b47cad39a8fd6c9ce16791fce9b6fc71a5c68109f34f41938d10cfd33dd",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper046164.png",
+    "source_box": {
+      "x": 53.959731543624166,
+      "y": 16.241610738255034,
+      "width": 7.147651006711413,
+      "height": 29.395973154362416,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper052549",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper052549.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper052549.png",
+    "boxes": [],
+    "crop_box": [
+      0,
+      81,
+      172,
+      401
+    ],
+    "sha256": "497eaa44fd42d457c1ee7274409d03b071f40bf2e68d7e87973a9cdb4a9bdfe1",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper052549.png",
+    "source_box": {
+      "x": 1.1073825503355705,
+      "y": 16.778523489932887,
+      "width": 22.95302013422819,
+      "height": 66.84563758389262,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper031766",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper031766.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper031766.png",
+    "boxes": [],
+    "crop_box": [
+      324,
+      6,
+      436,
+      275
+    ],
+    "sha256": "1692a50450649bd72d7615d7cb69d44dd18546383b36a1b8e372c75f042ec98d",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper031766.png",
+    "source_box": {
+      "x": 52.3437499999999,
+      "y": 1.2025316455696198,
+      "width": 14.10615347742102,
+      "height": 56.06276371308015,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper027939",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper027939.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper027939.png",
+    "boxes": [],
+    "crop_box": [
+      119,
+      8,
+      275,
+      333
+    ],
+    "sha256": "b3807ea9ecaade3f58f8722b825246cc3f770e696aa4622fa0f674969adc46d2",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper027939.png",
+    "source_box": {
+      "x": 20.9758365290178,
+      "y": 1.7062236286919785,
+      "width": 19.58022042582423,
+      "height": 67.69778481012644,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper001646",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper001646.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper001646.png",
+    "boxes": [],
+    "crop_box": [
+      183,
+      103,
+      320,
+      449
+    ],
+    "sha256": "9c7fedd8ee933f24887faaa98c08933772d8ed14cafc2f80efe7f7368a3ace77",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper001646.png",
+    "source_box": {
+      "x": 30.641861510791372,
+      "y": 21.381158029430587,
+      "width": 17.231339928057587,
+      "height": 72.07853486884194,
+      "class": "robot",
+      "jersey_color": "r",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper037784",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper037784.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper037784.png",
+    "boxes": [],
+    "crop_box": [
+      204,
+      141,
+      279,
+      299
+    ],
+    "sha256": "22b7be0762a6bbff0c2a20e0d3f1aa3bfeb7e9e55c2cc3bf059d1c51bee67724",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper037784.png",
+    "source_box": {
+      "x": 32.94958173549109,
+      "y": 29.332805907172965,
+      "width": 9.550418264508906,
+      "height": 33.04061181434598,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  },
+  {
+    "id": "nao_nao_base_extra_Upper007666",
+    "label": 0,
+    "split": "base",
+    "crop": "images/robot_crops/nao_nao_base_extra_Upper007666.jpg",
+    "scene": "images/robot_scenes/nao_nao_base_extra_Upper007666.png",
+    "boxes": [],
+    "crop_box": [
+      178,
+      21,
+      285,
+      261
+    ],
+    "sha256": "076a81213d653d64109cf89d14eab4120f7bc610572903652f8e61d6122caeb7",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "source_frame": "Upper007666.png",
+    "source_box": {
+      "x": 29.374999999999986,
+      "y": 4.374999999999998,
+      "width": 13.556654676258997,
+      "height": 49.89683301343573,
+      "class": "robot",
+      "jersey_color": "red",
+      "original_width": 640,
+      "original_height": 480
+    },
+    "annotation": "B-Human upright robot/humanoid source box with lateral padding; crop visually reviewed",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены",
+    "subset": "train"
+  }
+]

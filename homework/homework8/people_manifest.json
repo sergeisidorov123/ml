@@ -1,0 +1,5372 @@
+[
+  {
+    "id": "FudanPed00019",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00019.png",
+    "crop": "images/people_crops/FudanPed00019.jpg",
+    "boxes": [
+      [
+        6,
+        134,
+        142,
+        389
+      ],
+      [
+        193,
+        122,
+        339,
+        421
+      ]
+    ],
+    "crop_box": [
+      193,
+      122,
+      339,
+      421
+    ],
+    "width": 497,
+    "height": 442,
+    "sha256": "95b0406612cd4e8ad28200d0f3d00c97bc71b0e90ca03bea1dbc34ec362aa5e7",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00054",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00054.png",
+    "crop": "images/people_crops/PennPed00054.jpg",
+    "boxes": [
+      [
+        42,
+        21,
+        128,
+        317
+      ]
+    ],
+    "crop_box": [
+      42,
+      21,
+      128,
+      317
+    ],
+    "width": 324,
+    "height": 334,
+    "sha256": "b03a8189a12bc13f983853e86a5b547d3ef4d199a3fa6f811245081cc439ab07",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00028",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00028.png",
+    "crop": "images/people_crops/PennPed00028.jpg",
+    "boxes": [
+      [
+        210,
+        49,
+        325,
+        334
+      ]
+    ],
+    "crop_box": [
+      210,
+      49,
+      325,
+      334
+    ],
+    "width": 416,
+    "height": 368,
+    "sha256": "3e782b04ee66983b2ee1e4d0848cf6ef44d7923217515634415345e0b1685520",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00055",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00055.png",
+    "crop": "images/people_crops/FudanPed00055.jpg",
+    "boxes": [
+      [
+        147,
+        177,
+        277,
+        530
+      ]
+    ],
+    "crop_box": [
+      147,
+      177,
+      277,
+      530
+    ],
+    "width": 390,
+    "height": 555,
+    "sha256": "60e5a523651902372f1f3789374a0c555eee1e7eff4430610d03b9da1916a6c2",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00002",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00002.png",
+    "crop": "images/people_crops/PennPed00002.jpg",
+    "boxes": [
+      [
+        8,
+        83,
+        97,
+        304
+      ],
+      [
+        82,
+        44,
+        165,
+        298
+      ],
+      [
+        267,
+        83,
+        370,
+        298
+      ],
+      [
+        362,
+        32,
+        516,
+        335
+      ],
+      [
+        575,
+        74,
+        713,
+        362
+      ],
+      [
+        516,
+        91,
+        608,
+        300
+      ]
+    ],
+    "crop_box": [
+      362,
+      32,
+      516,
+      335
+    ],
+    "width": 745,
+    "height": 378,
+    "sha256": "f592a20cdb786a09d1ee2ba8fcfed7adb80fc9d9ff40069f75400b7dcd94f55c",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00065",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00065.png",
+    "crop": "images/people_crops/PennPed00065.jpg",
+    "boxes": [
+      [
+        23,
+        20,
+        139,
+        304
+      ]
+    ],
+    "crop_box": [
+      23,
+      20,
+      139,
+      304
+    ],
+    "width": 324,
+    "height": 318,
+    "sha256": "51bfd97ed3f6286d0d64ae3fc7372aa8873d88c28e6f197930ab006027155dcb",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00086",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00086.png",
+    "crop": "images/people_crops/PennPed00086.jpg",
+    "boxes": [
+      [
+        7,
+        32,
+        109,
+        253
+      ],
+      [
+        207,
+        48,
+        306,
+        318
+      ],
+      [
+        344,
+        31,
+        457,
+        325
+      ],
+      [
+        72,
+        162,
+        180,
+        353
+      ],
+      [
+        112,
+        64,
+        164,
+        197
+      ]
+    ],
+    "crop_box": [
+      344,
+      31,
+      457,
+      325
+    ],
+    "width": 474,
+    "height": 354,
+    "sha256": "17e40a1f137e9ee1e5c577111cebd3d9bc8db270873af83a250bcfda17589e35",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00077",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00077.png",
+    "crop": "images/people_crops/PennPed00077.jpg",
+    "boxes": [
+      [
+        64,
+        26,
+        181,
+        317
+      ]
+    ],
+    "crop_box": [
+      64,
+      26,
+      181,
+      317
+    ],
+    "width": 352,
+    "height": 323,
+    "sha256": "a3da377ff6246bf54759e029727681b8496d4d1554212c54a75b76469ded1a12",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00061",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00061.png",
+    "crop": "images/people_crops/FudanPed00061.jpg",
+    "boxes": [
+      [
+        164,
+        69,
+        266,
+        353
+      ],
+      [
+        342,
+        85,
+        429,
+        381
+      ],
+      [
+        405,
+        84,
+        531,
+        387
+      ]
+    ],
+    "crop_box": [
+      405,
+      84,
+      531,
+      387
+    ],
+    "width": 547,
+    "height": 407,
+    "sha256": "2bf5b3ea03d46520f7c789ae0d2cf6da5b131da921ab242e58c7e572e9b5ffbf",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00031",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00031.png",
+    "crop": "images/people_crops/FudanPed00031.jpg",
+    "boxes": [
+      [
+        297,
+        121,
+        444,
+        408
+      ]
+    ],
+    "crop_box": [
+      297,
+      121,
+      444,
+      408
+    ],
+    "width": 569,
+    "height": 430,
+    "sha256": "07895e88c4b37891f1e10581deef07760649ef806b7e50943b85920ba8e6ac05",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00034",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00034.png",
+    "crop": "images/people_crops/FudanPed00034.jpg",
+    "boxes": [
+      [
+        110,
+        36,
+        254,
+        330
+      ]
+    ],
+    "crop_box": [
+      110,
+      36,
+      254,
+      330
+    ],
+    "width": 309,
+    "height": 351,
+    "sha256": "fd3a874d822f03357cd213696f583bf990d50ee7a68463e5118c3b7a9b60d666",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00055",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00055.png",
+    "crop": "images/people_crops/PennPed00055.jpg",
+    "boxes": [
+      [
+        95,
+        50,
+        208,
+        341
+      ],
+      [
+        28,
+        7,
+        122,
+        283
+      ]
+    ],
+    "crop_box": [
+      95,
+      50,
+      208,
+      341
+    ],
+    "width": 417,
+    "height": 353,
+    "sha256": "0551ece0620b8b61d01dc34b35805d1ed211d6a3beb15e22652c4beca392eaae",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00020",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00020.png",
+    "crop": "images/people_crops/PennPed00020.jpg",
+    "boxes": [
+      [
+        141,
+        120,
+        264,
+        379
+      ],
+      [
+        386,
+        75,
+        516,
+        365
+      ],
+      [
+        444,
+        76,
+        607,
+        369
+      ]
+    ],
+    "crop_box": [
+      444,
+      76,
+      607,
+      369
+    ],
+    "width": 721,
+    "height": 428,
+    "sha256": "b7f7a5852ab701016f618f855b44634588fb90258186a086d21981a0768b0b26",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00023",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00023.png",
+    "crop": "images/people_crops/PennPed00023.jpg",
+    "boxes": [
+      [
+        106,
+        59,
+        275,
+        363
+      ]
+    ],
+    "crop_box": [
+      106,
+      59,
+      275,
+      363
+    ],
+    "width": 536,
+    "height": 382,
+    "sha256": "03543084adb0b7c14a7d3feef842d164c5e57e7c9cd8968a39f6060310d10bf5",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00003",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00003.png",
+    "crop": "images/people_crops/FudanPed00003.jpg",
+    "boxes": [
+      [
+        292,
+        134,
+        447,
+        421
+      ]
+    ],
+    "crop_box": [
+      292,
+      134,
+      447,
+      421
+    ],
+    "width": 479,
+    "height": 445,
+    "sha256": "b03d3033f65a03c20476479d2ae76cf8d3156550da005e92fb101dcd413ec75f",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00014",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00014.png",
+    "crop": "images/people_crops/FudanPed00014.jpg",
+    "boxes": [
+      [
+        233,
+        85,
+        405,
+        367
+      ]
+    ],
+    "crop_box": [
+      233,
+      85,
+      405,
+      367
+    ],
+    "width": 456,
+    "height": 383,
+    "sha256": "462eff93c4c491fb20e1e01e5949dcc27b93d6421507a6454356578040c73ce6",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00037",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00037.png",
+    "crop": "images/people_crops/FudanPed00037.jpg",
+    "boxes": [
+      [
+        258,
+        62,
+        415,
+        349
+      ],
+      [
+        189,
+        97,
+        209,
+        170
+      ]
+    ],
+    "crop_box": [
+      258,
+      62,
+      415,
+      349
+    ],
+    "width": 423,
+    "height": 361,
+    "sha256": "25b65868cf25c4279bcf9550567023f4a44cd349930ddc119fdd3f83f2ed3d0c",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00087",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00087.png",
+    "crop": "images/people_crops/PennPed00087.jpg",
+    "boxes": [
+      [
+        22,
+        15,
+        148,
+        322
+      ]
+    ],
+    "crop_box": [
+      22,
+      15,
+      148,
+      322
+    ],
+    "width": 325,
+    "height": 343,
+    "sha256": "6a9c5effaef71340335c2aa16bc0af5424e93e845714236b4351202bcbfc2cd0",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00053",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00053.png",
+    "crop": "images/people_crops/FudanPed00053.jpg",
+    "boxes": [
+      [
+        93,
+        168,
+        195,
+        432
+      ],
+      [
+        388,
+        149,
+        499,
+        453
+      ]
+    ],
+    "crop_box": [
+      388,
+      149,
+      499,
+      453
+    ],
+    "width": 541,
+    "height": 580,
+    "sha256": "d13b3932c3fad5cd25385e881fb1a119cb269dde8a3e8693f47482ca26f6337b",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00070",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00070.png",
+    "crop": "images/people_crops/FudanPed00070.jpg",
+    "boxes": [
+      [
+        287,
+        69,
+        370,
+        364
+      ]
+    ],
+    "crop_box": [
+      287,
+      69,
+      370,
+      364
+    ],
+    "width": 390,
+    "height": 382,
+    "sha256": "809c783d024a72ae376aac182f4725c53be69141753eac6913040daf42b97e17",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00019",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00019.png",
+    "crop": "images/people_crops/PennPed00019.jpg",
+    "boxes": [
+      [
+        16,
+        77,
+        106,
+        356
+      ],
+      [
+        159,
+        69,
+        249,
+        361
+      ],
+      [
+        314,
+        59,
+        389,
+        364
+      ],
+      [
+        367,
+        46,
+        473,
+        370
+      ],
+      [
+        463,
+        74,
+        539,
+        362
+      ],
+      [
+        524,
+        79,
+        636,
+        375
+      ],
+      [
+        599,
+        77,
+        704,
+        375
+      ]
+    ],
+    "crop_box": [
+      367,
+      46,
+      473,
+      370
+    ],
+    "width": 734,
+    "height": 404,
+    "sha256": "8f9c7e9ce94bd961e2bfa5e93543ad72cedff776f575bea6198681fa1de27d32",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00066",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00066.png",
+    "crop": "images/people_crops/FudanPed00066.jpg",
+    "boxes": [
+      [
+        247,
+        49,
+        329,
+        351
+      ]
+    ],
+    "crop_box": [
+      247,
+      49,
+      329,
+      351
+    ],
+    "width": 360,
+    "height": 359,
+    "sha256": "f967300ad1b6f62ae29d1dc5779b8f089ba36744435d1092c7bac71e6808fc1e",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00039",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00039.png",
+    "crop": "images/people_crops/FudanPed00039.jpg",
+    "boxes": [
+      [
+        136,
+        136,
+        199,
+        311
+      ],
+      [
+        230,
+        129,
+        331,
+        410
+      ]
+    ],
+    "crop_box": [
+      230,
+      129,
+      331,
+      410
+    ],
+    "width": 493,
+    "height": 487,
+    "sha256": "7eeae79042f8f00c22658834e0d177eb0c9dd5ea1019cbde3dd4c5083786cb59",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00045",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00045.png",
+    "crop": "images/people_crops/FudanPed00045.jpg",
+    "boxes": [
+      [
+        197,
+        197,
+        294,
+        481
+      ],
+      [
+        318,
+        200,
+        403,
+        499
+      ],
+      [
+        394,
+        211,
+        469,
+        495
+      ]
+    ],
+    "crop_box": [
+      197,
+      197,
+      294,
+      481
+    ],
+    "width": 487,
+    "height": 538,
+    "sha256": "932e97b8d33e3c58c604b850fcb6a9a68fd6998ec92d1dd1a268edac76d6d86c",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00010",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00010.png",
+    "crop": "images/people_crops/PennPed00010.jpg",
+    "boxes": [
+      [
+        17,
+        58,
+        103,
+        340
+      ],
+      [
+        185,
+        55,
+        262,
+        337
+      ],
+      [
+        308,
+        140,
+        436,
+        493
+      ],
+      [
+        474,
+        75,
+        618,
+        451
+      ],
+      [
+        391,
+        57,
+        485,
+        421
+      ],
+      [
+        562,
+        35,
+        681,
+        394
+      ]
+    ],
+    "crop_box": [
+      474,
+      75,
+      618,
+      451
+    ],
+    "width": 750,
+    "height": 495,
+    "sha256": "1269fc6c4ebd9ad51953de3e6a1a3c3f8735138d3c5b4e29598b0357a5d3e688",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00001",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00001.png",
+    "crop": "images/people_crops/FudanPed00001.jpg",
+    "boxes": [
+      [
+        159,
+        181,
+        302,
+        431
+      ],
+      [
+        419,
+        170,
+        535,
+        486
+      ]
+    ],
+    "crop_box": [
+      419,
+      170,
+      535,
+      486
+    ],
+    "width": 559,
+    "height": 536,
+    "sha256": "130e9f9121b88ab69105f1685ce17625e97d0ef590adb9b9f076f62fc08b3343",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00018",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00018.png",
+    "crop": "images/people_crops/FudanPed00018.jpg",
+    "boxes": [
+      [
+        19,
+        18,
+        126,
+        304
+      ]
+    ],
+    "crop_box": [
+      19,
+      18,
+      126,
+      304
+    ],
+    "width": 253,
+    "height": 323,
+    "sha256": "503db5cbf8a4d2f68e7a191656320163a74b0d0a7e7a0de0bc7645c7330379e6",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00043",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00043.png",
+    "crop": "images/people_crops/FudanPed00043.jpg",
+    "boxes": [
+      [
+        63,
+        138,
+        147,
+        426
+      ],
+      [
+        155,
+        138,
+        248,
+        435
+      ],
+      [
+        260,
+        127,
+        358,
+        431
+      ]
+    ],
+    "crop_box": [
+      260,
+      127,
+      358,
+      431
+    ],
+    "width": 493,
+    "height": 518,
+    "sha256": "af2dfd6ca0e27005d25d563b27b9a44229b7da7be1be2c766b22eb7c016ddd59",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00076",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00076.png",
+    "crop": "images/people_crops/PennPed00076.jpg",
+    "boxes": [
+      [
+        186,
+        28,
+        320,
+        319
+      ]
+    ],
+    "crop_box": [
+      186,
+      28,
+      320,
+      319
+    ],
+    "width": 342,
+    "height": 348,
+    "sha256": "666acede5167c5fd2b143aeaf7194f06da2be2dfa0e4e107faa3f720b0a98396",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00044",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00044.png",
+    "crop": "images/people_crops/FudanPed00044.jpg",
+    "boxes": [
+      [
+        245,
+        169,
+        340,
+        462
+      ],
+      [
+        336,
+        174,
+        426,
+        464
+      ],
+      [
+        36,
+        128,
+        181,
+        492
+      ],
+      [
+        435,
+        156,
+        501,
+        402
+      ]
+    ],
+    "crop_box": [
+      36,
+      128,
+      181,
+      492
+    ],
+    "width": 521,
+    "height": 494,
+    "sha256": "2037dca40073cecf99494127133a7beefbc29f54c97f02b876bc2fffabc6ce8f",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00020",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00020.png",
+    "crop": "images/people_crops/FudanPed00020.jpg",
+    "boxes": [
+      [
+        338,
+        98,
+        508,
+        381
+      ]
+    ],
+    "crop_box": [
+      338,
+      98,
+      508,
+      381
+    ],
+    "width": 555,
+    "height": 417,
+    "sha256": "bc12e150a972308d87356e57f5e0aea246b18c4dd99826a581729a5e8686b6a2",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00043",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00043.png",
+    "crop": "images/people_crops/PennPed00043.jpg",
+    "boxes": [
+      [
+        188,
+        46,
+        297,
+        334
+      ],
+      [
+        331,
+        62,
+        434,
+        328
+      ],
+      [
+        141,
+        77,
+        199,
+        254
+      ],
+      [
+        281,
+        77,
+        328,
+        253
+      ],
+      [
+        429,
+        72,
+        456,
+        154
+      ]
+    ],
+    "crop_box": [
+      188,
+      46,
+      297,
+      334
+    ],
+    "width": 480,
+    "height": 356,
+    "sha256": "4cefcab118e2f17ad5391b6ec65ad9939fa346fec78566b2b0d12c944d83283c",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00038",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00038.png",
+    "crop": "images/people_crops/PennPed00038.jpg",
+    "boxes": [
+      [
+        231,
+        38,
+        368,
+        316
+      ]
+    ],
+    "crop_box": [
+      231,
+      38,
+      368,
+      316
+    ],
+    "width": 436,
+    "height": 353,
+    "sha256": "0805e5a01ec02d777190e5c0924d1a78a3d619eb7b9f9a2f47abbf8f858bcc42",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00003",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00003.png",
+    "crop": "images/people_crops/PennPed00003.jpg",
+    "boxes": [
+      [
+        7,
+        32,
+        174,
+        365
+      ],
+      [
+        451,
+        63,
+        531,
+        353
+      ],
+      [
+        530,
+        90,
+        661,
+        381
+      ]
+    ],
+    "crop_box": [
+      7,
+      32,
+      174,
+      365
+    ],
+    "width": 670,
+    "height": 418,
+    "sha256": "4e4043c81ffc66afa3c18745af39c29fff5237c3c635bc4e84d912ce7918dcbb",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00050",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00050.png",
+    "crop": "images/people_crops/FudanPed00050.jpg",
+    "boxes": [
+      [
+        32,
+        202,
+        135,
+        484
+      ],
+      [
+        290,
+        204,
+        369,
+        412
+      ]
+    ],
+    "crop_box": [
+      32,
+      202,
+      135,
+      484
+    ],
+    "width": 580,
+    "height": 516,
+    "sha256": "b90c782e296230b266965aab2ef22d4557c4463b96400c4341f459cc2207ca21",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00030",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00030.png",
+    "crop": "images/people_crops/PennPed00030.jpg",
+    "boxes": [
+      [
+        138,
+        36,
+        253,
+        339
+      ],
+      [
+        2,
+        36,
+        95,
+        342
+      ],
+      [
+        315,
+        42,
+        448,
+        339
+      ]
+    ],
+    "crop_box": [
+      315,
+      42,
+      448,
+      339
+    ],
+    "width": 479,
+    "height": 354,
+    "sha256": "db74f21928363ebe24e4a527da6f915f0e7eab59383802d5b18f6c39fbdd8a66",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00091",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00091.png",
+    "crop": "images/people_crops/PennPed00091.jpg",
+    "boxes": [
+      [
+        211,
+        25,
+        336,
+        321
+      ]
+    ],
+    "crop_box": [
+      211,
+      25,
+      336,
+      321
+    ],
+    "width": 372,
+    "height": 324,
+    "sha256": "960c780e4f43ce92f18b5ac741aee582bf949cd63e3142b6955a5464e49f794a",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00039",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00039.png",
+    "crop": "images/people_crops/PennPed00039.jpg",
+    "boxes": [
+      [
+        325,
+        72,
+        411,
+        360
+      ]
+    ],
+    "crop_box": [
+      325,
+      72,
+      411,
+      360
+    ],
+    "width": 495,
+    "height": 373,
+    "sha256": "87daf6faa2c8d4aa76be2aedfc4fad9b1dd3f0edc9085115545f1f8251e4cb6a",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00004",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00004.png",
+    "crop": "images/people_crops/FudanPed00004.jpg",
+    "boxes": [
+      [
+        167,
+        59,
+        324,
+        338
+      ],
+      [
+        8,
+        60,
+        48,
+        180
+      ]
+    ],
+    "crop_box": [
+      167,
+      59,
+      324,
+      338
+    ],
+    "width": 396,
+    "height": 397,
+    "sha256": "6fe1dd2796d013a02c7ca19d4907b6463015769ff9b43ba5641ab924dbbd53eb",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00068",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00068.png",
+    "crop": "images/people_crops/PennPed00068.jpg",
+    "boxes": [
+      [
+        42,
+        88,
+        153,
+        364
+      ],
+      [
+        188,
+        55,
+        283,
+        349
+      ],
+      [
+        430,
+        36,
+        568,
+        349
+      ],
+      [
+        383,
+        46,
+        455,
+        223
+      ]
+    ],
+    "crop_box": [
+      430,
+      36,
+      568,
+      349
+    ],
+    "width": 603,
+    "height": 387,
+    "sha256": "b014e256a71271a51f8ae14cdad1c6aa07f19163e415789edb22838c05fcbaa7",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00074",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00074.png",
+    "crop": "images/people_crops/PennPed00074.jpg",
+    "boxes": [
+      [
+        259,
+        30,
+        422,
+        317
+      ],
+      [
+        197,
+        22,
+        283,
+        303
+      ],
+      [
+        116,
+        47,
+        223,
+        295
+      ]
+    ],
+    "crop_box": [
+      259,
+      30,
+      422,
+      317
+    ],
+    "width": 442,
+    "height": 332,
+    "sha256": "f808c322abdcf6689739eae3569fd50b175104156b459f178869071058bc53a7",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00033",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00033.png",
+    "crop": "images/people_crops/FudanPed00033.jpg",
+    "boxes": [
+      [
+        164,
+        52,
+        304,
+        346
+      ]
+    ],
+    "crop_box": [
+      164,
+      52,
+      304,
+      346
+    ],
+    "width": 396,
+    "height": 357,
+    "sha256": "3257fc93e746e2258ff273e4110c3ab0ce1f5867f472a69acf536f585f9f4509",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00064",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00064.png",
+    "crop": "images/people_crops/PennPed00064.jpg",
+    "boxes": [
+      [
+        225,
+        28,
+        334,
+        314
+      ]
+    ],
+    "crop_box": [
+      225,
+      28,
+      334,
+      314
+    ],
+    "width": 370,
+    "height": 322,
+    "sha256": "4dfb95e5d231c6c9ccd16b94eebbe1d3de80d0c89d3c07f935ef3b49174f9d6a",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00015",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00015.png",
+    "crop": "images/people_crops/FudanPed00015.jpg",
+    "boxes": [
+      [
+        18,
+        42,
+        174,
+        327
+      ]
+    ],
+    "crop_box": [
+      18,
+      42,
+      174,
+      327
+    ],
+    "width": 336,
+    "height": 349,
+    "sha256": "4cc05505e799e564dbf025cccbeb36698ac959d9f743bb383574e76f1c0d0619",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00061",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00061.png",
+    "crop": "images/people_crops/PennPed00061.jpg",
+    "boxes": [
+      [
+        33,
+        16,
+        143,
+        307
+      ],
+      [
+        249,
+        56,
+        275,
+        146
+      ]
+    ],
+    "crop_box": [
+      33,
+      16,
+      143,
+      307
+    ],
+    "width": 314,
+    "height": 320,
+    "sha256": "20b064554baedefdd2ccdf058047df35b432013adc2e4c89f6374dc12ae3796f",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00092",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00092.png",
+    "crop": "images/people_crops/PennPed00092.jpg",
+    "boxes": [
+      [
+        105,
+        75,
+        311,
+        434
+      ],
+      [
+        287,
+        93,
+        464,
+        390
+      ]
+    ],
+    "crop_box": [
+      105,
+      75,
+      311,
+      434
+    ],
+    "width": 600,
+    "height": 447,
+    "sha256": "ffa7730b89a87a352e616af579c1cdf06035a8d003e8c1a739760e63cb9905fa",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00005",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00005.png",
+    "crop": "images/people_crops/PennPed00005.jpg",
+    "boxes": [
+      [
+        67,
+        129,
+        159,
+        405
+      ],
+      [
+        164,
+        153,
+        252,
+        410
+      ],
+      [
+        262,
+        143,
+        415,
+        439
+      ],
+      [
+        539,
+        168,
+        666,
+        440
+      ],
+      [
+        601,
+        155,
+        701,
+        396
+      ]
+    ],
+    "crop_box": [
+      262,
+      143,
+      415,
+      439
+    ],
+    "width": 767,
+    "height": 454,
+    "sha256": "aef0bab472bac61c91e11afbfe264f950e1b7b495c031be80b61d32eb477008b",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00065",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00065.png",
+    "crop": "images/people_crops/FudanPed00065.jpg",
+    "boxes": [
+      [
+        28,
+        68,
+        147,
+        382
+      ],
+      [
+        146,
+        83,
+        242,
+        385
+      ],
+      [
+        233,
+        69,
+        311,
+        393
+      ],
+      [
+        341,
+        87,
+        430,
+        351
+      ],
+      [
+        12,
+        57,
+        64,
+        183
+      ]
+    ],
+    "crop_box": [
+      28,
+      68,
+      147,
+      382
+    ],
+    "width": 504,
+    "height": 411,
+    "sha256": "8b5c5678f49a6bfba25bf0c34c055fb6d063b91410dac1f50da9f99da0c41ed4",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00031",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00031.png",
+    "crop": "images/people_crops/PennPed00031.jpg",
+    "boxes": [
+      [
+        243,
+        41,
+        390,
+        329
+      ]
+    ],
+    "crop_box": [
+      243,
+      41,
+      390,
+      329
+    ],
+    "width": 487,
+    "height": 340,
+    "sha256": "9aed5638ae8ecebee8f2a6919a3c8f5b5f9975b9bf0c6f09550d08adc9e064b1",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00054",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00054.png",
+    "crop": "images/people_crops/FudanPed00054.jpg",
+    "boxes": [
+      [
+        96,
+        134,
+        182,
+        418
+      ],
+      [
+        286,
+        113,
+        358,
+        332
+      ],
+      [
+        363,
+        120,
+        437,
+        329
+      ]
+    ],
+    "crop_box": [
+      96,
+      134,
+      182,
+      418
+    ],
+    "width": 533,
+    "height": 498,
+    "sha256": "15e193741fa3e38f197f97cdddc8efe0762620c19bb696731f829a7ce25c50fa",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00062",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00062.png",
+    "crop": "images/people_crops/FudanPed00062.jpg",
+    "boxes": [
+      [
+        174,
+        24,
+        255,
+        321
+      ],
+      [
+        290,
+        33,
+        377,
+        330
+      ]
+    ],
+    "crop_box": [
+      290,
+      33,
+      377,
+      330
+    ],
+    "width": 414,
+    "height": 341,
+    "sha256": "afbff4b1411263f3df756bd3ad938d415c865dad7b683e789960206031d0114c",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00057",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00057.png",
+    "crop": "images/people_crops/PennPed00057.jpg",
+    "boxes": [
+      [
+        157,
+        63,
+        261,
+        352
+      ],
+      [
+        197,
+        17,
+        266,
+        294
+      ]
+    ],
+    "crop_box": [
+      157,
+      63,
+      261,
+      352
+    ],
+    "width": 371,
+    "height": 364,
+    "sha256": "7fa9f32b67b00a9e03bf1c50bb98a53deaf567294713053c355aed36f70a8dd4",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00026",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00026.png",
+    "crop": "images/people_crops/PennPed00026.jpg",
+    "boxes": [
+      [
+        302,
+        93,
+        447,
+        382
+      ],
+      [
+        199,
+        119,
+        291,
+        373
+      ]
+    ],
+    "crop_box": [
+      302,
+      93,
+      447,
+      382
+    ],
+    "width": 530,
+    "height": 410,
+    "sha256": "d249c2e810a868aada1316d700788aa4394425fd5f11fb8fcef0f816c40bdea1",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00021",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00021.png",
+    "crop": "images/people_crops/PennPed00021.jpg",
+    "boxes": [
+      [
+        67,
+        117,
+        218,
+        407
+      ],
+      [
+        463,
+        80,
+        586,
+        382
+      ],
+      [
+        558,
+        110,
+        681,
+        381
+      ]
+    ],
+    "crop_box": [
+      67,
+      117,
+      218,
+      407
+    ],
+    "width": 712,
+    "height": 436,
+    "sha256": "b2f9df0c5a67504ed9bed82191f76cfd349ad2dfc5510e2616e6ba181dde36b2",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00052",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00052.png",
+    "crop": "images/people_crops/PennPed00052.jpg",
+    "boxes": [
+      [
+        76,
+        136,
+        175,
+        428
+      ],
+      [
+        168,
+        180,
+        294,
+        491
+      ],
+      [
+        402,
+        156,
+        494,
+        400
+      ],
+      [
+        523,
+        82,
+        613,
+        393
+      ],
+      [
+        278,
+        178,
+        334,
+        314
+      ]
+    ],
+    "crop_box": [
+      168,
+      180,
+      294,
+      491
+    ],
+    "width": 682,
+    "height": 525,
+    "sha256": "013d6f5301dba88f4d9d678a9b46237458f96476fbe42f682d0b01d2c4ec9eaa",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00079",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00079.png",
+    "crop": "images/people_crops/PennPed00079.jpg",
+    "boxes": [
+      [
+        205,
+        24,
+        324,
+        320
+      ]
+    ],
+    "crop_box": [
+      205,
+      24,
+      324,
+      320
+    ],
+    "width": 357,
+    "height": 337,
+    "sha256": "9660daa8c7dcb816fd8e61db347ca14f4a70f4cc34f5e8e07cc38ae539a9ea1b",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00017",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00017.png",
+    "crop": "images/people_crops/FudanPed00017.jpg",
+    "boxes": [
+      [
+        114,
+        47,
+        244,
+        332
+      ]
+    ],
+    "crop_box": [
+      114,
+      47,
+      244,
+      332
+    ],
+    "width": 266,
+    "height": 342,
+    "sha256": "dbd67282eb910f4b5ef412e1a8255fc83cf40044ea0d4dff7c12c09c231eeb66",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00063",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00063.png",
+    "crop": "images/people_crops/PennPed00063.jpg",
+    "boxes": [
+      [
+        87,
+        49,
+        262,
+        339
+      ]
+    ],
+    "crop_box": [
+      87,
+      49,
+      262,
+      339
+    ],
+    "width": 427,
+    "height": 350,
+    "sha256": "f98c75b5d6016c37f9c0ba0be1391dec96535fc909525902c95d3dd5d97dbc78",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00073",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00073.png",
+    "crop": "images/people_crops/FudanPed00073.jpg",
+    "boxes": [
+      [
+        55,
+        65,
+        159,
+        360
+      ],
+      [
+        192,
+        58,
+        289,
+        352
+      ]
+    ],
+    "crop_box": [
+      55,
+      65,
+      159,
+      360
+    ],
+    "width": 516,
+    "height": 392,
+    "sha256": "dcce270c15ff5f3aabbe30cd15bb71c5c794494ad56fbf49be88045d6b284657",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00001",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00001.png",
+    "crop": "images/people_crops/PennPed00001.jpg",
+    "boxes": [
+      [
+        82,
+        65,
+        197,
+        353
+      ],
+      [
+        264,
+        74,
+        355,
+        338
+      ],
+      [
+        402,
+        37,
+        501,
+        348
+      ],
+      [
+        513,
+        64,
+        610,
+        318
+      ],
+      [
+        205,
+        24,
+        266,
+        196
+      ]
+    ],
+    "crop_box": [
+      82,
+      65,
+      197,
+      353
+    ],
+    "width": 612,
+    "height": 406,
+    "sha256": "c90af45f1e29ad3b4dcab13551ed7d26f5bc7e35f12907f79469ac6714e9da94",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00032",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00032.png",
+    "crop": "images/people_crops/PennPed00032.jpg",
+    "boxes": [
+      [
+        97,
+        49,
+        203,
+        329
+      ]
+    ],
+    "crop_box": [
+      97,
+      49,
+      203,
+      329
+    ],
+    "width": 374,
+    "height": 344,
+    "sha256": "43373527ea5a5c54ebff583e48f4469bb5a96f772809b9f871a7f8404df633c0",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00073",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00073.png",
+    "crop": "images/people_crops/PennPed00073.jpg",
+    "boxes": [
+      [
+        97,
+        37,
+        191,
+        326
+      ],
+      [
+        181,
+        45,
+        277,
+        340
+      ],
+      [
+        315,
+        50,
+        413,
+        331
+      ]
+    ],
+    "crop_box": [
+      181,
+      45,
+      277,
+      340
+    ],
+    "width": 579,
+    "height": 364,
+    "sha256": "d594713b8c8d17d69574b454a9e0172cf5735c40375c75f1207ea9254162b184",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00026",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00026.png",
+    "crop": "images/people_crops/FudanPed00026.jpg",
+    "boxes": [
+      [
+        43,
+        77,
+        150,
+        389
+      ],
+      [
+        184,
+        88,
+        279,
+        373
+      ]
+    ],
+    "crop_box": [
+      43,
+      77,
+      150,
+      389
+    ],
+    "width": 440,
+    "height": 427,
+    "sha256": "7a108cfe65ba5c2c89ea0400095685811854d78c618a39cd6298d183666c8780",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00064",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00064.png",
+    "crop": "images/people_crops/FudanPed00064.jpg",
+    "boxes": [
+      [
+        140,
+        97,
+        240,
+        387
+      ],
+      [
+        316,
+        100,
+        400,
+        395
+      ],
+      [
+        399,
+        111,
+        517,
+        407
+      ]
+    ],
+    "crop_box": [
+      399,
+      111,
+      517,
+      407
+    ],
+    "width": 546,
+    "height": 420,
+    "sha256": "b0c82705386da139d8de4a67f0c20d7d59bc0f8d6d8cea052db3b791b8399c07",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00067",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00067.png",
+    "crop": "images/people_crops/FudanPed00067.jpg",
+    "boxes": [
+      [
+        61,
+        78,
+        184,
+        375
+      ]
+    ],
+    "crop_box": [
+      61,
+      78,
+      184,
+      375
+    ],
+    "width": 453,
+    "height": 416,
+    "sha256": "1763f4b22c509622b254bd6af3203e78b92e8dee2573e1dff3afc8d7dcd28e16",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00047",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00047.png",
+    "crop": "images/people_crops/PennPed00047.jpg",
+    "boxes": [
+      [
+        115,
+        56,
+        253,
+        336
+      ],
+      [
+        245,
+        32,
+        381,
+        320
+      ],
+      [
+        361,
+        41,
+        427,
+        194
+      ]
+    ],
+    "crop_box": [
+      245,
+      32,
+      381,
+      320
+    ],
+    "width": 500,
+    "height": 346,
+    "sha256": "8a9d95ccdbd17346683f0eedf325f7b71277251ef31601fffc95d073624a220f",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00028",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00028.png",
+    "crop": "images/people_crops/FudanPed00028.jpg",
+    "boxes": [
+      [
+        6,
+        15,
+        149,
+        303
+      ],
+      [
+        185,
+        17,
+        316,
+        321
+      ]
+    ],
+    "crop_box": [
+      6,
+      15,
+      149,
+      303
+    ],
+    "width": 317,
+    "height": 345,
+    "sha256": "1ec63cb8a132e1a309aee66763940a15c556f91a1fd32a72e4c7ec5b7de009a3",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00036",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00036.png",
+    "crop": "images/people_crops/PennPed00036.jpg",
+    "boxes": [
+      [
+        55,
+        61,
+        164,
+        330
+      ],
+      [
+        513,
+        33,
+        636,
+        328
+      ]
+    ],
+    "crop_box": [
+      513,
+      33,
+      636,
+      328
+    ],
+    "width": 694,
+    "height": 370,
+    "sha256": "a12b365a9cbd818ec307873a5bfa044f4d667cda6248706ae420d6353ab8147b",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00058",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00058.png",
+    "crop": "images/people_crops/PennPed00058.jpg",
+    "boxes": [
+      [
+        166,
+        26,
+        245,
+        316
+      ],
+      [
+        227,
+        30,
+        307,
+        291
+      ],
+      [
+        321,
+        65,
+        452,
+        351
+      ],
+      [
+        294,
+        21,
+        374,
+        274
+      ]
+    ],
+    "crop_box": [
+      321,
+      65,
+      452,
+      351
+    ],
+    "width": 509,
+    "height": 380,
+    "sha256": "02acf9b54c5721283950f204446dd3030967ab48c3c826deeceb45e224e1e60f",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00052",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00052.png",
+    "crop": "images/people_crops/FudanPed00052.jpg",
+    "boxes": [
+      [
+        205,
+        188,
+        308,
+        492
+      ]
+    ],
+    "crop_box": [
+      205,
+      188,
+      308,
+      492
+    ],
+    "width": 461,
+    "height": 504,
+    "sha256": "afe9b8fc9bf30d6dad10103565c1d899b36bc42d000bfa5206d9d0d17f5079dd",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00069",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00069.png",
+    "crop": "images/people_crops/PennPed00069.jpg",
+    "boxes": [
+      [
+        58,
+        43,
+        149,
+        330
+      ],
+      [
+        168,
+        39,
+        269,
+        310
+      ]
+    ],
+    "crop_box": [
+      168,
+      39,
+      269,
+      310
+    ],
+    "width": 388,
+    "height": 345,
+    "sha256": "b6577317e926129d8f5c2e0f0cabecd34289f85c0a6c28ff2abd4bacf170acc9",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00005",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00005.png",
+    "crop": "images/people_crops/FudanPed00005.jpg",
+    "boxes": [
+      [
+        187,
+        58,
+        320,
+        336
+      ],
+      [
+        1,
+        52,
+        40,
+        158
+      ]
+    ],
+    "crop_box": [
+      187,
+      58,
+      320,
+      336
+    ],
+    "width": 335,
+    "height": 344,
+    "sha256": "4de7a665b06b680c715c2d6941611bb372ac0c33d98a09ac1673cbe6af1a66f7",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00029",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00029.png",
+    "crop": "images/people_crops/PennPed00029.jpg",
+    "boxes": [
+      [
+        113,
+        64,
+        214,
+        370
+      ],
+      [
+        273,
+        97,
+        339,
+        391
+      ],
+      [
+        362,
+        101,
+        466,
+        388
+      ],
+      [
+        508,
+        102,
+        585,
+        392
+      ]
+    ],
+    "crop_box": [
+      113,
+      64,
+      214,
+      370
+    ],
+    "width": 672,
+    "height": 418,
+    "sha256": "1de4928a9f5b8ea02ff7c540e28b715a3aef2b9f347ce7ec444fa4f9f5e3a388",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00083",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00083.png",
+    "crop": "images/people_crops/PennPed00083.jpg",
+    "boxes": [
+      [
+        107,
+        31,
+        249,
+        327
+      ],
+      [
+        37,
+        21,
+        124,
+        299
+      ]
+    ],
+    "crop_box": [
+      107,
+      31,
+      249,
+      327
+    ],
+    "width": 371,
+    "height": 341,
+    "sha256": "2cd01d7951082b3786a98e5002b89f53af0c3042e9434107a9bb9eba5d801fe6",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00042",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00042.png",
+    "crop": "images/people_crops/FudanPed00042.jpg",
+    "boxes": [
+      [
+        158,
+        185,
+        250,
+        470
+      ],
+      [
+        287,
+        155,
+        392,
+        449
+      ]
+    ],
+    "crop_box": [
+      287,
+      155,
+      392,
+      449
+    ],
+    "width": 588,
+    "height": 547,
+    "sha256": "257169d70d4b46d3ecc64bdc7287af287ed43bdeec48e1ae95e17506e63548bb",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00095",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00095.png",
+    "crop": "images/people_crops/PennPed00095.jpg",
+    "boxes": [
+      [
+        192,
+        49,
+        300,
+        337
+      ],
+      [
+        319,
+        54,
+        432,
+        335
+      ]
+    ],
+    "crop_box": [
+      319,
+      54,
+      432,
+      335
+    ],
+    "width": 512,
+    "height": 375,
+    "sha256": "a61e2030a7f644689b0508d64f112fb254141e986169b8322bab9954d71bcbf7",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00075",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00075.png",
+    "crop": "images/people_crops/PennPed00075.jpg",
+    "boxes": [
+      [
+        193,
+        22,
+        335,
+        308
+      ]
+    ],
+    "crop_box": [
+      193,
+      22,
+      335,
+      308
+    ],
+    "width": 368,
+    "height": 322,
+    "sha256": "3b06ac8106fd832fb473e98f06033e80dce34b298a2dd31890b2cece5429b318",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00072",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00072.png",
+    "crop": "images/people_crops/PennPed00072.jpg",
+    "boxes": [
+      [
+        133,
+        24,
+        254,
+        337
+      ],
+      [
+        279,
+        51,
+        431,
+        330
+      ]
+    ],
+    "crop_box": [
+      279,
+      51,
+      431,
+      330
+    ],
+    "width": 473,
+    "height": 348,
+    "sha256": "4839f8ddd782becdddb4f778d018211392cfbe3c588a0d98e322d639be767f98",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00027",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00027.png",
+    "crop": "images/people_crops/PennPed00027.jpg",
+    "boxes": [
+      [
+        125,
+        92,
+        212,
+        363
+      ],
+      [
+        203,
+        80,
+        322,
+        367
+      ],
+      [
+        346,
+        88,
+        463,
+        342
+      ]
+    ],
+    "crop_box": [
+      203,
+      80,
+      322,
+      367
+    ],
+    "width": 492,
+    "height": 391,
+    "sha256": "24ff119f34cdee0759782417cc2ef0d65fb194d4bc36f424bb9e6d73b94243ac",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00080",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00080.png",
+    "crop": "images/people_crops/PennPed00080.jpg",
+    "boxes": [
+      [
+        71,
+        46,
+        175,
+        339
+      ],
+      [
+        197,
+        42,
+        314,
+        339
+      ],
+      [
+        319,
+        43,
+        422,
+        332
+      ]
+    ],
+    "crop_box": [
+      197,
+      42,
+      314,
+      339
+    ],
+    "width": 435,
+    "height": 361,
+    "sha256": "e42c0af77ed57ad7da64bede5a7e821e81cdea523c77e60cf1a9ecf0db5900f9",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00022",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00022.png",
+    "crop": "images/people_crops/PennPed00022.jpg",
+    "boxes": [
+      [
+        29,
+        117,
+        167,
+        413
+      ],
+      [
+        119,
+        148,
+        257,
+        413
+      ],
+      [
+        215,
+        151,
+        354,
+        416
+      ],
+      [
+        704,
+        128,
+        839,
+        390
+      ],
+      [
+        344,
+        161,
+        424,
+        342
+      ]
+    ],
+    "crop_box": [
+      29,
+      117,
+      167,
+      413
+    ],
+    "width": 925,
+    "height": 486,
+    "sha256": "23897c9466e2a7b13206aeb0e188fd972b3cee624c4c90dce472f1c46af1c996",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00032",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00032.png",
+    "crop": "images/people_crops/FudanPed00032.jpg",
+    "boxes": [
+      [
+        455,
+        161,
+        573,
+        453
+      ]
+    ],
+    "crop_box": [
+      455,
+      161,
+      573,
+      453
+    ],
+    "width": 608,
+    "height": 474,
+    "sha256": "ba975b6872be7e71a450a23551d214e851fe6c2a67174a852225e0f64c07c6d9",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00053",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00053.png",
+    "crop": "images/people_crops/PennPed00053.jpg",
+    "boxes": [
+      [
+        14,
+        28,
+        124,
+        325
+      ],
+      [
+        168,
+        26,
+        266,
+        329
+      ]
+    ],
+    "crop_box": [
+      14,
+      28,
+      124,
+      325
+    ],
+    "width": 377,
+    "height": 344,
+    "sha256": "74c46329449d376e1afc11aac5b58d282e356822c6229cdf51208069686c9d03",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00022",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00022.png",
+    "crop": "images/people_crops/FudanPed00022.jpg",
+    "boxes": [
+      [
+        111,
+        168,
+        209,
+        449
+      ],
+      [
+        396,
+        170,
+        514,
+        455
+      ]
+    ],
+    "crop_box": [
+      396,
+      170,
+      514,
+      455
+    ],
+    "width": 536,
+    "height": 465,
+    "sha256": "90b0d600f87345555e4264e55137389ddb8a75e847b1828d13e31de5f812c45e",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00060",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00060.png",
+    "crop": "images/people_crops/PennPed00060.jpg",
+    "boxes": [
+      [
+        42,
+        22,
+        142,
+        326
+      ],
+      [
+        188,
+        20,
+        283,
+        230
+      ],
+      [
+        116,
+        27,
+        191,
+        226
+      ],
+      [
+        272,
+        80,
+        389,
+        327
+      ],
+      [
+        377,
+        30,
+        476,
+        330
+      ]
+    ],
+    "crop_box": [
+      42,
+      22,
+      142,
+      326
+    ],
+    "width": 505,
+    "height": 351,
+    "sha256": "939cd2ab0d63c3cb15bd1155071fe4e117140172893156e6b8b9c05a0c4a1cb8",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00004",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00004.png",
+    "crop": "images/people_crops/PennPed00004.jpg",
+    "boxes": [
+      [
+        66,
+        60,
+        170,
+        410
+      ],
+      [
+        154,
+        90,
+        253,
+        385
+      ],
+      [
+        227,
+        93,
+        325,
+        391
+      ],
+      [
+        416,
+        100,
+        516,
+        391
+      ],
+      [
+        594,
+        111,
+        734,
+        397
+      ]
+    ],
+    "crop_box": [
+      594,
+      111,
+      734,
+      397
+    ],
+    "width": 786,
+    "height": 436,
+    "sha256": "40fd028872365a0f41f3a0680075756c315879462e56e014e5bdc1f7d570087b",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00010",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00010.png",
+    "crop": "images/people_crops/FudanPed00010.jpg",
+    "boxes": [
+      [
+        280,
+        89,
+        401,
+        374
+      ]
+    ],
+    "crop_box": [
+      280,
+      89,
+      401,
+      374
+    ],
+    "width": 411,
+    "height": 393,
+    "sha256": "651f9c4ce9ab056f3ce94c2b1159218a385ab45f33bc124ab2e5d29115dd0315",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00009",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00009.png",
+    "crop": "images/people_crops/PennPed00009.jpg",
+    "boxes": [
+      [
+        46,
+        84,
+        147,
+        292
+      ],
+      [
+        162,
+        86,
+        240,
+        348
+      ],
+      [
+        224,
+        85,
+        300,
+        307
+      ],
+      [
+        315,
+        80,
+        391,
+        369
+      ],
+      [
+        374,
+        99,
+        471,
+        351
+      ],
+      [
+        469,
+        93,
+        559,
+        395
+      ],
+      [
+        532,
+        89,
+        605,
+        376
+      ]
+    ],
+    "crop_box": [
+      469,
+      93,
+      559,
+      395
+    ],
+    "width": 648,
+    "height": 413,
+    "sha256": "a215fd244836296ba7b35a1645fee4328f7d4444bc72eba11ca669cd0a902dba",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00067",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00067.png",
+    "crop": "images/people_crops/PennPed00067.jpg",
+    "boxes": [
+      [
+        36,
+        12,
+        184,
+        298
+      ]
+    ],
+    "crop_box": [
+      36,
+      12,
+      184,
+      298
+    ],
+    "width": 370,
+    "height": 318,
+    "sha256": "659ff0d99f355f25539a5feea89f6e8a450e92d9f4d74c28ae17506ae5e114c4",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00016",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00016.png",
+    "crop": "images/people_crops/PennPed00016.jpg",
+    "boxes": [
+      [
+        85,
+        50,
+        146,
+        362
+      ],
+      [
+        235,
+        92,
+        329,
+        382
+      ],
+      [
+        467,
+        65,
+        579,
+        367
+      ]
+    ],
+    "crop_box": [
+      467,
+      65,
+      579,
+      367
+    ],
+    "width": 683,
+    "height": 399,
+    "sha256": "1e630cb99cb76f9b9763a964ecebdcbcab55a10d23ccfba27dac2aef388c7137",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00035",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00035.png",
+    "crop": "images/people_crops/FudanPed00035.jpg",
+    "boxes": [
+      [
+        63,
+        38,
+        195,
+        331
+      ]
+    ],
+    "crop_box": [
+      63,
+      38,
+      195,
+      331
+    ],
+    "width": 292,
+    "height": 349,
+    "sha256": "84b4674f7e64c7a857a8ef2e9ff960cee65e375691c1a1e7e688b020ba019e19",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00012",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00012.png",
+    "crop": "images/people_crops/PennPed00012.jpg",
+    "boxes": [
+      [
+        113,
+        121,
+        212,
+        403
+      ]
+    ],
+    "crop_box": [
+      113,
+      121,
+      212,
+      403
+    ],
+    "width": 565,
+    "height": 429,
+    "sha256": "4f22a9e5d708bd17ee68ca7ffcd7e4630ad94fee53ea95b65d9664ae7489e0c0",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00062",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00062.png",
+    "crop": "images/people_crops/PennPed00062.jpg",
+    "boxes": [
+      [
+        85,
+        14,
+        184,
+        301
+      ],
+      [
+        175,
+        34,
+        288,
+        305
+      ],
+      [
+        1,
+        45,
+        57,
+        223
+      ],
+      [
+        320,
+        53,
+        373,
+        234
+      ]
+    ],
+    "crop_box": [
+      175,
+      34,
+      288,
+      305
+    ],
+    "width": 396,
+    "height": 315,
+    "sha256": "0449c9cb5c5eea2c97d05bd234be1c6fd8a2a10af73b42ff2b5b6d0fb2d2ef1f",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00046",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00046.png",
+    "crop": "images/people_crops/FudanPed00046.jpg",
+    "boxes": [
+      [
+        177,
+        122,
+        271,
+        410
+      ],
+      [
+        298,
+        113,
+        370,
+        335
+      ],
+      [
+        445,
+        103,
+        507,
+        315
+      ],
+      [
+        520,
+        118,
+        565,
+        258
+      ]
+    ],
+    "crop_box": [
+      177,
+      122,
+      271,
+      410
+    ],
+    "width": 567,
+    "height": 438,
+    "sha256": "0a7834abaf3f28bb667792058f220caaeb91a38b64302edb38dd0bdc3be4f80a",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00048",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00048.png",
+    "crop": "images/people_crops/FudanPed00048.jpg",
+    "boxes": [
+      [
+        5,
+        241,
+        84,
+        535
+      ],
+      [
+        78,
+        230,
+        144,
+        455
+      ],
+      [
+        157,
+        218,
+        251,
+        507
+      ],
+      [
+        459,
+        262,
+        580,
+        544
+      ]
+    ],
+    "crop_box": [
+      459,
+      262,
+      580,
+      544
+    ],
+    "width": 585,
+    "height": 559,
+    "sha256": "805008af783d085a18edf81b3ba02d460844717ebba21058b4fd87aa9ebdf01f",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00021",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00021.png",
+    "crop": "images/people_crops/FudanPed00021.jpg",
+    "boxes": [
+      [
+        323,
+        75,
+        470,
+        367
+      ],
+      [
+        233,
+        92,
+        268,
+        167
+      ],
+      [
+        46,
+        94,
+        69,
+        160
+      ]
+    ],
+    "crop_box": [
+      323,
+      75,
+      470,
+      367
+    ],
+    "width": 490,
+    "height": 378,
+    "sha256": "f77febed0b58c93b7d17c1d75b41b79008bc9fc119b455d3a5e0716093456802",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00042",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00042.png",
+    "crop": "images/people_crops/PennPed00042.jpg",
+    "boxes": [
+      [
+        272,
+        36,
+        379,
+        312
+      ],
+      [
+        402,
+        35,
+        472,
+        310
+      ]
+    ],
+    "crop_box": [
+      272,
+      36,
+      379,
+      312
+    ],
+    "width": 569,
+    "height": 344,
+    "sha256": "e709c41872b490b3cc2120b9251b8bad29c3f0d47e7b928dc98a292191688ec6",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00008",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00008.png",
+    "crop": "images/people_crops/PennPed00008.jpg",
+    "boxes": [
+      [
+        46,
+        70,
+        177,
+        366
+      ],
+      [
+        198,
+        76,
+        305,
+        329
+      ],
+      [
+        255,
+        73,
+        394,
+        345
+      ],
+      [
+        342,
+        52,
+        421,
+        278
+      ]
+    ],
+    "crop_box": [
+      46,
+      70,
+      177,
+      366
+    ],
+    "width": 452,
+    "height": 403,
+    "sha256": "433fa62d3a10e13578292a7c3a2c1f0615361488138a9b2daccab7cfbe1d2645",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00059",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/FudanPed00059.png",
+    "crop": "images/people_crops/FudanPed00059.jpg",
+    "boxes": [
+      [
+        34,
+        53,
+        135,
+        330
+      ],
+      [
+        158,
+        35,
+        252,
+        329
+      ],
+      [
+        269,
+        44,
+        380,
+        328
+      ]
+    ],
+    "crop_box": [
+      269,
+      44,
+      380,
+      328
+    ],
+    "width": 576,
+    "height": 369,
+    "sha256": "09bcb2197283c232b6e8e107b05c388d3fecec7d21dc33d7195e9c2fc75ffb3b",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00096",
+    "label": 1,
+    "split": "base",
+    "scene": "images/people_scenes/PennPed00096.png",
+    "crop": "images/people_crops/PennPed00096.jpg",
+    "boxes": [
+      [
+        5,
+        37,
+        102,
+        324
+      ],
+      [
+        100,
+        25,
+        206,
+        323
+      ]
+    ],
+    "crop_box": [
+      100,
+      25,
+      206,
+      323
+    ],
+    "width": 294,
+    "height": 331,
+    "sha256": "20613cb2aa60f654950c3275657f2892968f6e8b96cc13ad1fdf64a596976d46",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00049",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00049.png",
+    "crop": "images/people_crops/PennPed00049.jpg",
+    "boxes": [
+      [
+        81,
+        47,
+        175,
+        346
+      ],
+      [
+        174,
+        44,
+        253,
+        337
+      ],
+      [
+        251,
+        80,
+        307,
+        237
+      ],
+      [
+        309,
+        76,
+        368,
+        240
+      ]
+    ],
+    "crop_box": [
+      81,
+      47,
+      175,
+      346
+    ],
+    "width": 452,
+    "height": 350,
+    "sha256": "b0312d7f6cc901c7843769d62ee99ebba811a9a3462d17f04d407a933930f682",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00013",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/FudanPed00013.png",
+    "crop": "images/people_crops/FudanPed00013.jpg",
+    "boxes": [
+      [
+        388,
+        192,
+        554,
+        476
+      ]
+    ],
+    "crop_box": [
+      388,
+      192,
+      554,
+      476
+    ],
+    "width": 652,
+    "height": 498,
+    "sha256": "b3e23ae41d57b2fb4803b0202ba384f556d2b2eadca71d97b03000867a79bd6d",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00050",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00050.png",
+    "crop": "images/people_crops/PennPed00050.jpg",
+    "boxes": [
+      [
+        90,
+        40,
+        196,
+        291
+      ]
+    ],
+    "crop_box": [
+      90,
+      40,
+      196,
+      291
+    ],
+    "width": 419,
+    "height": 315,
+    "sha256": "9207c8dfe778e6e583de9c0d4befe42f2299aad6df1584845514b46b846d02cd",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00048",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00048.png",
+    "crop": "images/people_crops/PennPed00048.jpg",
+    "boxes": [
+      [
+        26,
+        32,
+        118,
+        326
+      ],
+      [
+        115,
+        34,
+        198,
+        321
+      ],
+      [
+        262,
+        20,
+        385,
+        369
+      ]
+    ],
+    "crop_box": [
+      262,
+      20,
+      385,
+      369
+    ],
+    "width": 423,
+    "height": 380,
+    "sha256": "bc8ef60be7cb795d5ec20f44643c1990b8778c54592cebf0d31327cbb0b2fc04",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00046",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00046.png",
+    "crop": "images/people_crops/PennPed00046.jpg",
+    "boxes": [
+      [
+        20,
+        57,
+        111,
+        323
+      ],
+      [
+        317,
+        21,
+        420,
+        319
+      ],
+      [
+        420,
+        61,
+        441,
+        119
+      ]
+    ],
+    "crop_box": [
+      317,
+      21,
+      420,
+      319
+    ],
+    "width": 534,
+    "height": 348,
+    "sha256": "c98f12e7d68d32fd623a5a9607588a15b678371045849a6ddf3c268f81a40e9e",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00025",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00025.png",
+    "crop": "images/people_crops/PennPed00025.jpg",
+    "boxes": [
+      [
+        71,
+        33,
+        216,
+        310
+      ],
+      [
+        188,
+        150,
+        276,
+        304
+      ],
+      [
+        389,
+        1,
+        421,
+        71
+      ]
+    ],
+    "crop_box": [
+      71,
+      33,
+      216,
+      310
+    ],
+    "width": 450,
+    "height": 334,
+    "sha256": "1d0a05b83c4915b2264a5528fbfe5dc82274113f07a07151e489c90357a527ae",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00030",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/FudanPed00030.png",
+    "crop": "images/people_crops/FudanPed00030.jpg",
+    "boxes": [
+      [
+        58,
+        84,
+        208,
+        375
+      ]
+    ],
+    "crop_box": [
+      58,
+      84,
+      208,
+      375
+    ],
+    "width": 462,
+    "height": 387,
+    "sha256": "e3231cb29908a7f441a52883770a72bbfd44c56b5f7223fe00bfad757dd41a7b",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00011",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00011.png",
+    "crop": "images/people_crops/PennPed00011.jpg",
+    "boxes": [
+      [
+        91,
+        61,
+        236,
+        344
+      ],
+      [
+        241,
+        51,
+        301,
+        355
+      ]
+    ],
+    "crop_box": [
+      91,
+      61,
+      236,
+      344
+    ],
+    "width": 508,
+    "height": 376,
+    "sha256": "4378bb3d4a611b7f2668597c8dd29a7d30b18dcd324bb99b8286896ec9ce084f",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00006",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/FudanPed00006.png",
+    "crop": "images/people_crops/FudanPed00006.jpg",
+    "boxes": [
+      [
+        207,
+        107,
+        346,
+        385
+      ],
+      [
+        1,
+        107,
+        87,
+        384
+      ]
+    ],
+    "crop_box": [
+      207,
+      107,
+      346,
+      385
+    ],
+    "width": 385,
+    "height": 426,
+    "sha256": "bb8100d15bf8b02471d92857749884e5d629f44143a3a5e44d2b267a9417cb3f",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00084",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00084.png",
+    "crop": "images/people_crops/PennPed00084.jpg",
+    "boxes": [
+      [
+        141,
+        45,
+        310,
+        342
+      ],
+      [
+        273,
+        20,
+        362,
+        334
+      ],
+      [
+        160,
+        94,
+        208,
+        258
+      ]
+    ],
+    "crop_box": [
+      141,
+      45,
+      310,
+      342
+    ],
+    "width": 370,
+    "height": 356,
+    "sha256": "466516051ccfd22fac3126dbd0ab13b07d3202864561511584c2fb20afee7e3f",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00017",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00017.png",
+    "crop": "images/people_crops/PennPed00017.jpg",
+    "boxes": [
+      [
+        114,
+        49,
+        204,
+        387
+      ],
+      [
+        258,
+        48,
+        398,
+        336
+      ]
+    ],
+    "crop_box": [
+      258,
+      48,
+      398,
+      336
+    ],
+    "width": 492,
+    "height": 403,
+    "sha256": "fe40f760d161188efa7afeb0fbd38a7a1b36a5b7d55112a0e7958cb9857b9311",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00059",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00059.png",
+    "crop": "images/people_crops/PennPed00059.jpg",
+    "boxes": [
+      [
+        79,
+        43,
+        177,
+        337
+      ],
+      [
+        380,
+        35,
+        529,
+        323
+      ]
+    ],
+    "crop_box": [
+      380,
+      35,
+      529,
+      323
+    ],
+    "width": 582,
+    "height": 362,
+    "sha256": "18b2de8030d54f74289ebe67c265faf5be89c9ae079d59208c2c89346a81c573",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00074",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/FudanPed00074.png",
+    "crop": "images/people_crops/FudanPed00074.jpg",
+    "boxes": [
+      [
+        47,
+        50,
+        126,
+        351
+      ],
+      [
+        177,
+        60,
+        256,
+        345
+      ]
+    ],
+    "crop_box": [
+      47,
+      50,
+      126,
+      351
+    ],
+    "width": 421,
+    "height": 370,
+    "sha256": "68ae56c77337bff29fe652bf15a9568852a8e73a6729330cbb7bce9841f9054f",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00047",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/FudanPed00047.png",
+    "crop": "images/people_crops/FudanPed00047.jpg",
+    "boxes": [
+      [
+        271,
+        197,
+        371,
+        482
+      ],
+      [
+        30,
+        194,
+        90,
+        427
+      ],
+      [
+        383,
+        184,
+        430,
+        298
+      ]
+    ],
+    "crop_box": [
+      271,
+      197,
+      371,
+      482
+    ],
+    "width": 472,
+    "height": 520,
+    "sha256": "462fc7b2a5871797ac562320ef700d24413fa32d83911fa1b3d218cb3160cfb1",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00037",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00037.png",
+    "crop": "images/people_crops/PennPed00037.jpg",
+    "boxes": [
+      [
+        228,
+        23,
+        328,
+        307
+      ]
+    ],
+    "crop_box": [
+      228,
+      23,
+      328,
+      307
+    ],
+    "width": 366,
+    "height": 318,
+    "sha256": "54a2b4caeff8b47e38160c8cc93eed14f341e5189dbad2ad29f90a238645925a",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00040",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00040.png",
+    "crop": "images/people_crops/PennPed00040.jpg",
+    "boxes": [
+      [
+        202,
+        41,
+        318,
+        330
+      ]
+    ],
+    "crop_box": [
+      202,
+      41,
+      318,
+      330
+    ],
+    "width": 406,
+    "height": 342,
+    "sha256": "6fb46eb5e99d6df95e76b483e7b6205760f5e97907a85f3eff1507c5f875da50",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00006",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00006.png",
+    "crop": "images/people_crops/PennPed00006.jpg",
+    "boxes": [
+      [
+        110,
+        71,
+        199,
+        412
+      ],
+      [
+        230,
+        95,
+        329,
+        388
+      ],
+      [
+        442,
+        107,
+        608,
+        435
+      ],
+      [
+        2,
+        101,
+        69,
+        397
+      ]
+    ],
+    "crop_box": [
+      442,
+      107,
+      608,
+      435
+    ],
+    "width": 631,
+    "height": 436,
+    "sha256": "c1a9d658d8aa53e4043eee9bd10d31b9ff2ccfb0a3419ec0e37c7adb6ebcfb4d",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00007",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00007.png",
+    "crop": "images/people_crops/PennPed00007.jpg",
+    "boxes": [
+      [
+        41,
+        59,
+        165,
+        350
+      ],
+      [
+        126,
+        82,
+        201,
+        359
+      ],
+      [
+        186,
+        75,
+        309,
+        369
+      ],
+      [
+        298,
+        75,
+        381,
+        400
+      ],
+      [
+        425,
+        67,
+        527,
+        343
+      ]
+    ],
+    "crop_box": [
+      186,
+      75,
+      309,
+      369
+    ],
+    "width": 570,
+    "height": 412,
+    "sha256": "c91ff2a117df5a0a0bcbfc6ac13f568f1ad4acb372f4b4f26c3f8260659083cb",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00033",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00033.png",
+    "crop": "images/people_crops/PennPed00033.jpg",
+    "boxes": [
+      [
+        31,
+        36,
+        126,
+        370
+      ],
+      [
+        109,
+        49,
+        214,
+        376
+      ],
+      [
+        391,
+        69,
+        519,
+        368
+      ],
+      [
+        273,
+        148,
+        389,
+        333
+      ]
+    ],
+    "crop_box": [
+      391,
+      69,
+      519,
+      368
+    ],
+    "width": 533,
+    "height": 391,
+    "sha256": "5f54c6f9f3d04d4ec0d03faea62f2adaff2698abc412c86fbb0ee26b5c0eb2a9",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00038",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/FudanPed00038.png",
+    "crop": "images/people_crops/FudanPed00038.jpg",
+    "boxes": [
+      [
+        218,
+        43,
+        400,
+        331
+      ]
+    ],
+    "crop_box": [
+      218,
+      43,
+      400,
+      331
+    ],
+    "width": 422,
+    "height": 346,
+    "sha256": "f1bc735cf431e6238445ff2e85a0ad76c64a16cc8c3ef77a986cf674bdd65109",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00093",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00093.png",
+    "crop": "images/people_crops/PennPed00093.jpg",
+    "boxes": [
+      [
+        50,
+        5,
+        222,
+        302
+      ]
+    ],
+    "crop_box": [
+      50,
+      5,
+      222,
+      302
+    ],
+    "width": 368,
+    "height": 311,
+    "sha256": "014e2c30dbd83f14b3a5ac5ac32a66d4077d1ba892726096eb3075e0399e97f3",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00011",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/FudanPed00011.png",
+    "crop": "images/people_crops/FudanPed00011.jpg",
+    "boxes": [
+      [
+        277,
+        111,
+        438,
+        394
+      ]
+    ],
+    "crop_box": [
+      277,
+      111,
+      438,
+      394
+    ],
+    "width": 459,
+    "height": 420,
+    "sha256": "51dab61023b536510ba333c181384e2e41fcaf270a964889efbfc96ee79d72db",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00049",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/FudanPed00049.png",
+    "crop": "images/people_crops/FudanPed00049.jpg",
+    "boxes": [
+      [
+        126,
+        122,
+        213,
+        412
+      ],
+      [
+        213,
+        105,
+        317,
+        392
+      ],
+      [
+        314,
+        106,
+        435,
+        387
+      ]
+    ],
+    "crop_box": [
+      314,
+      106,
+      435,
+      387
+    ],
+    "width": 447,
+    "height": 512,
+    "sha256": "2e85899f0ff1c9fc63369ac06d3de9fc43e7fad8c012a6126d1061ac7751b743",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00045",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00045.png",
+    "crop": "images/people_crops/PennPed00045.jpg",
+    "boxes": [
+      [
+        69,
+        63,
+        193,
+        365
+      ],
+      [
+        225,
+        64,
+        321,
+        360
+      ],
+      [
+        323,
+        66,
+        436,
+        347
+      ],
+      [
+        525,
+        44,
+        639,
+        348
+      ],
+      [
+        424,
+        66,
+        485,
+        217
+      ],
+      [
+        493,
+        61,
+        548,
+        214
+      ]
+    ],
+    "crop_box": [
+      69,
+      63,
+      193,
+      365
+    ],
+    "width": 692,
+    "height": 395,
+    "sha256": "ebe047a39d1d75871cc07cc83b9ad45715aafb7799d1a648aa9e340690690f46",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00051",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00051.png",
+    "crop": "images/people_crops/PennPed00051.jpg",
+    "boxes": [
+      [
+        37,
+        51,
+        203,
+        326
+      ],
+      [
+        313,
+        66,
+        481,
+        365
+      ],
+      [
+        458,
+        33,
+        587,
+        373
+      ],
+      [
+        553,
+        66,
+        628,
+        339
+      ]
+    ],
+    "crop_box": [
+      313,
+      66,
+      481,
+      365
+    ],
+    "width": 723,
+    "height": 411,
+    "sha256": "f3e251809bcdee9e21b26dbce82170ddd07a7dde77c2fd0a0bbb54b13957cb65",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00016",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/FudanPed00016.png",
+    "crop": "images/people_crops/FudanPed00016.jpg",
+    "boxes": [
+      [
+        79,
+        85,
+        205,
+        383
+      ],
+      [
+        278,
+        93,
+        400,
+        361
+      ],
+      [
+        410,
+        100,
+        495,
+        378
+      ]
+    ],
+    "crop_box": [
+      79,
+      85,
+      205,
+      383
+    ],
+    "width": 544,
+    "height": 425,
+    "sha256": "3821e9ed61b299c3ca31f761f181e1791d898359406adb66fc66d65fa49a6388",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00069",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/FudanPed00069.png",
+    "crop": "images/people_crops/FudanPed00069.jpg",
+    "boxes": [
+      [
+        214,
+        69,
+        315,
+        363
+      ]
+    ],
+    "crop_box": [
+      214,
+      69,
+      315,
+      363
+    ],
+    "width": 354,
+    "height": 379,
+    "sha256": "6c70aea91ec97059cf2869afda30111178709d07b41a834bebbef7e41ca5f3ef",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00044",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00044.png",
+    "crop": "images/people_crops/PennPed00044.jpg",
+    "boxes": [
+      [
+        70,
+        35,
+        170,
+        329
+      ],
+      [
+        252,
+        62,
+        336,
+        282
+      ],
+      [
+        331,
+        53,
+        408,
+        276
+      ],
+      [
+        180,
+        75,
+        225,
+        193
+      ]
+    ],
+    "crop_box": [
+      70,
+      35,
+      170,
+      329
+    ],
+    "width": 483,
+    "height": 335,
+    "sha256": "498ed8b3760a372b73c3601a737e11c989805ef6bf74ba87bd293a28ac156009",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00012",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/FudanPed00012.png",
+    "crop": "images/people_crops/FudanPed00012.jpg",
+    "boxes": [
+      [
+        158,
+        70,
+        295,
+        361
+      ],
+      [
+        327,
+        57,
+        439,
+        327
+      ]
+    ],
+    "crop_box": [
+      158,
+      70,
+      295,
+      361
+    ],
+    "width": 468,
+    "height": 384,
+    "sha256": "4dbcdc27ce21b58bd6666a50c396b58ceff428bfb7106c6147605f33dbc6b278",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00068",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/FudanPed00068.png",
+    "crop": "images/people_crops/FudanPed00068.jpg",
+    "boxes": [
+      [
+        248,
+        65,
+        318,
+        361
+      ]
+    ],
+    "crop_box": [
+      248,
+      65,
+      318,
+      361
+    ],
+    "width": 375,
+    "height": 398,
+    "sha256": "5df539028a6f42d55efd0f35affc06551821372bda5f9d554bfcf62c691d7788",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00015",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00015.png",
+    "crop": "images/people_crops/PennPed00015.jpg",
+    "boxes": [
+      [
+        122,
+        97,
+        280,
+        414
+      ],
+      [
+        285,
+        90,
+        448,
+        378
+      ],
+      [
+        748,
+        93,
+        834,
+        382
+      ]
+    ],
+    "crop_box": [
+      122,
+      97,
+      280,
+      414
+    ],
+    "width": 906,
+    "height": 438,
+    "sha256": "da2663a4eaf5fa294ff0d53b172cde50746857d873ee2ad1dc111d08908406a8",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00018",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00018.png",
+    "crop": "images/people_crops/PennPed00018.jpg",
+    "boxes": [
+      [
+        64,
+        31,
+        145,
+        327
+      ],
+      [
+        180,
+        68,
+        262,
+        308
+      ]
+    ],
+    "crop_box": [
+      64,
+      31,
+      145,
+      327
+    ],
+    "width": 460,
+    "height": 344,
+    "sha256": "cd32237ab5568fc1723cfacb187ee6eef8934eb7ffe42f62fee3350cb02df99c",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00025",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/FudanPed00025.png",
+    "crop": "images/people_crops/FudanPed00025.jpg",
+    "boxes": [
+      [
+        225,
+        68,
+        396,
+        354
+      ],
+      [
+        43,
+        86,
+        94,
+        256
+      ],
+      [
+        127,
+        73,
+        189,
+        262
+      ],
+      [
+        179,
+        52,
+        228,
+        255
+      ],
+      [
+        212,
+        72,
+        273,
+        262
+      ],
+      [
+        313,
+        61,
+        383,
+        266
+      ]
+    ],
+    "crop_box": [
+      225,
+      68,
+      396,
+      354
+    ],
+    "width": 425,
+    "height": 369,
+    "sha256": "714c75273275f6ad31f30063fb241b26fa2a8ac853b14795b220ebd38ee1d805",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00024",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00024.png",
+    "crop": "images/people_crops/PennPed00024.jpg",
+    "boxes": [
+      [
+        70,
+        57,
+        170,
+        350
+      ]
+    ],
+    "crop_box": [
+      70,
+      57,
+      170,
+      350
+    ],
+    "width": 409,
+    "height": 384,
+    "sha256": "41daba4c62a049b1c15fae0a1026d34b05b4e39d3da35fc1510547a3aeb5f1d5",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00082",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00082.png",
+    "crop": "images/people_crops/PennPed00082.jpg",
+    "boxes": [
+      [
+        79,
+        21,
+        229,
+        312
+      ]
+    ],
+    "crop_box": [
+      79,
+      21,
+      229,
+      312
+    ],
+    "width": 398,
+    "height": 321,
+    "sha256": "61faf7a48aca4b85f22ba825d089e5dc72246d02221d9bdc844cb94cbb8783bc",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00089",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00089.png",
+    "crop": "images/people_crops/PennPed00089.jpg",
+    "boxes": [
+      [
+        84,
+        24,
+        165,
+        294
+      ],
+      [
+        139,
+        5,
+        297,
+        309
+      ]
+    ],
+    "crop_box": [
+      139,
+      5,
+      297,
+      309
+    ],
+    "width": 428,
+    "height": 317,
+    "sha256": "1bc2887f5dcdcd7996652fd99664d589ec1f1e364bf89521b077ae66fc39942d",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00013",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00013.png",
+    "crop": "images/people_crops/PennPed00013.jpg",
+    "boxes": [
+      [
+        97,
+        78,
+        210,
+        359
+      ],
+      [
+        258,
+        95,
+        364,
+        359
+      ],
+      [
+        383,
+        80,
+        498,
+        355
+      ],
+      [
+        214,
+        90,
+        257,
+        193
+      ]
+    ],
+    "crop_box": [
+      97,
+      78,
+      210,
+      359
+    ],
+    "width": 564,
+    "height": 385,
+    "sha256": "e2383d58bbb78c8aae60002d4a2cf061c4fd30da96e884a6682a9fd244e70b12",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00081",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00081.png",
+    "crop": "images/people_crops/PennPed00081.jpg",
+    "boxes": [
+      [
+        147,
+        84,
+        239,
+        366
+      ],
+      [
+        232,
+        53,
+        337,
+        360
+      ],
+      [
+        329,
+        74,
+        455,
+        366
+      ]
+    ],
+    "crop_box": [
+      329,
+      74,
+      455,
+      366
+    ],
+    "width": 561,
+    "height": 387,
+    "sha256": "b9cf27aff00b5d3c745cfde35b77a0e9d1966291cfa462ffe73d7ac4cb190f24",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00040",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/FudanPed00040.png",
+    "crop": "images/people_crops/FudanPed00040.jpg",
+    "boxes": [
+      [
+        200,
+        156,
+        279,
+        437
+      ],
+      [
+        278,
+        171,
+        377,
+        430
+      ]
+    ],
+    "crop_box": [
+      278,
+      171,
+      377,
+      430
+    ],
+    "width": 550,
+    "height": 482,
+    "sha256": "6b90d12818232a8b5ea8b4262d48f7baac29f9dcffb802812ca3a02acd499845",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00071",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00071.png",
+    "crop": "images/people_crops/PennPed00071.jpg",
+    "boxes": [
+      [
+        48,
+        18,
+        171,
+        361
+      ],
+      [
+        291,
+        43,
+        386,
+        305
+      ],
+      [
+        475,
+        24,
+        567,
+        302
+      ],
+      [
+        600,
+        12,
+        716,
+        306
+      ],
+      [
+        566,
+        52,
+        612,
+        180
+      ],
+      [
+        708,
+        52,
+        744,
+        174
+      ]
+    ],
+    "crop_box": [
+      48,
+      18,
+      171,
+      361
+    ],
+    "width": 767,
+    "height": 379,
+    "sha256": "44b25a5eb364cd5fa13d1739f27a6b0fe4476bbca54feab6d940705a632967c1",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00014",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00014.png",
+    "crop": "images/people_crops/PennPed00014.jpg",
+    "boxes": [
+      [
+        126,
+        39,
+        206,
+        229
+      ],
+      [
+        208,
+        68,
+        312,
+        337
+      ],
+      [
+        353,
+        59,
+        448,
+        337
+      ],
+      [
+        285,
+        40,
+        353,
+        225
+      ]
+    ],
+    "crop_box": [
+      208,
+      68,
+      312,
+      337
+    ],
+    "width": 542,
+    "height": 368,
+    "sha256": "a04437ea5bc66466c06d2f7a6e493cd5150864b15420036698440d82498d49f4",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00085",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00085.png",
+    "crop": "images/people_crops/PennPed00085.jpg",
+    "boxes": [
+      [
+        88,
+        26,
+        200,
+        302
+      ],
+      [
+        244,
+        37,
+        368,
+        329
+      ]
+    ],
+    "crop_box": [
+      244,
+      37,
+      368,
+      329
+    ],
+    "width": 403,
+    "height": 341,
+    "sha256": "0e9a2f0210b3f1de793ac00b5d8e3a2accfee2e4c15d97c1d4460c651c0890fd",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00041",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/FudanPed00041.png",
+    "crop": "images/people_crops/FudanPed00041.jpg",
+    "boxes": [
+      [
+        350,
+        160,
+        439,
+        437
+      ],
+      [
+        283,
+        180,
+        357,
+        439
+      ],
+      [
+        41,
+        185,
+        110,
+        388
+      ]
+    ],
+    "crop_box": [
+      350,
+      160,
+      439,
+      437
+    ],
+    "width": 552,
+    "height": 507,
+    "sha256": "95997257f63267427f726e6f4e809acefc7993fa943aaf7effd9070d145bba99",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00002",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/FudanPed00002.png",
+    "crop": "images/people_crops/FudanPed00002.jpg",
+    "boxes": [
+      [
+        67,
+        92,
+        191,
+        380
+      ]
+    ],
+    "crop_box": [
+      67,
+      92,
+      191,
+      380
+    ],
+    "width": 455,
+    "height": 414,
+    "sha256": "42f94e40ca5857687be170ecdebef0ee41094e5386160e0c756f0c94a735d39e",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00072",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/FudanPed00072.png",
+    "crop": "images/people_crops/FudanPed00072.jpg",
+    "boxes": [
+      [
+        47,
+        39,
+        139,
+        332
+      ]
+    ],
+    "crop_box": [
+      47,
+      39,
+      139,
+      332
+    ],
+    "width": 375,
+    "height": 349,
+    "sha256": "22f05a6aa65f248f0cf122fb9ea842aa6d55ae73d67216f69686c830c7d913a8",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00041",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00041.png",
+    "crop": "images/people_crops/PennPed00041.jpg",
+    "boxes": [
+      [
+        352,
+        98,
+        467,
+        380
+      ]
+    ],
+    "crop_box": [
+      352,
+      98,
+      467,
+      380
+    ],
+    "width": 570,
+    "height": 422,
+    "sha256": "4791c942de2ca85e8eecf523a42d0df23d1a5679b52b23cfb267c0166a6046f2",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00057",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/FudanPed00057.png",
+    "crop": "images/people_crops/FudanPed00057.jpg",
+    "boxes": [
+      [
+        21,
+        90,
+        143,
+        406
+      ],
+      [
+        130,
+        92,
+        205,
+        358
+      ],
+      [
+        236,
+        82,
+        312,
+        356
+      ],
+      [
+        342,
+        116,
+        388,
+        267
+      ],
+      [
+        385,
+        115,
+        427,
+        250
+      ]
+    ],
+    "crop_box": [
+      21,
+      90,
+      143,
+      406
+    ],
+    "width": 482,
+    "height": 519,
+    "sha256": "8a6a6451f22385056075aef42e22767fbb7f58c0e8590a97c7d4e39f76ddd92f",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00034",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00034.png",
+    "crop": "images/people_crops/PennPed00034.jpg",
+    "boxes": [
+      [
+        107,
+        57,
+        289,
+        391
+      ],
+      [
+        301,
+        62,
+        405,
+        344
+      ],
+      [
+        368,
+        66,
+        493,
+        353
+      ],
+      [
+        180,
+        62,
+        278,
+        374
+      ]
+    ],
+    "crop_box": [
+      107,
+      57,
+      289,
+      391
+    ],
+    "width": 538,
+    "height": 422,
+    "sha256": "2d99494275178c949069a1b75824a9c065efafb049d6ec2dcd45bdf203d12ee9",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "PennPed00088",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/PennPed00088.png",
+    "crop": "images/people_crops/PennPed00088.jpg",
+    "boxes": [
+      [
+        72,
+        17,
+        215,
+        312
+      ]
+    ],
+    "crop_box": [
+      72,
+      17,
+      215,
+      312
+    ],
+    "width": 375,
+    "height": 320,
+    "sha256": "dd4c57455ead9f9bd5d9f6aa9bc690cfada6fa65fb8cf776f34fef0b30657d71",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  },
+  {
+    "id": "FudanPed00051",
+    "label": 1,
+    "split": "detector_test",
+    "scene": "images/people_scenes/FudanPed00051.png",
+    "crop": "images/people_crops/FudanPed00051.jpg",
+    "boxes": [
+      [
+        125,
+        190,
+        218,
+        476
+      ]
+    ],
+    "crop_box": [
+      125,
+      190,
+      218,
+      476
+    ],
+    "width": 448,
+    "height": 501,
+    "sha256": "03697f57dae4fabd073a18dcb9e9f877acee3b610b41db1e726faa0a6aeed013",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "annotation": "Bounding rectangles from Penn-Fudan instance masks; visually reviewed; small distant people may be unlabelled",
+    "review": "Визуально проверено по всем контактным листам; класс и основные рамки подтверждены"
+  }
+]
