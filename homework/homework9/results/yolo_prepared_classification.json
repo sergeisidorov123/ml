@@ -1,0 +1,462 @@
+[
+  {
+    "scene": "dataset/test/human/FudanPed00005.jpg",
+    "class": "human",
+    "boxes": [
+      [
+        0.0,
+        0.0,
+        133.0,
+        277.9118347167969
+      ]
+    ],
+    "labels": [
+      "person"
+    ]
+  },
+  {
+    "scene": "dataset/test/human/FudanPed00010.jpg",
+    "class": "human",
+    "boxes": [
+      [
+        0.836738109588623,
+        0.7076553106307983,
+        119.60493469238281,
+        285.0
+      ]
+    ],
+    "labels": [
+      "person"
+    ]
+  },
+  {
+    "scene": "dataset/test/human/FudanPed00021.jpg",
+    "class": "human",
+    "boxes": [
+      [
+        0.0,
+        0.38155069947242737,
+        145.56507873535156,
+        292.0
+      ]
+    ],
+    "labels": [
+      "person"
+    ]
+  },
+  {
+    "scene": "dataset/test/human/FudanPed00026.jpg",
+    "class": "human",
+    "boxes": [
+      [
+        0.07199478149414062,
+        0.0992889404296875,
+        103.5993881225586,
+        309.1560363769531
+      ]
+    ],
+    "labels": [
+      "person"
+    ]
+  },
+  {
+    "scene": "dataset/test/human/FudanPed00028.jpg",
+    "class": "human",
+    "boxes": [
+      [
+        0.0,
+        0.7585214376449585,
+        141.80722045898438,
+        284.4256591796875
+      ],
+      [
+        105.48653411865234,
+        73.44264221191406,
+        142.14080810546875,
+        132.87274169921875
+      ],
+      [
+        0.24474158883094788,
+        65.83512878417969,
+        47.372344970703125,
+        124.49014282226562
+      ],
+      [
+        22.29152488708496,
+        78.88334655761719,
+        48.57798385620117,
+        125.24687957763672
+      ]
+    ],
+    "labels": [
+      "person",
+      "bicycle",
+      "bicycle",
+      "bicycle"
+    ]
+  },
+  {
+    "scene": "dataset/test/human/FudanPed00033.jpg",
+    "class": "human",
+    "boxes": [
+      [
+        0.0034508337266743183,
+        0.0,
+        138.97177124023438,
+        293.26800537109375
+      ]
+    ],
+    "labels": [
+      "person"
+    ]
+  },
+  {
+    "scene": "dataset/test/human/FudanPed00050.jpg",
+    "class": "human",
+    "boxes": [
+      [
+        1.8686305284500122,
+        0.0,
+        103.0,
+        281.2405700683594
+      ]
+    ],
+    "labels": [
+      "person"
+    ]
+  },
+  {
+    "scene": "dataset/test/human/FudanPed00054.jpg",
+    "class": "human",
+    "boxes": [
+      [
+        0.0,
+        0.0,
+        86.0,
+        282.3478088378906
+      ]
+    ],
+    "labels": [
+      "person"
+    ]
+  },
+  {
+    "scene": "dataset/test/human/FudanPed00062.jpg",
+    "class": "human",
+    "boxes": [
+      [
+        0.6789020895957947,
+        0.0,
+        87.0,
+        295.974853515625
+      ]
+    ],
+    "labels": [
+      "person"
+    ]
+  },
+  {
+    "scene": "dataset/test/human/PennPed00021.jpg",
+    "class": "human",
+    "boxes": [
+      [
+        2.332521915435791,
+        7.099246025085449,
+        126.70977020263672,
+        283.9802551269531
+      ],
+      [
+        15.985297203063965,
+        43.97735595703125,
+        69.9816665649414,
+        130.01156616210938
+      ]
+    ],
+    "labels": [
+      "person",
+      "backpack"
+    ]
+  },
+  {
+    "scene": "dataset/test/human/PennPed00047.jpg",
+    "class": "human",
+    "boxes": [
+      [
+        20.202844619750977,
+        2.402984619140625,
+        130.25650024414062,
+        286.9608154296875
+      ],
+      [
+        97.46248626708984,
+        128.41973876953125,
+        135.40853881835938,
+        205.61331176757812
+      ],
+      [
+        92.69664001464844,
+        4.086797714233398,
+        133.3212890625,
+        158.65440368652344
+      ],
+      [
+        113.8700942993164,
+        10.585243225097656,
+        134.73606872558594,
+        175.94888305664062
+      ],
+      [
+        96.7159423828125,
+        158.8203887939453,
+        136.0,
+        205.2230987548828
+      ]
+    ],
+    "labels": [
+      "person",
+      "handbag",
+      "person",
+      "person",
+      "handbag"
+    ]
+  },
+  {
+    "scene": "dataset/test/human/PennPed00058.jpg",
+    "class": "human",
+    "boxes": [
+      [
+        0.0,
+        0.036548614501953125,
+        130.1739501953125,
+        285.0238342285156
+      ],
+      [
+        0.0,
+        0.8002300262451172,
+        46.1539421081543,
+        208.64694213867188
+      ]
+    ],
+    "labels": [
+      "person",
+      "person"
+    ]
+  },
+  {
+    "scene": "dataset/test/human/PennPed00065.jpg",
+    "class": "human",
+    "boxes": [
+      [
+        0.5210404396057129,
+        0.0,
+        109.04582977294922,
+        282.7740783691406
+      ],
+      [
+        58.04124450683594,
+        45.418312072753906,
+        115.84937286376953,
+        142.16265869140625
+      ],
+      [
+        0.0,
+        140.61761474609375,
+        37.66796875,
+        227.34033203125
+      ]
+    ],
+    "labels": [
+      "person",
+      "backpack",
+      "bicycle"
+    ]
+  },
+  {
+    "scene": "dataset/test/human/PennPed00073.jpg",
+    "class": "human",
+    "boxes": [
+      [
+        1.451358437538147,
+        0.034668996930122375,
+        94.48755645751953,
+        293.6965026855469
+      ]
+    ],
+    "labels": [
+      "person"
+    ]
+  },
+  {
+    "scene": "dataset/test/human/PennPed00086.jpg",
+    "class": "human",
+    "boxes": [
+      [
+        1.9789345264434814,
+        0.0,
+        112.70587158203125,
+        293.7471923828125
+      ]
+    ],
+    "labels": [
+      "person"
+    ]
+  },
+  {
+    "scene": "dataset/test/humanoid/nao_nao_base_extra_Upper006749.jpg",
+    "class": "humanoid",
+    "boxes": [],
+    "labels": []
+  },
+  {
+    "scene": "dataset/test/humanoid/nao_nao_base_extra_Upper021911.jpg",
+    "class": "humanoid",
+    "boxes": [],
+    "labels": []
+  },
+  {
+    "scene": "dataset/test/humanoid/nao_nao_base_extra_Upper031766.jpg",
+    "class": "humanoid",
+    "boxes": [
+      [
+        4.468356132507324,
+        4.24926233291626,
+        111.80787658691406,
+        268.3089294433594
+      ]
+    ],
+    "labels": [
+      "person"
+    ]
+  },
+  {
+    "scene": "dataset/test/humanoid/nao_nao_base_extra_Upper036509.jpg",
+    "class": "humanoid",
+    "boxes": [
+      [
+        1.1206222772598267,
+        0.7336616516113281,
+        74.60160064697266,
+        171.52870178222656
+      ],
+      [
+        1.6905683279037476,
+        0.6831572651863098,
+        73.50174713134766,
+        115.06034851074219
+      ]
+    ],
+    "labels": [
+      "person",
+      "person"
+    ]
+  },
+  {
+    "scene": "dataset/test/humanoid/nao_nao_base_extra_Upper040517.jpg",
+    "class": "humanoid",
+    "boxes": [
+      [
+        1.8550797700881958,
+        0.2558293044567108,
+        69.21797943115234,
+        172.52395629882812
+      ]
+    ],
+    "labels": [
+      "person"
+    ]
+  },
+  {
+    "scene": "dataset/test/humanoid/nao_nao_base_extra_Upper047258.jpg",
+    "class": "humanoid",
+    "boxes": [],
+    "labels": []
+  },
+  {
+    "scene": "dataset/test/humanoid/nao_nao_base_Upper013231.jpg",
+    "class": "humanoid",
+    "boxes": [],
+    "labels": []
+  },
+  {
+    "scene": "dataset/test/humanoid/nao_nao_base_Upper013595.jpg",
+    "class": "humanoid",
+    "boxes": [
+      [
+        5.2395429611206055,
+        1.1120177507400513,
+        81.56684875488281,
+        147.31536865234375
+      ]
+    ],
+    "labels": [
+      "person"
+    ]
+  },
+  {
+    "scene": "dataset/test/humanoid/nao_nao_base_Upper016512.jpg",
+    "class": "humanoid",
+    "boxes": [],
+    "labels": []
+  },
+  {
+    "scene": "dataset/test/humanoid/nao_nao_base_Upper016877.jpg",
+    "class": "humanoid",
+    "boxes": [],
+    "labels": []
+  },
+  {
+    "scene": "dataset/test/humanoid/nao_nao_base_Upper017059.jpg",
+    "class": "humanoid",
+    "boxes": [
+      [
+        32.47306442260742,
+        0.0193023681640625,
+        50.68144226074219,
+        59.81964111328125
+      ],
+      [
+        12.287236213684082,
+        3.2544381618499756,
+        37.522315979003906,
+        53.473304748535156
+      ]
+    ],
+    "labels": [
+      "person",
+      "person"
+    ]
+  },
+  {
+    "scene": "dataset/test/humanoid/nao_nao_base_Upper019063.jpg",
+    "class": "humanoid",
+    "boxes": [],
+    "labels": []
+  },
+  {
+    "scene": "dataset/test/humanoid/nao_nao_base_Upper029278.jpg",
+    "class": "humanoid",
+    "boxes": [
+      [
+        9.346407890319824,
+        2.829617738723755,
+        91.05266571044922,
+        185.9366455078125
+      ]
+    ],
+    "labels": [
+      "motorcycle"
+    ]
+  },
+  {
+    "scene": "dataset/test/humanoid/nao_nao_base_Upper042585.jpg",
+    "class": "humanoid",
+    "boxes": [],
+    "labels": []
+  },
+  {
+    "scene": "dataset/test/humanoid/nao_nao_base_Upper044044.jpg",
+    "class": "humanoid",
+    "boxes": [],
+    "labels": []
+  }
+]

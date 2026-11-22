@@ -1,0 +1,1402 @@
+[
+  {
+    "file": "dataset/train/human/PennPed00001.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "c90af45f1e29ad3b4dcab13551ed7d26f5bc7e35f12907f79469ac6714e9da94"
+  },
+  {
+    "file": "dataset/train/human/FudanPed00073.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "dcce270c15ff5f3aabbe30cd15bb71c5c794494ad56fbf49be88045d6b284657"
+  },
+  {
+    "file": "dataset/train/human/PennPed00079.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "9660daa8c7dcb816fd8e61db347ca14f4a70f4cc34f5e8e07cc38ae539a9ea1b"
+  },
+  {
+    "file": "dataset/train/human/FudanPed00019.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "95b0406612cd4e8ad28200d0f3d00c97bc71b0e90ca03bea1dbc34ec362aa5e7"
+  },
+  {
+    "file": "dataset/train/human/PennPed00038.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "0805e5a01ec02d777190e5c0924d1a78a3d619eb7b9f9a2f47abbf8f858bcc42"
+  },
+  {
+    "file": "dataset/train/human/PennPed00012.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "4f22a9e5d708bd17ee68ca7ffcd7e4630ad94fee53ea95b65d9664ae7489e0c0"
+  },
+  {
+    "file": "dataset/train/human/FudanPed00003.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "b03d3033f65a03c20476479d2ae76cf8d3156550da005e92fb101dcd413ec75f"
+  },
+  {
+    "file": "dataset/train/human/PennPed00052.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "013d6f5301dba88f4d9d678a9b46237458f96476fbe42f682d0b01d2c4ec9eaa"
+  },
+  {
+    "file": "dataset/train/human/FudanPed00031.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "07895e88c4b37891f1e10581deef07760649ef806b7e50943b85920ba8e6ac05"
+  },
+  {
+    "file": "dataset/train/human/PennPed00062.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "0449c9cb5c5eea2c97d05bd234be1c6fd8a2a10af73b42ff2b5b6d0fb2d2ef1f"
+  },
+  {
+    "file": "dataset/train/human/PennPed00055.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "0551ece0620b8b61d01dc34b35805d1ed211d6a3beb15e22652c4beca392eaae"
+  },
+  {
+    "file": "dataset/train/human/FudanPed00020.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "bc12e150a972308d87356e57f5e0aea246b18c4dd99826a581729a5e8686b6a2"
+  },
+  {
+    "file": "dataset/train/human/PennPed00022.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "23897c9466e2a7b13206aeb0e188fd972b3cee624c4c90dce472f1c46af1c996"
+  },
+  {
+    "file": "dataset/train/human/PennPed00023.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "03543084adb0b7c14a7d3feef842d164c5e57e7c9cd8968a39f6060310d10bf5"
+  },
+  {
+    "file": "dataset/train/human/PennPed00054.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "b03a8189a12bc13f983853e86a5b547d3ef4d199a3fa6f811245081cc439ab07"
+  },
+  {
+    "file": "dataset/train/human/PennPed00004.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "40fd028872365a0f41f3a0680075756c315879462e56e014e5bdc1f7d570087b"
+  },
+  {
+    "file": "dataset/train/human/PennPed00009.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "a215fd244836296ba7b35a1645fee4328f7d4444bc72eba11ca669cd0a902dba"
+  },
+  {
+    "file": "dataset/train/human/PennPed00080.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "e42c0af77ed57ad7da64bede5a7e821e81cdea523c77e60cf1a9ecf0db5900f9"
+  },
+  {
+    "file": "dataset/train/human/PennPed00060.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "939cd2ab0d63c3cb15bd1155071fe4e117140172893156e6b8b9c05a0c4a1cb8"
+  },
+  {
+    "file": "dataset/train/human/FudanPed00065.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "8b5c5678f49a6bfba25bf0c34c055fb6d063b91410dac1f50da9f99da0c41ed4"
+  },
+  {
+    "file": "dataset/train/human/FudanPed00053.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "d13b3932c3fad5cd25385e881fb1a119cb269dde8a3e8693f47482ca26f6337b"
+  },
+  {
+    "file": "dataset/train/human/FudanPed00039.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "7eeae79042f8f00c22658834e0d177eb0c9dd5ea1019cbde3dd4c5083786cb59"
+  },
+  {
+    "file": "dataset/train/human/FudanPed00055.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "60e5a523651902372f1f3789374a0c555eee1e7eff4430610d03b9da1916a6c2"
+  },
+  {
+    "file": "dataset/train/human/PennPed00091.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "960c780e4f43ce92f18b5ac741aee582bf949cd63e3142b6955a5464e49f794a"
+  },
+  {
+    "file": "dataset/train/human/PennPed00064.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "4dfb95e5d231c6c9ccd16b94eebbe1d3de80d0c89d3c07f935ef3b49174f9d6a"
+  },
+  {
+    "file": "dataset/train/human/PennPed00010.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "1269fc6c4ebd9ad51953de3e6a1a3c3f8735138d3c5b4e29598b0357a5d3e688"
+  },
+  {
+    "file": "dataset/train/human/PennPed00068.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "b014e256a71271a51f8ae14cdad1c6aa07f19163e415789edb22838c05fcbaa7"
+  },
+  {
+    "file": "dataset/train/human/FudanPed00046.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "0a7834abaf3f28bb667792058f220caaeb91a38b64302edb38dd0bdc3be4f80a"
+  },
+  {
+    "file": "dataset/train/human/PennPed00074.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "f808c322abdcf6689739eae3569fd50b175104156b459f178869071058bc53a7"
+  },
+  {
+    "file": "dataset/train/human/FudanPed00059.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "09bcb2197283c232b6e8e107b05c388d3fecec7d21dc33d7195e9c2fc75ffb3b"
+  },
+  {
+    "file": "dataset/train/human/FudanPed00018.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "503db5cbf8a4d2f68e7a191656320163a74b0d0a7e7a0de0bc7645c7330379e6"
+  },
+  {
+    "file": "dataset/train/human/PennPed00008.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "433fa62d3a10e13578292a7c3a2c1f0615361488138a9b2daccab7cfbe1d2645"
+  },
+  {
+    "file": "dataset/train/human/PennPed00028.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "3e782b04ee66983b2ee1e4d0848cf6ef44d7923217515634415345e0b1685520"
+  },
+  {
+    "file": "dataset/train/human/PennPed00032.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "43373527ea5a5c54ebff583e48f4469bb5a96f772809b9f871a7f8404df633c0"
+  },
+  {
+    "file": "dataset/train/human/PennPed00057.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "7fa9f32b67b00a9e03bf1c50bb98a53deaf567294713053c355aed36f70a8dd4"
+  },
+  {
+    "file": "dataset/train/human/PennPed00003.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "4e4043c81ffc66afa3c18745af39c29fff5237c3c635bc4e84d912ce7918dcbb"
+  },
+  {
+    "file": "dataset/train/human/PennPed00095.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "a61e2030a7f644689b0508d64f112fb254141e986169b8322bab9954d71bcbf7"
+  },
+  {
+    "file": "dataset/train/human/PennPed00019.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "8f9c7e9ce94bd961e2bfa5e93543ad72cedff776f575bea6198681fa1de27d32"
+  },
+  {
+    "file": "dataset/train/human/PennPed00072.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "4839f8ddd782becdddb4f778d018211392cfbe3c588a0d98e322d639be767f98"
+  },
+  {
+    "file": "dataset/train/human/FudanPed00022.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "90b0d600f87345555e4264e55137389ddb8a75e847b1828d13e31de5f812c45e"
+  },
+  {
+    "file": "dataset/train/human/FudanPed00064.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "b0c82705386da139d8de4a67f0c20d7d59bc0f8d6d8cea052db3b791b8399c07"
+  },
+  {
+    "file": "dataset/train/human/FudanPed00043.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "af2dfd6ca0e27005d25d563b27b9a44229b7da7be1be2c766b22eb7c016ddd59"
+  },
+  {
+    "file": "dataset/train/human/FudanPed00067.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "1763f4b22c509622b254bd6af3203e78b92e8dee2573e1dff3afc8d7dcd28e16"
+  },
+  {
+    "file": "dataset/train/human/FudanPed00070.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "809c783d024a72ae376aac182f4725c53be69141753eac6913040daf42b97e17"
+  },
+  {
+    "file": "dataset/train/human/FudanPed00034.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "fd3a874d822f03357cd213696f583bf990d50ee7a68463e5118c3b7a9b60d666"
+  },
+  {
+    "file": "dataset/train/human/PennPed00039.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "87daf6faa2c8d4aa76be2aedfc4fad9b1dd3f0edc9085115545f1f8251e4cb6a"
+  },
+  {
+    "file": "dataset/train/human/PennPed00030.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "db74f21928363ebe24e4a527da6f915f0e7eab59383802d5b18f6c39fbdd8a66"
+  },
+  {
+    "file": "dataset/train/human/PennPed00029.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "1de4928a9f5b8ea02ff7c540e28b715a3aef2b9f347ce7ec444fa4f9f5e3a388"
+  },
+  {
+    "file": "dataset/train/human/FudanPed00017.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "dbd67282eb910f4b5ef412e1a8255fc83cf40044ea0d4dff7c12c09c231eeb66"
+  },
+  {
+    "file": "dataset/train/human/FudanPed00061.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "2bf5b3ea03d46520f7c789ae0d2cf6da5b131da921ab242e58c7e572e9b5ffbf"
+  },
+  {
+    "file": "dataset/train/human/PennPed00096.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "20613cb2aa60f654950c3275657f2892968f6e8b96cc13ad1fdf64a596976d46"
+  },
+  {
+    "file": "dataset/train/human/PennPed00005.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "aef0bab472bac61c91e11afbfe264f950e1b7b495c031be80b61d32eb477008b"
+  },
+  {
+    "file": "dataset/train/human/FudanPed00004.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "6fe1dd2796d013a02c7ca19d4907b6463015769ff9b43ba5641ab924dbbd53eb"
+  },
+  {
+    "file": "dataset/train/human/PennPed00016.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "1e630cb99cb76f9b9763a964ecebdcbcab55a10d23ccfba27dac2aef388c7137"
+  },
+  {
+    "file": "dataset/train/human/FudanPed00032.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "ba975b6872be7e71a450a23551d214e851fe6c2a67174a852225e0f64c07c6d9"
+  },
+  {
+    "file": "dataset/train/human/FudanPed00066.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "f967300ad1b6f62ae29d1dc5779b8f089ba36744435d1092c7bac71e6808fc1e"
+  },
+  {
+    "file": "dataset/train/human/PennPed00027.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "24ff119f34cdee0759782417cc2ef0d65fb194d4bc36f424bb9e6d73b94243ac"
+  },
+  {
+    "file": "dataset/train/human/PennPed00043.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "4cefcab118e2f17ad5391b6ec65ad9939fa346fec78566b2b0d12c944d83283c"
+  },
+  {
+    "file": "dataset/train/human/FudanPed00042.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "257169d70d4b46d3ecc64bdc7287af287ed43bdeec48e1ae95e17506e63548bb"
+  },
+  {
+    "file": "dataset/train/human/PennPed00031.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "9aed5638ae8ecebee8f2a6919a3c8f5b5f9975b9bf0c6f09550d08adc9e064b1"
+  },
+  {
+    "file": "dataset/train/human/FudanPed00044.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "2037dca40073cecf99494127133a7beefbc29f54c97f02b876bc2fffabc6ce8f"
+  },
+  {
+    "file": "dataset/train/human/FudanPed00014.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "462eff93c4c491fb20e1e01e5949dcc27b93d6421507a6454356578040c73ce6"
+  },
+  {
+    "file": "dataset/train/human/FudanPed00015.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "4cc05505e799e564dbf025cccbeb36698ac959d9f743bb383574e76f1c0d0619"
+  },
+  {
+    "file": "dataset/train/human/PennPed00042.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "e709c41872b490b3cc2120b9251b8bad29c3f0d47e7b928dc98a292191688ec6"
+  },
+  {
+    "file": "dataset/train/human/PennPed00067.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "659ff0d99f355f25539a5feea89f6e8a450e92d9f4d74c28ae17506ae5e114c4"
+  },
+  {
+    "file": "dataset/train/human/FudanPed00035.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "84b4674f7e64c7a857a8ef2e9ff960cee65e375691c1a1e7e688b020ba019e19"
+  },
+  {
+    "file": "dataset/train/human/PennPed00063.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "f98c75b5d6016c37f9c0ba0be1391dec96535fc909525902c95d3dd5d97dbc78"
+  },
+  {
+    "file": "dataset/train/human/PennPed00002.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "f592a20cdb786a09d1ee2ba8fcfed7adb80fc9d9ff40069f75400b7dcd94f55c"
+  },
+  {
+    "file": "dataset/train/human/PennPed00077.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "a3da377ff6246bf54759e029727681b8496d4d1554212c54a75b76469ded1a12"
+  },
+  {
+    "file": "dataset/train/human/FudanPed00037.jpg",
+    "split": "train",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "25b65868cf25c4279bcf9550567023f4a44cd349930ddc119fdd3f83f2ed3d0c"
+  },
+  {
+    "file": "dataset/validation/human/FudanPed00001.jpg",
+    "split": "validation",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "130e9f9121b88ab69105f1685ce17625e97d0ef590adb9b9f076f62fc08b3343"
+  },
+  {
+    "file": "dataset/validation/human/PennPed00087.jpg",
+    "split": "validation",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "6a9c5effaef71340335c2aa16bc0af5424e93e845714236b4351202bcbfc2cd0"
+  },
+  {
+    "file": "dataset/validation/human/PennPed00026.jpg",
+    "split": "validation",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "d249c2e810a868aada1316d700788aa4394425fd5f11fb8fcef0f816c40bdea1"
+  },
+  {
+    "file": "dataset/validation/human/PennPed00083.jpg",
+    "split": "validation",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "2cd01d7951082b3786a98e5002b89f53af0c3042e9434107a9bb9eba5d801fe6"
+  },
+  {
+    "file": "dataset/validation/human/PennPed00020.jpg",
+    "split": "validation",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "b7f7a5852ab701016f618f855b44634588fb90258186a086d21981a0768b0b26"
+  },
+  {
+    "file": "dataset/validation/human/PennPed00076.jpg",
+    "split": "validation",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "666acede5167c5fd2b143aeaf7194f06da2be2dfa0e4e107faa3f720b0a98396"
+  },
+  {
+    "file": "dataset/validation/human/FudanPed00045.jpg",
+    "split": "validation",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "932e97b8d33e3c58c604b850fcb6a9a68fd6998ec92d1dd1a268edac76d6d86c"
+  },
+  {
+    "file": "dataset/validation/human/PennPed00053.jpg",
+    "split": "validation",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "74c46329449d376e1afc11aac5b58d282e356822c6229cdf51208069686c9d03"
+  },
+  {
+    "file": "dataset/validation/human/PennPed00069.jpg",
+    "split": "validation",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "b6577317e926129d8f5c2e0f0cabecd34289f85c0a6c28ff2abd4bacf170acc9"
+  },
+  {
+    "file": "dataset/validation/human/PennPed00061.jpg",
+    "split": "validation",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "20b064554baedefdd2ccdf058047df35b432013adc2e4c89f6374dc12ae3796f"
+  },
+  {
+    "file": "dataset/validation/human/PennPed00036.jpg",
+    "split": "validation",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "a12b365a9cbd818ec307873a5bfa044f4d667cda6248706ae420d6353ab8147b"
+  },
+  {
+    "file": "dataset/validation/human/FudanPed00052.jpg",
+    "split": "validation",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "afe9b8fc9bf30d6dad10103565c1d899b36bc42d000bfa5206d9d0d17f5079dd"
+  },
+  {
+    "file": "dataset/validation/human/FudanPed00048.jpg",
+    "split": "validation",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "805008af783d085a18edf81b3ba02d460844717ebba21058b4fd87aa9ebdf01f"
+  },
+  {
+    "file": "dataset/validation/human/PennPed00075.jpg",
+    "split": "validation",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "3b06ac8106fd832fb473e98f06033e80dce34b298a2dd31890b2cece5429b318"
+  },
+  {
+    "file": "dataset/validation/human/PennPed00092.jpg",
+    "split": "validation",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "ffa7730b89a87a352e616af579c1cdf06035a8d003e8c1a739760e63cb9905fa"
+  },
+  {
+    "file": "dataset/test/human/FudanPed00010.jpg",
+    "split": "test",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "651f9c4ce9ab056f3ce94c2b1159218a385ab45f33bc124ab2e5d29115dd0315"
+  },
+  {
+    "file": "dataset/test/human/PennPed00021.jpg",
+    "split": "test",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "b2f9df0c5a67504ed9bed82191f76cfd349ad2dfc5510e2616e6ba181dde36b2"
+  },
+  {
+    "file": "dataset/test/human/PennPed00058.jpg",
+    "split": "test",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "02acf9b54c5721283950f204446dd3030967ab48c3c826deeceb45e224e1e60f"
+  },
+  {
+    "file": "dataset/test/human/FudanPed00021.jpg",
+    "split": "test",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "f77febed0b58c93b7d17c1d75b41b79008bc9fc119b455d3a5e0716093456802"
+  },
+  {
+    "file": "dataset/test/human/PennPed00047.jpg",
+    "split": "test",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "8a9d95ccdbd17346683f0eedf325f7b71277251ef31601fffc95d073624a220f"
+  },
+  {
+    "file": "dataset/test/human/PennPed00073.jpg",
+    "split": "test",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "d594713b8c8d17d69574b454a9e0172cf5735c40375c75f1207ea9254162b184"
+  },
+  {
+    "file": "dataset/test/human/FudanPed00026.jpg",
+    "split": "test",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "7a108cfe65ba5c2c89ea0400095685811854d78c618a39cd6298d183666c8780"
+  },
+  {
+    "file": "dataset/test/human/FudanPed00033.jpg",
+    "split": "test",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "3257fc93e746e2258ff273e4110c3ab0ce1f5867f472a69acf536f585f9f4509"
+  },
+  {
+    "file": "dataset/test/human/FudanPed00050.jpg",
+    "split": "test",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "b90c782e296230b266965aab2ef22d4557c4463b96400c4341f459cc2207ca21"
+  },
+  {
+    "file": "dataset/test/human/FudanPed00054.jpg",
+    "split": "test",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "15e193741fa3e38f197f97cdddc8efe0762620c19bb696731f829a7ce25c50fa"
+  },
+  {
+    "file": "dataset/test/human/FudanPed00062.jpg",
+    "split": "test",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "afbff4b1411263f3df756bd3ad938d415c865dad7b683e789960206031d0114c"
+  },
+  {
+    "file": "dataset/test/human/PennPed00086.jpg",
+    "split": "test",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "17e40a1f137e9ee1e5c577111cebd3d9bc8db270873af83a250bcfda17589e35"
+  },
+  {
+    "file": "dataset/test/human/FudanPed00005.jpg",
+    "split": "test",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "4de7a665b06b680c715c2d6941611bb372ac0c33d98a09ac1673cbe6af1a66f7"
+  },
+  {
+    "file": "dataset/test/human/FudanPed00028.jpg",
+    "split": "test",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "1ec63cb8a132e1a309aee66763940a15c556f91a1fd32a72e4c7ec5b7de009a3"
+  },
+  {
+    "file": "dataset/test/human/PennPed00065.jpg",
+    "split": "test",
+    "class": "human",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/",
+    "sha256": "51bfd97ed3f6286d0d64ae3fc7372aa8873d88c28e6f197930ab006027155dcb"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper047143.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "3fc983c4256dfdd4362409ce96c1b2434147db3e9a0f38a389a5d996d2d7180c"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper045684.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "1a8f78bfed3779ef09c0de9ba67f2a2dfb428a33857862f250f9738c22cae162"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper045254.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "d5d08550f3d3074533305e84618e212f2d4f606e9dad9970e6ddff209e26f004"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper015968.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "8f8a288beccf6eef75d66aefbace6318dfa45b2f00ca935ce0c1c4b08cdffb2c"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper018258.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "dddf6ca701d7c1289fdc01fe66d190412ed808952a72ac728c49c51fc359fa67"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper001646.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "9c7fedd8ee933f24887faaa98c08933772d8ed14cafc2f80efe7f7368a3ace77"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper010862.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "92294bc515ece3c3fbe9721e927350443c71f038818222bd476c0a734132c54d"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper023369.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "3732c02c6244d089aae59383cc4ae2282c9d0b6b94267080b004c6944766aad9"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper017241.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "5b7fc6bbc9dcfa4ecbe2cc2bf06aab8512068e50e49a529205f42199a3e7aff0"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper033593.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "c0bc2fa4a7a28a8186b2bdde0a76f268dbffa6e51f8f991c7979e1843e56c5b7"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper027757.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "60a687d4beaf645bdcd3decdf141a4ec61e840aea261ff82cec94ac12f3ee4d7"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper016330.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "d04197c1443d1ba27bd93ea40893db8d6124b16818eb431d4c2b6c6c99708742"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper007114.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "5179d839a04af0ed85bbcaf8a0dec1919800e946dbc8e50bc4d27817de1e11e5"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper007481.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "acca7eeed4ff97af15480187139b2b0200c5b2262a2be11c3929d48bd2900cab"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper027028.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "51ea2110607839758a27e2b2259abc92a70d30ebe6a96388476a87b584f6b91d"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper048052.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "b5286d68f33d356dd83c6440f1bc1bb7ec2b45b130321f6dcd7aeb02346bb91b"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper048964.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "99cd7233edf6ae3bb57f6e7c789948a86668c5eb86d29afd1170348f387ce393"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper045618.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "5363e13c5beef32a4d12445693b57f4f75fdef70890cbb5d360b587f7f3a794c"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper031949.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "fab119a9324fee0bca9ee505e8cc5d8f5823786f2b37c03623b359ffc57fe2f4"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper044590.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "0d7b291b17c8352d8d64fa3236b83f14b4a403c910519bd6c942899f4e62c082"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper042404.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "4146b68f0a7582daf165b05086da72be8ab243fac25d82fa0d813db837d5521c"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper021980.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "8a2524b82b7ff0388978b14a7d0ba5c05b21df16f43681ac05bbe4715bbc3c21"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper042951.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "551f7cebf3fbbf05fe94da8be6137c4a7ba0f8f44aebdbd9ca8e06951df26d47"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper050361.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "5b15b3bb6dc045da09a210dfc6e21f4b47468ec6ae79aa93dba7f30872efa8e5"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper033959.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "9f3b48793d236b44d7ab0f8aa0e4cb8929c9fee0b800adcf60ab25be9b143f63"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper053702.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "7bece3c924bdcdbd9b19d2dc88169264d3d070f7ca1883fa4687988bd016f31e"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper037784.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "22b7be0762a6bbff0c2a20e0d3f1aa3bfeb7e9e55c2cc3bf059d1c51bee67724"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper025990.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "4095373f663b7b23e968b0161746dfff35a4ac3169782eaa29a5bdf78d98a981"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper041244.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "3233641929a317f362166dc5a092850be026f2a158aa52413526c42071b7392f"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper043134.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "305f396eb1d91f18e169ce6ef64e2608baa86b06937445734349281582fb7b53"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper015601.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "35c5946a87b4fd778d9aeb63fcf1186816d0bedc55b323209924c3ce6c2920a2"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper048417.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "ebbb98c5b40bb372b26744bf7d03be2d89d9a22e2c35e112d5ea00b353191929"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper013133.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "41ff52b31d6d7c10eac678463c45c8abaeabac41e3b566c20bddb11fe08e1fc1"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper015517.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "37fa2b9a30c511736a58163700637c837f952e19347e161fc6efe95d1a364a3e"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper027939.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "b3807ea9ecaade3f58f8722b825246cc3f770e696aa4622fa0f674969adc46d2"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper047871.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "af805930877ffc9d94d0d4913c4c250c57fa3f33018e9f7b29a1dfd5bbd58969"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper052002.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "4757dea0c9b4acad1530e1838b24c3f0b2256760c4c345ff61a589ae7aadf907"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper003288.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "351fe489db01b894e9711aac98f8fde12f7ee2d7c4c5ec5339e9bee346ee4afa"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper038695.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "b95a8f534708091a4f485310dd32ae81970919e39f41cb18c233b47d7c7f464b"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper016695.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "42cd43fa82c15812bbd002727b7e5300ffa858269ee55c5f366539e414758f1e"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper044226.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "c8402bd7b84b8662bade45072600762837cc8df5bee202c8c6866d8f89f6797a"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper023255.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "5e3ec7598e9bd42e76603131f2dca8491118343d4d4c34d0b45d9a919d8178dd"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper044955.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "f6eb93e1f846a7d535f86e53397795f67d22f7fbae3a5964fd29a33c5f64320c"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper045502.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "8a41678ff4c095069e7b4530654ab275bccd0773060e21cefd34b16585008e21"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper019429.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "32f45201327d3f8d537cc6928d04fe874847fe5f375f12417d732d5de6611a34"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper018441.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "5148f09651d7d1165f5c767bd528cda40bb346147e42ce11b1daa402851c2ae3"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper014236.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "b8c5acf053e24e4a02dd85c4a6f1fe5ee98b117c59c0d07c9b39723ff22b9813"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper013499.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "b06c61ffcb61b9c693dd92486133f9a8df70cfc63f2e4a478939e2ed7d75025f"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper015054.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "0dbd415c94b79c63ed25231b0b65a538bfe37ea87407bec2cde56c20cfd2504e"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper043679.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "a30e7e9a2f603b5f8afc4be4aa1abe11ce9076506c43cbc044bcc5d1563e06b2"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper052549.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "497eaa44fd42d457c1ee7274409d03b071f40bf2e68d7e87973a9cdb4a9bdfe1"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper048235.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "24272d08fcf0ffcc567fd4e16c7102a02c6326405c20ce0bd651e3207fa8b9ff"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper013048.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "8f6f8206ab001a7af2b977cc8d682d6d051f63f12d7031475e81aac3ed7b5f14"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper003104.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "db808d4ae69b45af7a28ec38201b42a1e6b2deb19a143c96d12a727b2e4c0bdc"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper018152.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "7b34dc65aa514d5d2d7ed30455dc2b3c4c520ca7ff5c746b12237c5ecb40aeb1"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper044774.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "012937875fe071a2f1ba6ae56eb35c6a4d775d30bb0711be5f32a2a8c3bb53cd"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper010219.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "22ba7f7e089f8c72bb195e901bc2c3c2c671544a14614b9b78b17cc65a670ebb"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper020817.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "05322efcc87b5f981d4792ffd1b481d6fa47f816ea2111aab5df3309c943fd06"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper022162.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "f4b47b733938b23337f50b193b8d251547c42493270b338abc757252af407677"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper014417.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "04926908ba77ab2e2458c366d26d89738e063d71676b64626e649d50707f4f62"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper023620.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "ccbe3cfa5752015b693b5237262da33bf8df292fb8238f914431239f27c75091"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper013960.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "3e84701d2ccc3fa9559f9e347839be0ac3ead61d7e8514033bd7b5b3de551a30"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper014507.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "6bae2d739d095010cf5309b66acdd8a5b03b9503768fa0aca4c9dd984fafaa8c"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper020453.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "85969873cc6c8c28c3a5326e11a1173745499494a7cc4751ac58f350b704361d"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper036690.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "f3db8102663508661ea80893826e2f72d0e9c9c0ca29b93f642c4b043fa0716e"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper020704.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "e38b2e81e6bb13c22996cf25745b91f2d2cc1ad936d1b832d285549324cf4784"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper033778.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "40e35076ca654aa322f951e9669db39bf1b16eac125033e680126ce4721d1582"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper047325.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "50735707de9cf666086e534d070881afac9233c0266e9154fda507685b8f1889"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_extra_Upper044707.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "37c451b5263c11691f84f12bcecf0888cdd64425922dcffe727eab7e6e13fa43"
+  },
+  {
+    "file": "dataset/train/humanoid/nao_nao_base_Upper021069.jpg",
+    "split": "train",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "bd97229d406a868421580bea328181c897298a863d1e9f45754ca31216cf9857"
+  },
+  {
+    "file": "dataset/validation/humanoid/nao_nao_base_Upper010133.jpg",
+    "split": "validation",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "77a52bb3714b5df174bbc03a23e5a34cb89982c78b70042b519df4138367807a"
+  },
+  {
+    "file": "dataset/validation/humanoid/nao_nao_base_extra_Upper049632.jpg",
+    "split": "validation",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "99b95c3ddb712163f56eced33e51508ddae5fb60068eb715741041a4b8daf803"
+  },
+  {
+    "file": "dataset/validation/humanoid/nao_nao_base_extra_Upper007666.jpg",
+    "split": "validation",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "076a81213d653d64109cf89d14eab4120f7bc610572903652f8e61d6122caeb7"
+  },
+  {
+    "file": "dataset/validation/humanoid/nao_nao_base_extra_Upper046164.jpg",
+    "split": "validation",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "477d9b47cad39a8fd6c9ce16791fce9b6fc71a5c68109f34f41938d10cfd33dd"
+  },
+  {
+    "file": "dataset/validation/humanoid/nao_nao_base_extra_Upper003833.jpg",
+    "split": "validation",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "d7d612909033c889c8b2522badb5c0cb89840546f4461ec7afc49e9dd4365bee"
+  },
+  {
+    "file": "dataset/validation/humanoid/nao_nao_base_extra_Upper043977.jpg",
+    "split": "validation",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "91cbbd8067e46fa56afd7c86796934b01195da656cc90d89fb901da738b0f750"
+  },
+  {
+    "file": "dataset/validation/humanoid/nao_nao_base_Upper023802.jpg",
+    "split": "validation",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "a444d274c382e2028af0d7de3fe0f7264a0b429ab02400ab56ec351fa592eb64"
+  },
+  {
+    "file": "dataset/validation/humanoid/nao_nao_base_extra_Upper024470.jpg",
+    "split": "validation",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "a8d0c6ba326d0447f525f6ff6813421b8205ff047cf6faedc3cd4897e39e3ed1"
+  },
+  {
+    "file": "dataset/validation/humanoid/nao_nao_base_extra_Upper038148.jpg",
+    "split": "validation",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "65f399603c06935f2a0e65786483eea8ba3298e1d770076bbb8d4ea5dfe3f260"
+  },
+  {
+    "file": "dataset/validation/humanoid/nao_nao_base_extra_Upper032856.jpg",
+    "split": "validation",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "4b554c2f9afa4b895f963031d74f8777d9e46da3790d65a1041b5813356ac03a"
+  },
+  {
+    "file": "dataset/validation/humanoid/nao_nao_base_extra_Upper016064.jpg",
+    "split": "validation",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "2241356834c871687c21a7d0b9e61d91b58c35dcff10c65bedaac8e58305378f"
+  },
+  {
+    "file": "dataset/validation/humanoid/nao_nao_base_Upper040399.jpg",
+    "split": "validation",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "917aebedfe873a8e6aa5b23f0244b20bb14288e063f431764030ef228bc61cf5"
+  },
+  {
+    "file": "dataset/validation/humanoid/nao_nao_base_Upper029098.jpg",
+    "split": "validation",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "16d8f80307ddf2dbc8b7489e84b5f6a1b750050e52290ca209e8a763a8dc2706"
+  },
+  {
+    "file": "dataset/validation/humanoid/nao_nao_base_extra_Upper042519.jpg",
+    "split": "validation",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "f4b949970b2b443972667770c8c2f820bb4a82a14d1c917f88eac8ad230d423e"
+  },
+  {
+    "file": "dataset/validation/humanoid/nao_nao_base_extra_Upper051273.jpg",
+    "split": "validation",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "eacd35b10afebffbc3a534459fc16e50dfc3a009f716f8aae376ab0df597c20e"
+  },
+  {
+    "file": "dataset/test/humanoid/nao_nao_base_Upper013595.jpg",
+    "split": "test",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "2cf2e7216c216ff2867bf987f9769bfeb68a99d741e4591c8cf46613aa4ff1fa"
+  },
+  {
+    "file": "dataset/test/humanoid/nao_nao_base_extra_Upper006749.jpg",
+    "split": "test",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "e626d9b62071cdd3cdd833fa3689409ab284aa7f0e785473770ce9a416fa6ab0"
+  },
+  {
+    "file": "dataset/test/humanoid/nao_nao_base_extra_Upper031766.jpg",
+    "split": "test",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "1692a50450649bd72d7615d7cb69d44dd18546383b36a1b8e372c75f042ec98d"
+  },
+  {
+    "file": "dataset/test/humanoid/nao_nao_base_Upper016512.jpg",
+    "split": "test",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "ccbd9a3847acde0d750b5f3b442acb3d4f41d69082ceacb92deaac4e30db3278"
+  },
+  {
+    "file": "dataset/test/humanoid/nao_nao_base_extra_Upper021911.jpg",
+    "split": "test",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "69266caee015489a1cf068f8056f34ad1e246adbfd1323dea1d4b81b9cde3e65"
+  },
+  {
+    "file": "dataset/test/humanoid/nao_nao_base_extra_Upper040517.jpg",
+    "split": "test",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "b4d78ca5edcde436c60095bae34afd7b68a74b75561f7794f860a64026caf1e9"
+  },
+  {
+    "file": "dataset/test/humanoid/nao_nao_base_Upper016877.jpg",
+    "split": "test",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "8600f9bb9f64bbd9e620134b907537ddbea325f55827e3b3a694fa59a8ea05b7"
+  },
+  {
+    "file": "dataset/test/humanoid/nao_nao_base_Upper019063.jpg",
+    "split": "test",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "a98ed6c2e9846b47d49b3257c4aa6ee438a282465e10436ce5f246efd61d9d9f"
+  },
+  {
+    "file": "dataset/test/humanoid/nao_nao_base_Upper029278.jpg",
+    "split": "test",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "0804d3140cc3740ee2691ee40d70119dfa75e2898c76288b34750f7a708a4007"
+  },
+  {
+    "file": "dataset/test/humanoid/nao_nao_base_Upper042585.jpg",
+    "split": "test",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "735da1a37c1de97b97e7625322a0efe0a1bca6276e6eb043594fb7255f41a7e9"
+  },
+  {
+    "file": "dataset/test/humanoid/nao_nao_base_Upper044044.jpg",
+    "split": "test",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "520f7f8ae7fe59671cbaf96ec8129d636067b0a264de04965df621d2141ba774"
+  },
+  {
+    "file": "dataset/test/humanoid/nao_nao_base_extra_Upper047258.jpg",
+    "split": "test",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "d3cafa43a28d1f57cd240552021c9ee6f2a5884bd8ac77193f4e6d7bcc00ba71"
+  },
+  {
+    "file": "dataset/test/humanoid/nao_nao_base_Upper013231.jpg",
+    "split": "test",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "47eaaaf147431b1954477a41eafab36e381279dc9c13131e883c5ca7a4d3c219"
+  },
+  {
+    "file": "dataset/test/humanoid/nao_nao_base_Upper017059.jpg",
+    "split": "test",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_OttoVon_2.zip",
+    "sha256": "727dc6e7857a23bce78d048aaf568867242dc9044c443a2769dc7595fc83a17f"
+  },
+  {
+    "file": "dataset/test/humanoid/nao_nao_base_extra_Upper036509.jpg",
+    "split": "test",
+    "class": "humanoid",
+    "source": "https://b-human.informatik.uni-bremen.de/public/datasets/robots/GORE_2023-04-30_B-Human_Nao-Devils_Gott_2.zip",
+    "sha256": "0eee3609416819d7edc55bc936dd2c2f4eb50a2d20bf5c65923c5f0e0ec147c4"
+  }
+]

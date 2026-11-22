@@ -1,0 +1,5 @@
+path: C:\Users\sergei\Desktop\ml\ml\homework\homework9\roboflow_dataset
+train: images/train
+val: images/val
+names:
+  0: humanoid_robot
